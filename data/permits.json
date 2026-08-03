@@ -1,0 +1,167 @@
+[
+ {
+  "trade": "hvac",
+  "trade_category": "HVAC",
+  "permit_year": 2022,
+  "permits": 1401318,
+  "contractors": 68514,
+  "p25_job_value": 3215,
+  "median_job_value": 8010,
+  "p75_job_value": 43097,
+  "p90_job_value": 250941
+ },
+ {
+  "trade": "hvac",
+  "trade_category": "HVAC",
+  "permit_year": 2023,
+  "permits": 1539132,
+  "contractors": 66512,
+  "p25_job_value": 3931,
+  "median_job_value": 9624,
+  "p75_job_value": 53798,
+  "p90_job_value": 305471
+ },
+ {
+  "trade": "hvac",
+  "trade_category": "HVAC",
+  "permit_year": 2024,
+  "permits": 1002157,
+  "contractors": 60530,
+  "p25_job_value": 4269,
+  "median_job_value": 10877,
+  "p75_job_value": 56593,
+  "p90_job_value": 299417
+ },
+ {
+  "trade": "plumbing",
+  "trade_category": "Plumbing",
+  "permit_year": 2022,
+  "permits": 1381080,
+  "contractors": 69703,
+  "p25_job_value": 1679,
+  "median_job_value": 9806,
+  "p75_job_value": 75299,
+  "p90_job_value": 409966
+ },
+ {
+  "trade": "plumbing",
+  "trade_category": "Plumbing",
+  "permit_year": 2023,
+  "permits": 1544703,
+  "contractors": 68480,
+  "p25_job_value": 1822,
+  "median_job_value": 11285,
+  "p75_job_value": 88459,
+  "p90_job_value": 451838
+ },
+ {
+  "trade": "plumbing",
+  "trade_category": "Plumbing",
+  "permit_year": 2024,
+  "permits": 978458,
+  "contractors": 61922,
+  "p25_job_value": 1904,
+  "median_job_value": 11325,
+  "p75_job_value": 88605,
+  "p90_job_value": 453248
+ },
+ {
+  "trade": "electrical",
+  "trade_category": "Electrical",
+  "permit_year": 2022,
+  "permits": 2605462,
+  "contractors": 96996,
+  "p25_job_value": 1011,
+  "median_job_value": 5236,
+  "p75_job_value": 31025,
+  "p90_job_value": 161897
+ },
+ {
+  "trade": "electrical",
+  "trade_category": "Electrical",
+  "permit_year": 2023,
+  "permits": 2771860,
+  "contractors": 94178,
+  "p25_job_value": 1059,
+  "median_job_value": 5791,
+  "p75_job_value": 34990,
+  "p90_job_value": 202791
+ },
+ {
+  "trade": "electrical",
+  "trade_category": "Electrical",
+  "permit_year": 2024,
+  "permits": 1680285,
+  "contractors": 86411,
+  "p25_job_value": 1165,
+  "median_job_value": 6481,
+  "p75_job_value": 39701,
+  "p90_job_value": 217184
+ },
+ {
+  "trade": "roofing",
+  "trade_category": "Roofing",
+  "permit_year": 2022,
+  "permits": 415901,
+  "contractors": 31508,
+  "p25_job_value": 7424,
+  "median_job_value": 18945,
+  "p75_job_value": 78335,
+  "p90_job_value": 346747
+ },
+ {
+  "trade": "roofing",
+  "trade_category": "Roofing",
+  "permit_year": 2023,
+  "permits": 537970,
+  "contractors": 33303,
+  "p25_job_value": 7219,
+  "median_job_value": 17275,
+  "p75_job_value": 83112,
+  "p90_job_value": 331148
+ },
+ {
+  "trade": "roofing",
+  "trade_category": "Roofing",
+  "permit_year": 2024,
+  "permits": 305197,
+  "contractors": 30150,
+  "p25_job_value": 9131,
+  "median_job_value": 28412,
+  "p75_job_value": 113388,
+  "p90_job_value": 370784
+ },
+ {
+  "trade": "fire-life-safety",
+  "trade_category": "Fire Protection",
+  "permit_year": 2022,
+  "permits": 1111370,
+  "contractors": 35217,
+  "p25_job_value": 1847,
+  "median_job_value": 7822,
+  "p75_job_value": 34986,
+  "p90_job_value": 211647
+ },
+ {
+  "trade": "fire-life-safety",
+  "trade_category": "Fire Protection",
+  "permit_year": 2023,
+  "permits": 1192187,
+  "contractors": 38460,
+  "p25_job_value": 2799,
+  "median_job_value": 10280,
+  "p75_job_value": 47286,
+  "p90_job_value": 272105
+ },
+ {
+  "trade": "fire-life-safety",
+  "trade_category": "Fire Protection",
+  "permit_year": 2024,
+  "permits": 757170,
+  "contractors": 36577,
+  "p25_job_value": 3368,
+  "median_job_value": 11986,
+  "p75_job_value": 61875,
+  "p90_job_value": 274895
+ }
+]

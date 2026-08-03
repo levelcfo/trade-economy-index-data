@@ -1,0 +1,39 @@
+{
+  "upload_type": "dataset",
+  "title": "The Trade Economy Index",
+  "description": "US skilled-trade economics for 13 commercial trades, with the source, independent-source count, and confidence tier attached to every figure: labor, market structure, unit economics, cash cycle, AI exposure, geography, and valuation. Aggregate only; no individual company is identified or identifiable, except public companies named with their tickers and cited to SEC filings.",
+  "creators": [
+    {
+      "name": "Yang, Sam",
+      "affiliation": "Level"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "version": "2026.1",
+  "language": "eng",
+  "keywords": [
+    "skilled trades",
+    "construction",
+    "contractor finance",
+    "benchmarks",
+    "HVAC",
+    "plumbing",
+    "electrical",
+    "roofing",
+    "open data",
+    "economics"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://tradesindex.org",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/LevelCFO/trade-economy-index",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    }
+  ]
+}

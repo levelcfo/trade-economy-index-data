@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "The Trade Economy Index"
+abstract: >-
+  US skilled-trade economics for 13 commercial trades: labor, market structure,
+  unit economics, cash cycle, AI exposure, geography, and valuation, with the
+  source, independent-source count, and confidence tier attached to every figure.
+type: dataset
+doi: "10.5281/zenodo.21762674"
+version: "2026.1"
+license: CC-BY-4.0
+url: "https://tradesindex.org"
+repository-code: "https://github.com/levelcfo/trade-economy-index-data"
+keywords:
+  - skilled trades
+  - construction
+  - contractor finance
+  - benchmarks
+  - HVAC
+  - plumbing
+  - electrical
+  - roofing
+authors:
+  - family-names: "Yang"
+    given-names: "Sam"
+    affiliation: "Level"
+  - name: "Level"
+    website: "https://levelcfo.com"

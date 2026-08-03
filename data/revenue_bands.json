@@ -1,0 +1,1682 @@
+[
+ {
+  "trade": "hvac",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "Construction Financial Management Association (CFMA), 2025, https://cfma.org",
+  "confidence": "low",
+  "basis": "Specialty Trades segment average gross profit margin"
+ },
+ {
+  "trade": "hvac",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "dso_days",
+  "value": 83,
+  "source": "Construction Financial Management Association (CFMA), 2024, https://cfma.org",
+  "confidence": "low",
+  "basis": "Average days sales outstanding including retainage for construction contractors"
+ },
+ {
+  "trade": "hvac",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "recurring_rev_pct",
+  "value": 10,
+  "source": "Air Conditioning Contractors of America (ACCA), 2024, https://www.acca.org",
+  "confidence": "low",
+  "basis": "Average maintenance agreement revenue as percentage of total revenue for HVAC contractors"
+ },
+ {
+  "trade": "hvac",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "Construction Financial Management Association (CFMA) 2025 https://cfma.org",
+  "confidence": "low",
+  "basis": "Gross profit margin for Specialty Trades segment from 2025 Construction Financial Benchmarker (FY2024 data)"
+ },
+ {
+  "trade": "hvac",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "dso_days",
+  "value": 45,
+  "source": "Construction Financial Management Association (CFMA) 2024 https://cfma.org",
+  "confidence": "low",
+  "basis": "Average trade AR days sales outstanding for specialty trade contractors"
+ },
+ {
+  "trade": "hvac",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "recurring_rev_pct",
+  "value": 20,
+  "source": "Air Conditioning Contractors of America (ACCA) 2024 https://www.acca.org",
+  "confidence": "med",
+  "basis": "Maintenance agreement / service contract revenue share for established $1M-$5M HVAC contractors"
+ },
+ {
+  "trade": "hvac",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "gross_margin_pct",
+  "value": 45,
+  "source": "Air Conditioning Contractors of America (ACCA) 2024",
+  "confidence": "high",
+  "basis": "Median gross profit margin for HVAC contractors in the $1M to $15M revenue band"
+ },
+ {
+  "trade": "hvac",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "med",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "hvac",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "Construction Financial Management Association (CFMA) 2024 https://www.docjoist.com",
+  "confidence": "med",
+  "basis": "Average Days Sales Outstanding for specialty trade contractors (CFMA FY2023 data)"
+ },
+ {
+  "trade": "hvac",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "recurring_rev_pct",
+  "value": 55,
+  "source": "Air Conditioning Contractors of America (ACCA) 2025 https://www.thetradeagent.com",
+  "confidence": "low",
+  "basis": "Industry-wide share of HVACR total revenue derived from recurring service agreements"
+ },
+ {
+  "trade": "hvac",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "gross_margin_pct",
+  "value": 18,
+  "source": "Construction Financial Management Association (CFMA), 2024, https://www.cfma.org",
+  "confidence": "med",
+  "basis": "Midpoint benchmark (14% to 22%) for commercial mechanical contractors from CFMA Annual Financial Survey"
+ },
+ {
+  "trade": "hvac",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "dso_days",
+  "value": 57,
+  "source": "Construction Financial Management Association (CFMA), 2025, https://www.cfma.org",
+  "confidence": "low",
+  "basis": "Average Days Sales Outstanding for specialty trade contractors (HVAC, electrical, plumbing)"
+ },
+ {
+  "trade": "hvac",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "recurring_rev_pct",
+  "value": 40,
+  "source": "CT Acquisitions, 2026, https://www.ctacquisitions.com",
+  "confidence": "high",
+  "basis": "Benchmark recurring service-agreement revenue share for PE-backed commercial HVAC platform contractors ($20M+ revenue band)"
+ },
+ {
+  "trade": "plumbing",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "Construction Financial Management Association (CFMA) 2024 https://cfma.org",
+  "confidence": "med",
+  "basis": "Gross profit margin percentage for Specialty Trade contractors (NAICS 238220)"
+ },
+ {
+  "trade": "plumbing",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level 2026 https://levelcfo.com",
+  "confidence": "low",
+  "basis": "Median cash collection rate percentage across benchmarked trade contractors"
+ },
+ {
+  "trade": "plumbing",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "Construction Financial Management Association (CFMA) 2024 https://cfma.org",
+  "confidence": "med",
+  "basis": "Days sales outstanding (DSO) average for specialty trade contractors"
+ },
+ {
+  "trade": "plumbing",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "recurring_rev_pct",
+  "value": 15,
+  "source": "Plumbing-Heating-Cooling Contractors Association (PHCC) 2024 https://www.phccweb.org",
+  "confidence": "high",
+  "basis": "Baseline share of total revenue from service and maintenance agreements for small plumbing shops under $1M revenue"
+ },
+ {
+  "trade": "plumbing",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "Construction Financial Management Association (CFMA) 2024 Financial Benchmarker (https://www.cfma.org)",
+  "confidence": "med",
+  "basis": "Average gross profit margin for Specialty Trade contractors (NAICS 238220 Plumbing, Heating, and Air-Conditioning)"
+ },
+ {
+  "trade": "plumbing",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO 2026 Contractor Collection Rate Benchmarks (https://levelcfo.com)",
+  "confidence": "low",
+  "basis": "Median collection rate (cash collected vs billed) across trade and construction contractors"
+ },
+ {
+  "trade": "plumbing",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "dso_days",
+  "value": 57,
+  "source": "CFMA Construction Financial Benchmarker",
+  "confidence": "low",
+  "basis": "Average Days Sales Outstanding for specialty trade contractors including plumbing"
+ },
+ {
+  "trade": "plumbing",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "recurring_rev_pct",
+  "value": 30,
+  "source": "YourExitValue 2026 Plumbing Industry Benchmarks (https://yourexitvalue.com)",
+  "confidence": "low",
+  "basis": "Target recurring service agreement revenue share for established plumbing contractors"
+ },
+ {
+  "trade": "plumbing",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "CFMA 2025 Construction Financial Benchmarker Executive Summary (https://www.cfma.org)",
+  "confidence": "med",
+  "basis": "Specialty trade contractors gross profit margin from CFMA 2025 Financial Benchmarker (2024 fiscal year)"
+ },
+ {
+  "trade": "plumbing",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "low",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "plumbing",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "dso_days",
+  "value": 57,
+  "source": "CFMA Construction Financial Benchmarker",
+  "confidence": "med",
+  "basis": "Days sales outstanding (DSO) for trade contractors including plumbing, HVAC, and electrical"
+ },
+ {
+  "trade": "plumbing",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "recurring_rev_pct",
+  "value": 35,
+  "source": "CT Acquisitions 2026 Commercial Mechanical & Plumbing Study (https://www.ctacquisitions.com)",
+  "confidence": "med",
+  "basis": "Mid-market plumbing and mechanical contractor recurring service agreement revenue share"
+ },
+ {
+  "trade": "plumbing",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "Construction Financial Management Association (CFMA) 2025 https://cfma.org",
+  "confidence": "low",
+  "basis": "Gross profit margin for Specialty Trade contractors (NAICS 238220 Plumbing/HVAC)"
+ },
+ {
+  "trade": "plumbing",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "low",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "plumbing",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "Construction Financial Management Association (CFMA) 2024 https://cfma.org",
+  "confidence": "low",
+  "basis": "Average days sales outstanding (DSO) in accounts receivable for Specialty Trade contractors"
+ },
+ {
+  "trade": "electrical",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "gross_margin_pct",
+  "value": 38.5,
+  "source": "IBISWorld / Lightning Path Partners 2026 https://lightningpathpartners.com/blog/electrical-company-profit-margins",
+  "confidence": "med",
+  "basis": "Residential service electrical contractors in the $500K-$2M revenue tier"
+ },
+ {
+  "trade": "electrical",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "low",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "electrical",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "dso_days",
+  "value": 30,
+  "source": "ClearReceivables 2026 https://clearreceivables.com/dso-benchmarks-by-industry",
+  "confidence": "med",
+  "basis": "Target DSO for residential and small commercial electrical contractors"
+ },
+ {
+  "trade": "electrical",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "recurring_rev_pct",
+  "value": 32.5,
+  "source": "NECA 2026 https://stephsbooks.com/blog/electrical-contractor-profit-margins",
+  "confidence": "low",
+  "basis": "Service and maintenance revenue share for top-performing electrical contractors"
+ },
+ {
+  "trade": "electrical",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "Construction Financial Management Association (CFMA) 2024 https://cfma.org",
+  "confidence": "med",
+  "basis": "Gross profit margin for Specialty Trade contractors (NAICS 238210/238220) in the under $10M revenue tier"
+ },
+ {
+  "trade": "electrical",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "low",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "electrical",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "Construction Financial Management Association (CFMA) 2024 https://cfma.org",
+  "confidence": "med",
+  "basis": "Average Days Sales Outstanding (DSO) for Specialty Trade contractors"
+ },
+ {
+  "trade": "electrical",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "recurring_rev_pct",
+  "value": 20,
+  "source": "Cascade Partners 2025 https://cascade-partners.com",
+  "confidence": "low",
+  "basis": "Estimated baseline recurring maintenance and service agreement revenue share for small electrical contractors"
+ },
+ {
+  "trade": "electrical",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "Construction Financial Management Association (CFMA) 2024 https://cfma.org",
+  "confidence": "med",
+  "basis": "Gross profit margin for Specialty Trade contractors (NAICS 238210 Electrical Contractors)"
+ },
+ {
+  "trade": "electrical",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "med",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "electrical",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "dso_days",
+  "value": 52,
+  "source": "Construction Financial Management Association (CFMA) 2024 https://cfma.org",
+  "confidence": "med",
+  "basis": "Average Days Sales Outstanding (DSO) for specialty trade electrical contractors"
+ },
+ {
+  "trade": "electrical",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "recurring_rev_pct",
+  "value": 14,
+  "source": "National Electrical Contractors Association (NECA) 2024 https://www.necanet.org",
+  "confidence": "med",
+  "basis": "Share of total revenue from commercial maintenance agreements and service contracts"
+ },
+ {
+  "trade": "electrical",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "gross_margin_pct",
+  "value": 21.8,
+  "source": "Construction Financial Management Association (CFMA), 2024, https://cfma.org/articles/cfma-s-2-24-construction-financial-benchmarker-executive-summary",
+  "confidence": "high",
+  "basis": "Gross profit margin percentage for Best in Class Specialty Trade contractors"
+ },
+ {
+  "trade": "electrical",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "dso_days",
+  "value": 76,
+  "source": "National Electrical Contractors Association (NECA), 2023, https://www.ecmag.com",
+  "confidence": "high",
+  "basis": "Average collection cycle (DSO) in days for electrical contractors in the >$20M revenue tier"
+ },
+ {
+  "trade": "electrical",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "recurring_rev_pct",
+  "value": 25,
+  "source": "Cascade Partners, 2025, https://cascade-partners.com",
+  "confidence": "med",
+  "basis": "Benchmark recurring service and maintenance agreement revenue share of total revenue"
+ },
+ {
+  "trade": "roofing",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "gross_margin_pct",
+  "value": 31.5,
+  "source": "National Roofing Contractors Association 2025 https://www.nrca.net",
+  "confidence": "high",
+  "basis": "Midpoint of median gross margin band (28%-35%) for small residential replacement roofing contractors"
+ },
+ {
+  "trade": "roofing",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "Construction Financial Management Association 2024 https://www.cfma.org",
+  "confidence": "low",
+  "basis": "Average days sales outstanding across specialty trade contractors"
+ },
+ {
+  "trade": "roofing",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "recurring_rev_pct",
+  "value": 10,
+  "source": "BizMetricsHQ 2025 https://bizmetricshq.com",
+  "confidence": "med",
+  "basis": "Midpoint of maintenance and service agreement revenue share (5%-15%) for owner-operated roofing contractors"
+ },
+ {
+  "trade": "roofing",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "gross_margin_pct",
+  "value": 28,
+  "source": "Construction Financial Management Association (CFMA) 2024 Construction Financial Benchmarker, https://cfma.org",
+  "confidence": "med",
+  "basis": "Median gross profit margin for roofing specialty trade contractors"
+ },
+ {
+  "trade": "roofing",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "low",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "roofing",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "Construction Financial Management Association (CFMA) 2024 Construction Financial Benchmarker, https://cfma.org",
+  "confidence": "low",
+  "basis": "Average days sales outstanding across construction and specialty trade contractors"
+ },
+ {
+  "trade": "roofing",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "recurring_rev_pct",
+  "value": 5,
+  "source": "BizMetricsHQ 2026 Roofing Contractor Financial Benchmarks, https://bizmetricshq.com",
+  "confidence": "high",
+  "basis": "Share of total revenue from maintenance agreements and service contracts for $1M-$5M roofing contractors"
+ },
+ {
+  "trade": "roofing",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "low",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "roofing",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "dso_days",
+  "value": 55.2,
+  "source": "CFMA Construction Financial Benchmarker (2025) https://cfma.org",
+  "confidence": "low",
+  "basis": "Average days in accounts receivable (DSO) for Specialty Trade contractors"
+ },
+ {
+  "trade": "roofing",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "gross_margin_pct",
+  "value": 25,
+  "source": "IBISWorld 2025 Roofing Contractors Industry Analysis via IL Roofing Institute (https://ilroofinginstitute.com)",
+  "confidence": "high",
+  "basis": "Average gross profit margin for commercial roofing contractor projects"
+ },
+ {
+  "trade": "roofing",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "low",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "roofing",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "CFMA 2024 Construction Financial Benchmarker via DocJoist (https://docjoist.com)",
+  "confidence": "med",
+  "basis": "Average days sales outstanding for specialty construction contractors"
+ },
+ {
+  "trade": "roofing",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "recurring_rev_pct",
+  "value": 20,
+  "source": "Auctus Capital 2026 Commercial Roofing Valuation Analysis (https://auctuscapitalinc.com)",
+  "confidence": "high",
+  "basis": "Share of total revenue from recurring maintenance and service agreements in commercial roofing platforms"
+ },
+ {
+  "trade": "glass-glazing",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "Construction Financial Management Association 2024 https://cfma.org",
+  "confidence": "low",
+  "basis": "CFMA benchmark gross profit margin for Specialty Trade Contractors (NAICS 238)"
+ },
+ {
+  "trade": "glass-glazing",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level 2026 https://levelcfo.com",
+  "confidence": "low",
+  "basis": "Median collection rate (cash collected as % of amounts billed) across surveyed contractors"
+ },
+ {
+  "trade": "glass-glazing",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "Construction Financial Management Association 2024 https://cfma.org",
+  "confidence": "low",
+  "basis": "CFMA industry-wide average days sales outstanding for construction contractors"
+ },
+ {
+  "trade": "glass-glazing",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "gross_margin_pct",
+  "value": 17.5,
+  "source": "CFMA / Siana Marketing 2026 https://sianamarketing.com",
+  "confidence": "high",
+  "basis": "Midpoint of 15% to 20% gross profit margin range for small contractors under $5M annual revenue"
+ },
+ {
+  "trade": "glass-glazing",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "CFMA 2024 Construction Financial Benchmarker https://cfma.org",
+  "confidence": "med",
+  "basis": "Average Days Sales Outstanding (DSO) for specialty trade construction contractors"
+ },
+ {
+  "trade": "glass-glazing",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "Construction Financial Management Association (CFMA) 2025, https://cfma.org/benchmarker",
+  "confidence": "med",
+  "basis": "CFMA 2025 Construction Financial Benchmarker Specialty Trades segment average gross margin"
+ },
+ {
+  "trade": "glass-glazing",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "dso_days",
+  "value": 60,
+  "source": "Construction Financial Management Association (CFMA) 2024, https://cfma.org/benchmarker",
+  "confidence": "med",
+  "basis": "CFMA specialty trade contractor average Days Sales Outstanding benchmark"
+ },
+ {
+  "trade": "glass-glazing",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "gross_margin_pct",
+  "value": 20,
+  "source": "Construction Financial Management Association (CFMA) 2024, https://cfma.org/articles/cfma-s-2-24-construction-financial-benchmarker-executive-summary",
+  "confidence": "med",
+  "basis": "Average gross profit margin for Specialty Trade Contractors from CFMA Financial Benchmarker"
+ },
+ {
+  "trade": "glass-glazing",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "low",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "glass-glazing",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "dso_days",
+  "value": 54,
+  "source": "Construction Financial Management Association (CFMA) 2024, https://cfma.org",
+  "confidence": "med",
+  "basis": "Average Days Sales Outstanding (DSO) for Specialty Trade Contractors from CFMA Financial Benchmarker"
+ },
+ {
+  "trade": "doors-access",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "dso_days",
+  "value": 30,
+  "source": "CT Acquisitions 2026 https://ctacquisitions.com",
+  "confidence": "low",
+  "basis": "Standard accounts receivable collection period for garage door service operations"
+ },
+ {
+  "trade": "doors-access",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "recurring_rev_pct",
+  "value": 11,
+  "source": "SDR Ventures 2024 https://ctacquisitions.com",
+  "confidence": "low",
+  "basis": "Median planned maintenance revenue attach rate for garage door contractors"
+ },
+ {
+  "trade": "doors-access",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "CFMA 2024 https://cfma.org",
+  "confidence": "low",
+  "basis": "Specialty Trade contractors gross profit margin industry-wide"
+ },
+ {
+  "trade": "doors-access",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "low",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "doors-access",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "CFMA 2024 https://cfma.org",
+  "confidence": "low",
+  "basis": "Average days in accounts receivable / DSO for construction contractors"
+ },
+ {
+  "trade": "doors-access",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "recurring_rev_pct",
+  "value": 15,
+  "source": "CT Acquisitions 2026 https://ctacquisitions.com",
+  "confidence": "high",
+  "basis": "Commercial overhead door service and maintenance contract revenue share for $5M door contractor"
+ },
+ {
+  "trade": "doors-access",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "Construction Financial Management Association 2024 https://cfma.org",
+  "confidence": "med",
+  "basis": "Gross profit margin for Specialty Trade Contractors in CFMA 2024 Financial Benchmarker"
+ },
+ {
+  "trade": "doors-access",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "low",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "doors-access",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "Construction Financial Management Association 2024 https://cfma.org",
+  "confidence": "med",
+  "basis": "Average Days Sales Outstanding in accounts receivable in CFMA 2024 Financial Benchmarker"
+ },
+ {
+  "trade": "doors-access",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "recurring_rev_pct",
+  "value": 11,
+  "source": "SDR Ventures 2024 https://ctacquisitions.com",
+  "confidence": "high",
+  "basis": "Median recurring planned maintenance revenue share for door and access contractors"
+ },
+ {
+  "trade": "doors-access",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "Construction Financial Management Association (CFMA) 2024 https://cfma.org",
+  "confidence": "med",
+  "basis": "Gross profit margin percentage for Specialty Trade contractors in CFMA 2024 Financial Benchmarker"
+ },
+ {
+  "trade": "doors-access",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "low",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "doors-access",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "Construction Financial Management Association (CFMA) 2024 https://cfma.org",
+  "confidence": "med",
+  "basis": "Average Days Sales Outstanding in accounts receivable for contractors in CFMA 2024 Financial Benchmarker"
+ },
+ {
+  "trade": "doors-access",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "recurring_rev_pct",
+  "value": 11,
+  "source": "SDR Ventures 2024 https://ctacquisitions.com",
+  "confidence": "low",
+  "basis": "Median recurring planned maintenance contract revenue share for door and access system dealers"
+ },
+ {
+  "trade": "landscaping",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "gross_margin_pct",
+  "value": 40,
+  "source": "NALP 2025 Financial Benchmark Report, https://www.landscapeprofessionals.org",
+  "confidence": "high",
+  "basis": "Gross profit as % of revenue for under $1M annual revenue landscaping contractors"
+ },
+ {
+  "trade": "landscaping",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO 2026 Contractor Benchmark Study, https://www.levelcfo.com",
+  "confidence": "low",
+  "basis": "Median cash collected as % of total invoiced revenue across trade contractors"
+ },
+ {
+  "trade": "landscaping",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "CFMA Construction Financial Benchmarker FY 2023, https://www.cfma.org",
+  "confidence": "low",
+  "basis": "Days sales outstanding (DSO) benchmark for Specialty Trade contractors"
+ },
+ {
+  "trade": "landscaping",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "recurring_rev_pct",
+  "value": 75,
+  "source": "Lawn & Landscape 2025 Landscape Industry Report, https://www.lawnandlandscape.com",
+  "confidence": "med",
+  "basis": "Recurring maintenance revenue share for maintenance-focused landscape operators"
+ },
+ {
+  "trade": "landscaping",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "CFMA 2025 https://www.cfma.org",
+  "confidence": "low",
+  "basis": "Gross profit margin for Specialty Trade contractors across all revenue tiers"
+ },
+ {
+  "trade": "landscaping",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "CFMA 2024 https://www.cfma.org",
+  "confidence": "low",
+  "basis": "Average days sales outstanding (DSO) in accounts receivable across construction contractors"
+ },
+ {
+  "trade": "landscaping",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "recurring_rev_pct",
+  "value": 55,
+  "source": "CT Acquisitions 2026 https://www.ctacquisitions.com",
+  "confidence": "med",
+  "basis": "Share of recurring maintenance contract revenue for $1M to $5M landscaping operators"
+ },
+ {
+  "trade": "landscaping",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "gross_margin_pct",
+  "value": 47.5,
+  "source": "National Association of Landscape Professionals 2025 https://www.landscapeprofessionals.org",
+  "confidence": "high",
+  "basis": "Median gross profit margin benchmark range (45-50%) for landscape contractors (median respondent revenue $5.2M)"
+ },
+ {
+  "trade": "landscaping",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "dso_days",
+  "value": 36.5,
+  "source": "National Association of Landscape Professionals 2025 https://www.landscapeprofessionals.org",
+  "confidence": "low",
+  "basis": "Average Days Sales Outstanding range (28-45 days) across landscaping contractors"
+ },
+ {
+  "trade": "landscaping",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "recurring_rev_pct",
+  "value": 60,
+  "source": "National Association of Landscape Professionals 2025 https://www.landscapeprofessionals.org",
+  "confidence": "low",
+  "basis": "Benchmark share of annual revenue derived from recurring maintenance service contracts"
+ },
+ {
+  "trade": "landscaping",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "gross_margin_pct",
+  "value": 47.5,
+  "source": "Construction Financial Management Association (CFMA) 2024 https://cfma.org",
+  "confidence": "low",
+  "basis": "CFMA 2024 Benchmarker gross profit margin range (40-55%) for Landscaping/Hardscaping"
+ },
+ {
+  "trade": "landscaping",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "low",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "landscaping",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "Construction Financial Management Association (CFMA) 2024 https://cfma.org",
+  "confidence": "low",
+  "basis": "CFMA 2024 Benchmarker average Days Sales Outstanding for specialty trade contractors"
+ },
+ {
+  "trade": "landscaping",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "recurring_rev_pct",
+  "value": 60,
+  "source": "National Association of Landscape Professionals (NALP) 2025 https://www.landscapeprofessionals.org",
+  "confidence": "med",
+  "basis": "NALP 2025 benchmark for recurring maintenance revenue share in scaled commercial landscape operations"
+ },
+ {
+  "trade": "commercial-cleaning",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "gross_margin_pct",
+  "value": 50,
+  "source": "BizMetrics HQ 2026",
+  "confidence": "high",
+  "basis": "Gross profit margin (midpoint of 45-55% range) for owner-operated cleaning companies in the $200K-$800K revenue band"
+ },
+ {
+  "trade": "commercial-cleaning",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "collection_rate_pct",
+  "value": 92,
+  "source": "Ledger & Lane 2026 https://ledgerandlane.co/case-studies",
+  "confidence": "med",
+  "basis": "Average cash collection rate on billed receivables within 30 days for small commercial cleaning contractors"
+ },
+ {
+  "trade": "commercial-cleaning",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "dso_days",
+  "value": 52.5,
+  "source": "Level CFO 2026 https://levelcfo.com/benchmarks/cleaning",
+  "confidence": "med",
+  "basis": "Days sales outstanding (midpoint of 45-60 day range) for small-to-midsize commercial janitorial contractors"
+ },
+ {
+  "trade": "commercial-cleaning",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "recurring_rev_pct",
+  "value": 75,
+  "source": "CentsIQ 2024",
+  "confidence": "med",
+  "basis": "Contractual recurring service-agreement revenue share of total revenue for small commercial cleaning operations"
+ },
+ {
+  "trade": "commercial-cleaning",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "CFMA 2025 Construction Financial Benchmarker, https://cfma.org",
+  "confidence": "low",
+  "basis": "Specialty Trade contractors overall gross profit margin (FY2024)"
+ },
+ {
+  "trade": "commercial-cleaning",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "low",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "commercial-cleaning",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "CFMA 2024 Construction Financial Benchmarker, https://cfma.org",
+  "confidence": "low",
+  "basis": "Days sales outstanding (days in accounts receivable) for Specialty Trade contractors"
+ },
+ {
+  "trade": "commercial-cleaning",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "recurring_rev_pct",
+  "value": 80,
+  "source": "BSCAI / CT Acquisitions 2026 Commercial Janitorial Report, https://ctacquisitions.com",
+  "confidence": "high",
+  "basis": "Share of total revenue from recurring monthly service agreements for sub-$2M EBITDA / $1M-$5M revenue commercial janitorial contractors"
+ },
+ {
+  "trade": "commercial-cleaning",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "gross_margin_pct",
+  "value": 35,
+  "source": "BSCAI (Building Service Contractors Association International) 2025 https://www.bscai.org",
+  "confidence": "low",
+  "basis": "Industry-wide median gross profit margin for commercial janitorial contractors"
+ },
+ {
+  "trade": "commercial-cleaning",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "dso_days",
+  "value": 52.5,
+  "source": "Level CFO & BSCAI 2026 https://levelcfo.com/benchmarks/cleaning",
+  "confidence": "low",
+  "basis": "Industry-wide average days sales outstanding for SMB commercial cleaning contractors"
+ },
+ {
+  "trade": "commercial-cleaning",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "recurring_rev_pct",
+  "value": 85,
+  "source": "CT Acquisitions Commercial Cleaning Report 2026 https://ctacquisitions.com",
+  "confidence": "low",
+  "basis": "Industry-wide benchmark share of revenue derived from recurring commercial contracts"
+ },
+ {
+  "trade": "commercial-cleaning",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "CFMA 2025 https://cfma.org",
+  "confidence": "med",
+  "basis": "Gross profit margin for Specialty Trade contractors in 2025 Financial Benchmarker"
+ },
+ {
+  "trade": "commercial-cleaning",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "dso_days",
+  "value": 83,
+  "source": "CFMA 2025 https://cfma.org",
+  "confidence": "med",
+  "basis": "Average days sales outstanding for construction and specialty trade contractors"
+ },
+ {
+  "trade": "commercial-cleaning",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "recurring_rev_pct",
+  "value": 85,
+  "source": "CT Acquisitions 2026 https://ctacquisitions.com",
+  "confidence": "med",
+  "basis": "Contracted recurring commercial revenue share for large/PE-platform commercial janitorial contractors"
+ },
+ {
+  "trade": "painting",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "gross_margin_pct",
+  "value": 32.5,
+  "source": "IBISWorld 2026 https://www.ibisworld.com/united-states/market-research-reports/painting-wall-covering-contractors-industry",
+  "confidence": "high",
+  "basis": "Midpoint of 25%-40% gross margin range for residential painting contractors under $1M revenue"
+ },
+ {
+  "trade": "painting",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "low",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "painting",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "dso_days",
+  "value": 15,
+  "source": "IBISWorld 2026 https://www.ibisworld.com/united-states/market-research-reports/painting-wall-covering-contractors-industry",
+  "confidence": "high",
+  "basis": "Average Days Sales Outstanding for residential painting contractors in the sub-$1M revenue tier"
+ },
+ {
+  "trade": "painting",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "recurring_rev_pct",
+  "value": 5,
+  "source": "CT Acquisitions & Painting Contractors Association 2026 https://ctacquisitions.com/painting-business-valuation",
+  "confidence": "high",
+  "basis": "Contracted recurring and maintenance agreement revenue share for sub-$1M owner-operator painting shops"
+ },
+ {
+  "trade": "painting",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "gross_margin_pct",
+  "value": 17.5,
+  "source": "CFMA 2024 https://cfma.org/articles/cfma-s-2-24-construction-financial-benchmarker-executive-summary",
+  "confidence": "high",
+  "basis": "Average gross profit margin range (15%-20%) for small construction contractors in the under $5M annual revenue tier"
+ },
+ {
+  "trade": "painting",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "CFMA 2024 https://cfma.org/articles/cfma-s-2-24-construction-financial-benchmarker-executive-summary",
+  "confidence": "low",
+  "basis": "Industry-wide average days in accounts receivable (DSO) across construction and specialty trade respondents"
+ },
+ {
+  "trade": "painting",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "CFMA 2025 Construction Financial Benchmarker (https://www.cfma.org)",
+  "confidence": "low",
+  "basis": "Gross profit margin for Specialty Trade contractors (FY 2024)"
+ },
+ {
+  "trade": "painting",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "CFMA 2024 Construction Financial Benchmarker (https://www.cfma.org)",
+  "confidence": "low",
+  "basis": "Average days sales outstanding (accounts receivable aging) across construction contractors"
+ },
+ {
+  "trade": "painting",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "gross_margin_pct",
+  "value": 21.8,
+  "source": "CFMA 2024",
+  "confidence": "low",
+  "basis": "Composite gross profit margin for Best in Class construction and specialty trade contractors"
+ },
+ {
+  "trade": "painting",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "CFMA 2024",
+  "confidence": "low",
+  "basis": "Industry-wide average days in accounts receivable (DSO) across responding contractors"
+ },
+ {
+  "trade": "painting",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "recurring_rev_pct",
+  "value": 30,
+  "source": "Painting Contractors Association 2026",
+  "confidence": "low",
+  "basis": "Benchmark share of recurring HOA and commercial property management contract revenue for scaled painting platforms"
+ },
+ {
+  "trade": "concrete-masonry",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "gross_margin_pct",
+  "value": 16.5,
+  "source": "Construction Financial Management Association (CFMA) 2024 https://www.cfma.org",
+  "confidence": "med",
+  "basis": "Gross profit margin benchmark range (15%-18%) for concrete and masonry contractors"
+ },
+ {
+  "trade": "concrete-masonry",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "dso_days",
+  "value": 45,
+  "source": "Construction Financial Management Association (CFMA) 2024 https://www.cfma.org",
+  "confidence": "med",
+  "basis": "Trade accounts receivable days sales outstanding (excluding retainage) for specialty trade contractors"
+ },
+ {
+  "trade": "concrete-masonry",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "gross_margin_pct",
+  "value": 21.5,
+  "source": "Construction CFO 2026 (https://constructioncfo.net)",
+  "confidence": "high",
+  "basis": "Commercial masonry subcontractors in the $1M to $5M revenue band (21% to 22% gross margin range)"
+ },
+ {
+  "trade": "concrete-masonry",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "CFMA 2024 (https://cfma.org)",
+  "confidence": "low",
+  "basis": "Specialty trade contractors average Days Sales Outstanding (DSO) industry-wide"
+ },
+ {
+  "trade": "concrete-masonry",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "gross_margin_pct",
+  "value": 20,
+  "source": "IBISWorld 2026 https://sianamarketing.com",
+  "confidence": "med",
+  "basis": "Medium contractors ($5M to $25M revenue) gross profit margin range midpoint"
+ },
+ {
+  "trade": "concrete-masonry",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "dso_days",
+  "value": 55.2,
+  "source": "CFMA 2025 https://cfma.org",
+  "confidence": "low",
+  "basis": "Industry-wide average days in accounts receivable"
+ },
+ {
+  "trade": "concrete-masonry",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "CFMA (Construction Financial Management Association), 2025, https://cfma.org",
+  "confidence": "low",
+  "basis": "Gross profit margin for Specialty Trade contractors overall"
+ },
+ {
+  "trade": "concrete-masonry",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "low",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "concrete-masonry",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "CFMA (Construction Financial Management Association), 2024, https://cfma.org",
+  "confidence": "low",
+  "basis": "Average Days Sales Outstanding (DSO) for Specialty Trade contractors"
+ },
+ {
+  "trade": "fire-life-safety",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "gross_margin_pct",
+  "value": 16,
+  "source": "Construction Financial Management Association (CFMA) 2024",
+  "confidence": "low",
+  "basis": "Average gross profit margin for Specialty Trade Contractors overall"
+ },
+ {
+  "trade": "fire-life-safety",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "low",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "fire-life-safety",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "Construction Financial Management Association (CFMA) 2024",
+  "confidence": "low",
+  "basis": "Average days sales outstanding (DSO) for construction contractors"
+ },
+ {
+  "trade": "fire-life-safety",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "recurring_rev_pct",
+  "value": 50,
+  "source": "Breakwater M&A 2025 https://www.breakwaterma.com",
+  "confidence": "low",
+  "basis": "Target recurring revenue mix from inspection, testing, and maintenance contracts for fire protection contractors"
+ },
+ {
+  "trade": "fire-life-safety",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "Construction Financial Management Association (CFMA) 2025 https://cfma.org",
+  "confidence": "low",
+  "basis": "Gross profit margin for Specialty Trade contractors overall"
+ },
+ {
+  "trade": "fire-life-safety",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "collection_rate_pct",
+  "value": 95,
+  "source": "IronGrid 2026 https://irongridapp.com",
+  "confidence": "low",
+  "basis": "Cash collected as percentage of amounts billed for trade contractors"
+ },
+ {
+  "trade": "fire-life-safety",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "dso_days",
+  "value": 55.2,
+  "source": "Construction Financial Management Association (CFMA) 2025 https://cfma.org",
+  "confidence": "low",
+  "basis": "Days in accounts receivable (DSO) across CFMA benchmarked contractors"
+ },
+ {
+  "trade": "fire-life-safety",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "gross_margin_pct",
+  "value": 21.8,
+  "source": "Construction Financial Management Association (CFMA) 2024",
+  "confidence": "med",
+  "basis": "Specialty Trade Contractors top-tier gross profit margin benchmark in CFMA 2024 Benchmarker"
+ },
+ {
+  "trade": "fire-life-safety",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "low",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "fire-life-safety",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "Construction Financial Management Association (CFMA) 2024",
+  "confidence": "med",
+  "basis": "Specialty Trade Contractors average Days Sales Outstanding (DSO) in CFMA 2024 Benchmarker"
+ },
+ {
+  "trade": "fire-life-safety",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "CFMA 2025 Construction Financial Benchmarker (https://www.cfma.org)",
+  "confidence": "med",
+  "basis": "Specialty Trades segment gross profit margin across 1,558 respondents (fiscal 2024 survey data)"
+ },
+ {
+  "trade": "fire-life-safety",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "low",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "fire-life-safety",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "CFMA 2024 Construction Financial Benchmarker (https://www.cfma.org)",
+  "confidence": "med",
+  "basis": "Days sales outstanding (DSO) benchmark for Specialty Trade contractors"
+ },
+ {
+  "trade": "fire-life-safety",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "recurring_rev_pct",
+  "value": 40,
+  "source": "CT Acquisitions 2026 (https://ctacquisitions.com)",
+  "confidence": "med",
+  "basis": "Contracted inspection, testing, and maintenance (ITM) recurring revenue share benchmark for regional fire protection contractors"
+ },
+ {
+  "trade": "low-voltage-security",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "CFMA 2024 Construction Financial Benchmarker https://cfma.org",
+  "confidence": "med",
+  "basis": "Gross profit margin % for Specialty Trade Contractors including NAICS 238210"
+ },
+ {
+  "trade": "low-voltage-security",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "low",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "low-voltage-security",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "CFMA 2024 Construction Financial Benchmarker https://cfma.org",
+  "confidence": "med",
+  "basis": "Average Days Sales Outstanding (DSO) for Specialty Trade Contractors"
+ },
+ {
+  "trade": "low-voltage-security",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "recurring_rev_pct",
+  "value": 2,
+  "source": "NSCA 2024 Financial Analysis of the Industry https://nsca.org",
+  "confidence": "high",
+  "basis": "Recurring service revenue share % for the smallest systems integrator revenue tier (<$1M)"
+ },
+ {
+  "trade": "low-voltage-security",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "gross_margin_pct",
+  "value": 34.2,
+  "source": "National Systems Contractors Association (NSCA), 2025",
+  "confidence": "low",
+  "basis": "Median gross profit margin across commercial low-voltage and systems integration firms"
+ },
+ {
+  "trade": "low-voltage-security",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "dso_days",
+  "value": 58,
+  "source": "Construction Financial Management Association (CFMA), 2022, https://www.cfma.org",
+  "confidence": "low",
+  "basis": "Median days sales outstanding (DSO) across responding construction contractors"
+ },
+ {
+  "trade": "low-voltage-security",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "recurring_rev_pct",
+  "value": 14.2,
+  "source": "National Systems Contractors Association (NSCA), 2025",
+  "confidence": "low",
+  "basis": "Average recurring revenue percentage across commercial integration firms"
+ },
+ {
+  "trade": "low-voltage-security",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "gross_margin_pct",
+  "value": 34.2,
+  "source": "National Systems Contractors Association (NSCA) 2025 https://www.nsca.org",
+  "confidence": "low",
+  "basis": "Median gross profit margin across commercial systems integrators"
+ },
+ {
+  "trade": "low-voltage-security",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "low",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "low-voltage-security",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "Construction Financial Management Association (CFMA) 2024 https://www.cfma.org",
+  "confidence": "med",
+  "basis": "Days sales outstanding for specialty trade contractors"
+ },
+ {
+  "trade": "low-voltage-security",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "recurring_rev_pct",
+  "value": 14.2,
+  "source": "National Systems Contractors Association (NSCA) 2025 https://www.nsca.org",
+  "confidence": "low",
+  "basis": "Average recurring revenue share from service agreements and managed services for systems integrators"
+ },
+ {
+  "trade": "low-voltage-security",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "CFMA 2025 https://cfma.org",
+  "confidence": "low",
+  "basis": "Specialty trade contractors aggregate gross profit margin (2025 Benchmarker)"
+ },
+ {
+  "trade": "low-voltage-security",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "low",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "low-voltage-security",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "CFMA 2025 https://cfma.org",
+  "confidence": "low",
+  "basis": "Specialty trade contractors average days in accounts receivable (2025 Benchmarker)"
+ },
+ {
+  "trade": "low-voltage-security",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "recurring_rev_pct",
+  "value": 51,
+  "source": "SDM Magazine 2026 https://www.sdmmag.com",
+  "confidence": "low",
+  "basis": "Annualized RMR as share of total revenue for SDM 100 security integrators"
+ },
+ {
+  "trade": "restoration",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "gross_margin_pct",
+  "value": 50,
+  "source": "Restoration Industry Association 2024",
+  "confidence": "low",
+  "basis": "Industry-wide average gross profit margin across property restoration contractors"
+ },
+ {
+  "trade": "restoration",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "dso_days",
+  "value": 52.5,
+  "source": "Restoration Industry Association 2024",
+  "confidence": "low",
+  "basis": "Industry-wide average days sales outstanding (45 to 60 days standard benchmark range)"
+ },
+ {
+  "trade": "restoration",
+  "band": "0-1M",
+  "band_label": "under $1M annual revenue (owner-operator / very small shop)",
+  "metric": "recurring_rev_pct",
+  "value": 0,
+  "source": "IBISWorld 2025 https://www.ibisworld.com/united-states/market-research-reports/damage-restoration-services-industry",
+  "confidence": "low",
+  "basis": "Industry-wide share of recurring maintenance/service agreement revenue (transactional/event-based emergency work)"
+ },
+ {
+  "trade": "restoration",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "gross_margin_pct",
+  "value": 50,
+  "source": "Restoration Industry Association 2024",
+  "confidence": "high",
+  "basis": "Average gross profit margin for restoration contractors ($1M-$5.99M revenue tier)"
+ },
+ {
+  "trade": "restoration",
+  "band": "1-5M",
+  "band_label": "$1M to $5M annual revenue (small established contractor)",
+  "metric": "dso_days",
+  "value": 56.6,
+  "source": "Construction Financial Management Association 2024 https://cfma.org",
+  "confidence": "low",
+  "basis": "Industry-average Days Sales Outstanding across construction financial benchmark respondents"
+ },
+ {
+  "trade": "restoration",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "gross_margin_pct",
+  "value": 50,
+  "source": "Restoration Industry Association (RIA) & KnowHow, 2024, https://www.restorationindustry.org",
+  "confidence": "high",
+  "basis": "Average gross profit margin reported across restoration and remediation contractors nationwide"
+ },
+ {
+  "trade": "restoration",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "high",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "restoration",
+  "band": "5-20M",
+  "band_label": "$5M to $20M annual revenue (mid-market, multi-crew)",
+  "metric": "dso_days",
+  "value": 57,
+  "source": "2025, https://www.levelcfo.com",
+  "confidence": "med",
+  "basis": "Average Days Sales Outstanding (DSO) for specialty trade contractors"
+ },
+ {
+  "trade": "restoration",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "gross_margin_pct",
+  "value": 22.4,
+  "source": "Construction Financial Management Association (CFMA) 2024 https://www.cfma.org",
+  "confidence": "low",
+  "basis": "Average gross profit margin for Specialty Trade contractors across all revenue tiers"
+ },
+ {
+  "trade": "restoration",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "collection_rate_pct",
+  "value": 85.1,
+  "source": "Level CFO analysis of 464 contractors, https://levelcfo.com/benchmarks/contractor",
+  "confidence": "low",
+  "basis": "Median cash collected as a percentage of amounts billed, n=464 companies"
+ },
+ {
+  "trade": "restoration",
+  "band": "20M+",
+  "band_label": "over $20M annual revenue (large / regional / PE-backed)",
+  "metric": "dso_days",
+  "value": 58,
+  "source": "Construction Financial Management Association (CFMA) 2022 https://www.cfma.org",
+  "confidence": "low",
+  "basis": "Average days sales outstanding (DSO) for accounts receivable collection across construction contractors"
+ }
+]

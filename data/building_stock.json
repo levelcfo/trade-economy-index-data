@@ -1,0 +1,4802 @@
+[
+ {
+  "state": "AL",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 148427,
+  "avg_sqft": 5644,
+  "median_value": 16602
+ },
+ {
+  "state": "AL",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 101026,
+  "avg_sqft": 3320,
+  "median_value": 70030
+ },
+ {
+  "state": "AL",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 91771,
+  "avg_sqft": 7640,
+  "median_value": 324199
+ },
+ {
+  "state": "AL",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 71046,
+  "avg_sqft": 6557,
+  "median_value": 204841
+ },
+ {
+  "state": "AL",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 44763,
+  "avg_sqft": 9871,
+  "median_value": 497678
+ },
+ {
+  "state": "AL",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 29388,
+  "avg_sqft": 9019,
+  "median_value": 687345
+ },
+ {
+  "state": "AL",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 14464,
+  "avg_sqft": 22705,
+  "median_value": 370512
+ },
+ {
+  "state": "AL",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 10941,
+  "avg_sqft": 23931,
+  "median_value": 282833
+ },
+ {
+  "state": "AL",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 8758,
+  "avg_sqft": 12085,
+  "median_value": 115742
+ },
+ {
+  "state": "AL",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 8371,
+  "avg_sqft": 12379,
+  "median_value": 68480
+ },
+ {
+  "state": "AL",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 7156,
+  "avg_sqft": 29694,
+  "median_value": 483779
+ },
+ {
+  "state": "AL",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 4734,
+  "avg_sqft": 37491,
+  "median_value": 708597
+ },
+ {
+  "state": "AK",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 20658,
+  "avg_sqft": 2577,
+  "median_value": 154123
+ },
+ {
+  "state": "AK",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 10640,
+  "avg_sqft": 10501,
+  "median_value": 429542
+ },
+ {
+  "state": "AK",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 9606,
+  "avg_sqft": 10325,
+  "median_value": 459414
+ },
+ {
+  "state": "AK",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 4991,
+  "avg_sqft": 11137,
+  "median_value": 508485
+ },
+ {
+  "state": "AK",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 4381,
+  "avg_sqft": 9687,
+  "median_value": 510636
+ },
+ {
+  "state": "AK",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 3983,
+  "avg_sqft": 5262,
+  "median_value": 321684
+ },
+ {
+  "state": "AK",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 2870,
+  "avg_sqft": 7203,
+  "median_value": 92855
+ },
+ {
+  "state": "AK",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 2798,
+  "avg_sqft": 10864,
+  "median_value": 772915
+ },
+ {
+  "state": "AK",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 2549,
+  "avg_sqft": 13573,
+  "median_value": 969892
+ },
+ {
+  "state": "AK",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 1456,
+  "avg_sqft": 6318,
+  "median_value": 227300
+ },
+ {
+  "state": "AK",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 1136,
+  "avg_sqft": 8856,
+  "median_value": 582811
+ },
+ {
+  "state": "AK",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 299,
+  "avg_sqft": 9766,
+  "median_value": 624689
+ },
+ {
+  "state": "AZ",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 81950,
+  "avg_sqft": 7568,
+  "median_value": 89051
+ },
+ {
+  "state": "AZ",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 77560,
+  "avg_sqft": 15634,
+  "median_value": 481810
+ },
+ {
+  "state": "AZ",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 66959,
+  "avg_sqft": 16768,
+  "median_value": 491918
+ },
+ {
+  "state": "AZ",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 48878,
+  "avg_sqft": 8049,
+  "median_value": 362657
+ },
+ {
+  "state": "AZ",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 29978,
+  "avg_sqft": 4001,
+  "median_value": 239805
+ },
+ {
+  "state": "AZ",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 22523,
+  "avg_sqft": 20486,
+  "median_value": 941450
+ },
+ {
+  "state": "AZ",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 19472,
+  "avg_sqft": 35025,
+  "median_value": 1400591
+ },
+ {
+  "state": "AZ",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 18030,
+  "avg_sqft": 22650,
+  "median_value": 448710
+ },
+ {
+  "state": "AZ",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 13545,
+  "avg_sqft": 14207,
+  "median_value": 100144
+ },
+ {
+  "state": "AZ",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 11755,
+  "avg_sqft": 15289,
+  "median_value": 634945
+ },
+ {
+  "state": "AZ",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 7199,
+  "avg_sqft": 49486,
+  "median_value": 246273
+ },
+ {
+  "state": "AZ",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 4825,
+  "avg_sqft": 9201,
+  "median_value": 261487
+ },
+ {
+  "state": "AR",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 114817,
+  "avg_sqft": 6971,
+  "median_value": 52449
+ },
+ {
+  "state": "AR",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 29051,
+  "avg_sqft": 9887,
+  "median_value": 283653
+ },
+ {
+  "state": "AR",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 21637,
+  "avg_sqft": 8565,
+  "median_value": 168958
+ },
+ {
+  "state": "AR",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 18907,
+  "avg_sqft": 11606,
+  "median_value": 483822
+ },
+ {
+  "state": "AR",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 18701,
+  "avg_sqft": 5206,
+  "median_value": 97121
+ },
+ {
+  "state": "AR",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 15672,
+  "avg_sqft": 16973,
+  "median_value": 100946
+ },
+ {
+  "state": "AR",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 11302,
+  "avg_sqft": 10501,
+  "median_value": 644770
+ },
+ {
+  "state": "AR",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 8974,
+  "avg_sqft": 19540,
+  "median_value": 223713
+ },
+ {
+  "state": "AR",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 6093,
+  "avg_sqft": 25300,
+  "median_value": 160597
+ },
+ {
+  "state": "AR",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 5261,
+  "avg_sqft": 16623,
+  "median_value": 262344
+ },
+ {
+  "state": "AR",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 3690,
+  "avg_sqft": 14820,
+  "median_value": 65369
+ },
+ {
+  "state": "AR",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 2938,
+  "avg_sqft": 21271,
+  "median_value": 301389
+ },
+ {
+  "state": "CA",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 467647,
+  "avg_sqft": 11232,
+  "median_value": null
+ },
+ {
+  "state": "CA",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 391851,
+  "avg_sqft": 5719,
+  "median_value": null
+ },
+ {
+  "state": "CA",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 248904,
+  "avg_sqft": 11872,
+  "median_value": null
+ },
+ {
+  "state": "CA",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 217878,
+  "avg_sqft": 17762,
+  "median_value": null
+ },
+ {
+  "state": "CA",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 201099,
+  "avg_sqft": 22862,
+  "median_value": null
+ },
+ {
+  "state": "CA",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 118832,
+  "avg_sqft": 27667,
+  "median_value": null
+ },
+ {
+  "state": "CA",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 110427,
+  "avg_sqft": 23270,
+  "median_value": null
+ },
+ {
+  "state": "CA",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 99801,
+  "avg_sqft": 16487,
+  "median_value": null
+ },
+ {
+  "state": "CA",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 84522,
+  "avg_sqft": 15576,
+  "median_value": null
+ },
+ {
+  "state": "CA",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 50797,
+  "avg_sqft": 30667,
+  "median_value": null
+ },
+ {
+  "state": "CA",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 42413,
+  "avg_sqft": 22677,
+  "median_value": null
+ },
+ {
+  "state": "CA",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 15913,
+  "avg_sqft": 83025,
+  "median_value": null
+ },
+ {
+  "state": "CO",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 69119,
+  "avg_sqft": 28219,
+  "median_value": 600945
+ },
+ {
+  "state": "CO",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 59500,
+  "avg_sqft": 47413,
+  "median_value": 62998
+ },
+ {
+  "state": "CO",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 54630,
+  "avg_sqft": 8512,
+  "median_value": 488676
+ },
+ {
+  "state": "CO",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 52404,
+  "avg_sqft": 4470,
+  "median_value": 305885
+ },
+ {
+  "state": "CO",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 45203,
+  "avg_sqft": 12358,
+  "median_value": 669408
+ },
+ {
+  "state": "CO",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 27215,
+  "avg_sqft": 15703,
+  "median_value": 672298
+ },
+ {
+  "state": "CO",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 21452,
+  "avg_sqft": 10313,
+  "median_value": 322488
+ },
+ {
+  "state": "CO",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 21003,
+  "avg_sqft": 71479,
+  "median_value": 12935
+ },
+ {
+  "state": "CO",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 20825,
+  "avg_sqft": 17935,
+  "median_value": 1415400
+ },
+ {
+  "state": "CO",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 20160,
+  "avg_sqft": 16540,
+  "median_value": 771558
+ },
+ {
+  "state": "CO",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 13506,
+  "avg_sqft": 19091,
+  "median_value": 388822
+ },
+ {
+  "state": "CO",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 9380,
+  "avg_sqft": 8788,
+  "median_value": 250457
+ },
+ {
+  "state": "CT",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 70824,
+  "avg_sqft": 6080,
+  "median_value": null
+ },
+ {
+  "state": "CT",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 50094,
+  "avg_sqft": 17259,
+  "median_value": null
+ },
+ {
+  "state": "CT",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 33442,
+  "avg_sqft": 13058,
+  "median_value": null
+ },
+ {
+  "state": "CT",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 31143,
+  "avg_sqft": 11102,
+  "median_value": null
+ },
+ {
+  "state": "CT",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 15982,
+  "avg_sqft": 32591,
+  "median_value": null
+ },
+ {
+  "state": "CT",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 11402,
+  "avg_sqft": 18513,
+  "median_value": null
+ },
+ {
+  "state": "CT",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 10059,
+  "avg_sqft": 15871,
+  "median_value": null
+ },
+ {
+  "state": "CT",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 9276,
+  "avg_sqft": 28797,
+  "median_value": null
+ },
+ {
+  "state": "CT",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 8545,
+  "avg_sqft": 23239,
+  "median_value": null
+ },
+ {
+  "state": "CT",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 6607,
+  "avg_sqft": 19223,
+  "median_value": null
+ },
+ {
+  "state": "CT",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 3900,
+  "avg_sqft": 18009,
+  "median_value": null
+ },
+ {
+  "state": "CT",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 1583,
+  "avg_sqft": 34238,
+  "median_value": null
+ },
+ {
+  "state": "DE",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 14761,
+  "avg_sqft": 7841,
+  "median_value": 65831
+ },
+ {
+  "state": "DE",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 6095,
+  "avg_sqft": 4066,
+  "median_value": 36800
+ },
+ {
+  "state": "DE",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 4169,
+  "avg_sqft": 12292,
+  "median_value": 116164
+ },
+ {
+  "state": "DE",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 3930,
+  "avg_sqft": 9692,
+  "median_value": 82600
+ },
+ {
+  "state": "DE",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 1781,
+  "avg_sqft": 15695,
+  "median_value": 72200
+ },
+ {
+  "state": "DE",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 1268,
+  "avg_sqft": 19202,
+  "median_value": 176000
+ },
+ {
+  "state": "DE",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 1138,
+  "avg_sqft": 3839,
+  "median_value": 96044
+ },
+ {
+  "state": "DE",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 1136,
+  "avg_sqft": 14541,
+  "median_value": 96182
+ },
+ {
+  "state": "DE",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 894,
+  "avg_sqft": 7781,
+  "median_value": 410500
+ },
+ {
+  "state": "DE",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 889,
+  "avg_sqft": 13988,
+  "median_value": null
+ },
+ {
+  "state": "DE",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 362,
+  "avg_sqft": 26313,
+  "median_value": null
+ },
+ {
+  "state": "DE",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 194,
+  "avg_sqft": 61158,
+  "median_value": null
+ },
+ {
+  "state": "FL",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 312776,
+  "avg_sqft": 14475,
+  "median_value": 62551
+ },
+ {
+  "state": "FL",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 312430,
+  "avg_sqft": 11205,
+  "median_value": 461245
+ },
+ {
+  "state": "FL",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 242262,
+  "avg_sqft": 7196,
+  "median_value": 373513
+ },
+ {
+  "state": "FL",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 217699,
+  "avg_sqft": 4330,
+  "median_value": 299597
+ },
+ {
+  "state": "FL",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 208460,
+  "avg_sqft": 9522,
+  "median_value": 448917
+ },
+ {
+  "state": "FL",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 109200,
+  "avg_sqft": 13859,
+  "median_value": 499248
+ },
+ {
+  "state": "FL",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 101810,
+  "avg_sqft": 82531,
+  "median_value": 31120
+ },
+ {
+  "state": "FL",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 91099,
+  "avg_sqft": 15656,
+  "median_value": 1087538
+ },
+ {
+  "state": "FL",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 72109,
+  "avg_sqft": 11750,
+  "median_value": 359953
+ },
+ {
+  "state": "FL",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 67646,
+  "avg_sqft": 14359,
+  "median_value": 635764
+ },
+ {
+  "state": "FL",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 29628,
+  "avg_sqft": 11039,
+  "median_value": 404242
+ },
+ {
+  "state": "FL",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 23801,
+  "avg_sqft": 33172,
+  "median_value": 622014
+ },
+ {
+  "state": "GA",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 175172,
+  "avg_sqft": 9566,
+  "median_value": 63258
+ },
+ {
+  "state": "GA",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 155604,
+  "avg_sqft": 12374,
+  "median_value": 422857
+ },
+ {
+  "state": "GA",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 120267,
+  "avg_sqft": 4512,
+  "median_value": 155644
+ },
+ {
+  "state": "GA",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 107294,
+  "avg_sqft": 8959,
+  "median_value": 242653
+ },
+ {
+  "state": "GA",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 96285,
+  "avg_sqft": 11701,
+  "median_value": 551268
+ },
+ {
+  "state": "GA",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 40945,
+  "avg_sqft": 29732,
+  "median_value": 535499
+ },
+ {
+  "state": "GA",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 39089,
+  "avg_sqft": 16018,
+  "median_value": 1013904
+ },
+ {
+  "state": "GA",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 29416,
+  "avg_sqft": 26977,
+  "median_value": 95551
+ },
+ {
+  "state": "GA",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 26697,
+  "avg_sqft": 32390,
+  "median_value": 418254
+ },
+ {
+  "state": "GA",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 20697,
+  "avg_sqft": 36536,
+  "median_value": 612768
+ },
+ {
+  "state": "GA",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 14959,
+  "avg_sqft": 16090,
+  "median_value": 117825
+ },
+ {
+  "state": "GA",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 10121,
+  "avg_sqft": 69690,
+  "median_value": 853034
+ },
+ {
+  "state": "HI",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 16865,
+  "avg_sqft": 877,
+  "median_value": 371359
+ },
+ {
+  "state": "HI",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 14176,
+  "avg_sqft": 12482,
+  "median_value": 827428
+ },
+ {
+  "state": "HI",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 13666,
+  "avg_sqft": 11724,
+  "median_value": 630777
+ },
+ {
+  "state": "HI",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 13179,
+  "avg_sqft": 245129,
+  "median_value": null
+ },
+ {
+  "state": "HI",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 8574,
+  "avg_sqft": 6242,
+  "median_value": 1107440
+ },
+ {
+  "state": "HI",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 3474,
+  "avg_sqft": 13868,
+  "median_value": 2660473
+ },
+ {
+  "state": "HI",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 3427,
+  "avg_sqft": 12209,
+  "median_value": 1850133
+ },
+ {
+  "state": "HI",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 3107,
+  "avg_sqft": 15617,
+  "median_value": 2157916
+ },
+ {
+  "state": "HI",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 2990,
+  "avg_sqft": 14752,
+  "median_value": 2217595
+ },
+ {
+  "state": "HI",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 2478,
+  "avg_sqft": 8903,
+  "median_value": 845788
+ },
+ {
+  "state": "HI",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 1282,
+  "avg_sqft": 17733,
+  "median_value": 2115533
+ },
+ {
+  "state": "HI",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 838,
+  "avg_sqft": 17502,
+  "median_value": 3250552
+ },
+ {
+  "state": "ID",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 74159,
+  "avg_sqft": 5075,
+  "median_value": 163011
+ },
+ {
+  "state": "ID",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 16841,
+  "avg_sqft": 6199,
+  "median_value": 301375
+ },
+ {
+  "state": "ID",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 16552,
+  "avg_sqft": 14088,
+  "median_value": 678652
+ },
+ {
+  "state": "ID",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 15307,
+  "avg_sqft": 9519,
+  "median_value": 660562
+ },
+ {
+  "state": "ID",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 13425,
+  "avg_sqft": 9611,
+  "median_value": 463748
+ },
+ {
+  "state": "ID",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 9713,
+  "avg_sqft": 13946,
+  "median_value": 853294
+ },
+ {
+  "state": "ID",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 7083,
+  "avg_sqft": 23540,
+  "median_value": 220343
+ },
+ {
+  "state": "ID",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 3095,
+  "avg_sqft": 12871,
+  "median_value": 523455
+ },
+ {
+  "state": "ID",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 2408,
+  "avg_sqft": 11305,
+  "median_value": 648977
+ },
+ {
+  "state": "ID",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 2177,
+  "avg_sqft": 12049,
+  "median_value": 367930
+ },
+ {
+  "state": "ID",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 1817,
+  "avg_sqft": 17072,
+  "median_value": 733715
+ },
+ {
+  "state": "ID",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 1425,
+  "avg_sqft": 9844,
+  "median_value": 223804
+ },
+ {
+  "state": "IL",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 418725,
+  "avg_sqft": 8606,
+  "median_value": 78727
+ },
+ {
+  "state": "IL",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 107671,
+  "avg_sqft": 9048,
+  "median_value": 180915
+ },
+ {
+  "state": "IL",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 81156,
+  "avg_sqft": 54137,
+  "median_value": 85489
+ },
+ {
+  "state": "IL",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 78044,
+  "avg_sqft": 19047,
+  "median_value": 306578
+ },
+ {
+  "state": "IL",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 76166,
+  "avg_sqft": 16611,
+  "median_value": 205762
+ },
+ {
+  "state": "IL",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 44263,
+  "avg_sqft": 13396,
+  "median_value": 378113
+ },
+ {
+  "state": "IL",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 32053,
+  "avg_sqft": 30664,
+  "median_value": 390740
+ },
+ {
+  "state": "IL",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 28345,
+  "avg_sqft": 36796,
+  "median_value": 492004
+ },
+ {
+  "state": "IL",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 22008,
+  "avg_sqft": 34856,
+  "median_value": 245820
+ },
+ {
+  "state": "IL",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 12952,
+  "avg_sqft": 42247,
+  "median_value": 332552
+ },
+ {
+  "state": "IL",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 7699,
+  "avg_sqft": 16422,
+  "median_value": 741205
+ },
+ {
+  "state": "IL",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 1511,
+  "avg_sqft": 52138,
+  "median_value": 455738
+ },
+ {
+  "state": "IN",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 110442,
+  "avg_sqft": 7387,
+  "median_value": 86223
+ },
+ {
+  "state": "IN",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 85065,
+  "avg_sqft": 8555,
+  "median_value": 10704
+ },
+ {
+  "state": "IN",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 81062,
+  "avg_sqft": 12318,
+  "median_value": 247145
+ },
+ {
+  "state": "IN",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 79236,
+  "avg_sqft": 11476,
+  "median_value": 143190
+ },
+ {
+  "state": "IN",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 38737,
+  "avg_sqft": 14639,
+  "median_value": 467707
+ },
+ {
+  "state": "IN",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 26340,
+  "avg_sqft": 13950,
+  "median_value": 637592
+ },
+ {
+  "state": "IN",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 25626,
+  "avg_sqft": 9298,
+  "median_value": 11346
+ },
+ {
+  "state": "IN",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 23491,
+  "avg_sqft": 32978,
+  "median_value": 398160
+ },
+ {
+  "state": "IN",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 18551,
+  "avg_sqft": 34463,
+  "median_value": 275769
+ },
+ {
+  "state": "IN",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 14778,
+  "avg_sqft": 33338,
+  "median_value": 144437
+ },
+ {
+  "state": "IN",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 10213,
+  "avg_sqft": 41081,
+  "median_value": 454148
+ },
+ {
+  "state": "IN",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 8054,
+  "avg_sqft": 51885,
+  "median_value": 818637
+ },
+ {
+  "state": "IA",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 170213,
+  "avg_sqft": 12778,
+  "median_value": 16137
+ },
+ {
+  "state": "IA",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 66315,
+  "avg_sqft": 4913,
+  "median_value": 83168
+ },
+ {
+  "state": "IA",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 32122,
+  "avg_sqft": 8494,
+  "median_value": 224019
+ },
+ {
+  "state": "IA",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 27936,
+  "avg_sqft": 10878,
+  "median_value": 376821
+ },
+ {
+  "state": "IA",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 22246,
+  "avg_sqft": 11472,
+  "median_value": 174624
+ },
+ {
+  "state": "IA",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 21324,
+  "avg_sqft": 11711,
+  "median_value": 134425
+ },
+ {
+  "state": "IA",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 20275,
+  "avg_sqft": 14252,
+  "median_value": 554467
+ },
+ {
+  "state": "IA",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 19085,
+  "avg_sqft": 14594,
+  "median_value": 493402
+ },
+ {
+  "state": "IA",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 17143,
+  "avg_sqft": 11946,
+  "median_value": 240487
+ },
+ {
+  "state": "IA",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 16716,
+  "avg_sqft": 8583,
+  "median_value": 49342
+ },
+ {
+  "state": "IA",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 14891,
+  "avg_sqft": 13642,
+  "median_value": 911950
+ },
+ {
+  "state": "IA",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 13318,
+  "avg_sqft": 11007,
+  "median_value": 198434
+ },
+ {
+  "state": "KS",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 57437,
+  "avg_sqft": 19230,
+  "median_value": 21578
+ },
+ {
+  "state": "KS",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 54242,
+  "avg_sqft": 4702,
+  "median_value": 68147
+ },
+ {
+  "state": "KS",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 30540,
+  "avg_sqft": 9297,
+  "median_value": 199436
+ },
+ {
+  "state": "KS",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 30200,
+  "avg_sqft": 13449,
+  "median_value": 425085
+ },
+ {
+  "state": "KS",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 19227,
+  "avg_sqft": 69821,
+  "median_value": 20244
+ },
+ {
+  "state": "KS",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 16700,
+  "avg_sqft": 14706,
+  "median_value": 232460
+ },
+ {
+  "state": "KS",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 15676,
+  "avg_sqft": 14899,
+  "median_value": 722932
+ },
+ {
+  "state": "KS",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 14877,
+  "avg_sqft": 15528,
+  "median_value": 169563
+ },
+ {
+  "state": "KS",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 11967,
+  "avg_sqft": 15900,
+  "median_value": 985388
+ },
+ {
+  "state": "KS",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 10710,
+  "avg_sqft": 9041,
+  "median_value": 62409
+ },
+ {
+  "state": "KS",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 7082,
+  "avg_sqft": 16161,
+  "median_value": 266872
+ },
+ {
+  "state": "KS",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 6432,
+  "avg_sqft": 30045,
+  "median_value": 210065
+ },
+ {
+  "state": "KY",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 162073,
+  "avg_sqft": 7300,
+  "median_value": 94647
+ },
+ {
+  "state": "KY",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 37539,
+  "avg_sqft": 14791,
+  "median_value": 269853
+ },
+ {
+  "state": "KY",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 34184,
+  "avg_sqft": 6770,
+  "median_value": 165417
+ },
+ {
+  "state": "KY",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 26001,
+  "avg_sqft": 10078,
+  "median_value": 207260
+ },
+ {
+  "state": "KY",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 21308,
+  "avg_sqft": 15219,
+  "median_value": 350725
+ },
+ {
+  "state": "KY",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 9842,
+  "avg_sqft": 17592,
+  "median_value": 70923
+ },
+ {
+  "state": "KY",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 6594,
+  "avg_sqft": 44081,
+  "median_value": 519591
+ },
+ {
+  "state": "KY",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 5890,
+  "avg_sqft": 36334,
+  "median_value": 555883
+ },
+ {
+  "state": "KY",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 3753,
+  "avg_sqft": 31480,
+  "median_value": 418264
+ },
+ {
+  "state": "KY",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 3284,
+  "avg_sqft": 29527,
+  "median_value": 267207
+ },
+ {
+  "state": "KY",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 1993,
+  "avg_sqft": 46643,
+  "median_value": 592631
+ },
+ {
+  "state": "KY",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 696,
+  "avg_sqft": 38919,
+  "median_value": 433070
+ },
+ {
+  "state": "LA",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 246702,
+  "avg_sqft": 9189,
+  "median_value": 57243
+ },
+ {
+  "state": "LA",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 30466,
+  "avg_sqft": 11966,
+  "median_value": 228996
+ },
+ {
+  "state": "LA",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 28838,
+  "avg_sqft": 14226,
+  "median_value": 78857
+ },
+ {
+  "state": "LA",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 20439,
+  "avg_sqft": 11313,
+  "median_value": 402046
+ },
+ {
+  "state": "LA",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 19700,
+  "avg_sqft": 7100,
+  "median_value": 189575
+ },
+ {
+  "state": "LA",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 17204,
+  "avg_sqft": 8148,
+  "median_value": 336623
+ },
+ {
+  "state": "LA",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 16647,
+  "avg_sqft": 10690,
+  "median_value": 144400
+ },
+ {
+  "state": "LA",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 6055,
+  "avg_sqft": 12504,
+  "median_value": 153732
+ },
+ {
+  "state": "LA",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 4653,
+  "avg_sqft": 11448,
+  "median_value": 119014
+ },
+ {
+  "state": "LA",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 4262,
+  "avg_sqft": 8057,
+  "median_value": 104062
+ },
+ {
+  "state": "LA",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 3687,
+  "avg_sqft": 10414,
+  "median_value": 162379
+ },
+ {
+  "state": "LA",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 3318,
+  "avg_sqft": 8660,
+  "median_value": 180627
+ },
+ {
+  "state": "ME",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 30217,
+  "avg_sqft": 4751,
+  "median_value": null
+ },
+ {
+  "state": "ME",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 22174,
+  "avg_sqft": 6257,
+  "median_value": null
+ },
+ {
+  "state": "ME",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 12081,
+  "avg_sqft": 10219,
+  "median_value": null
+ },
+ {
+  "state": "ME",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 9528,
+  "avg_sqft": 9373,
+  "median_value": null
+ },
+ {
+  "state": "ME",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 5894,
+  "avg_sqft": 11036,
+  "median_value": null
+ },
+ {
+  "state": "ME",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 5021,
+  "avg_sqft": 12672,
+  "median_value": null
+ },
+ {
+  "state": "ME",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 3976,
+  "avg_sqft": 10566,
+  "median_value": null
+ },
+ {
+  "state": "ME",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 1709,
+  "avg_sqft": 21690,
+  "median_value": null
+ },
+ {
+  "state": "ME",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 1163,
+  "avg_sqft": 28136,
+  "median_value": null
+ },
+ {
+  "state": "ME",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 1000,
+  "avg_sqft": 29432,
+  "median_value": null
+ },
+ {
+  "state": "ME",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 821,
+  "avg_sqft": 17324,
+  "median_value": null
+ },
+ {
+  "state": "ME",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 607,
+  "avg_sqft": 12175,
+  "median_value": null
+ },
+ {
+  "state": "MD",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 59673,
+  "avg_sqft": 5939,
+  "median_value": 151368
+ },
+ {
+  "state": "MD",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 47917,
+  "avg_sqft": 4340,
+  "median_value": 290616
+ },
+ {
+  "state": "MD",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 28170,
+  "avg_sqft": 14298,
+  "median_value": 545040
+ },
+ {
+  "state": "MD",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 20689,
+  "avg_sqft": 11605,
+  "median_value": 603352
+ },
+ {
+  "state": "MD",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 16833,
+  "avg_sqft": 17966,
+  "median_value": 120969
+ },
+ {
+  "state": "MD",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 12045,
+  "avg_sqft": 18966,
+  "median_value": 1072594
+ },
+ {
+  "state": "MD",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 8613,
+  "avg_sqft": 26811,
+  "median_value": 883585
+ },
+ {
+  "state": "MD",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 7529,
+  "avg_sqft": 16850,
+  "median_value": 315562
+ },
+ {
+  "state": "MD",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 6997,
+  "avg_sqft": 25814,
+  "median_value": 905786
+ },
+ {
+  "state": "MD",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 6889,
+  "avg_sqft": 23084,
+  "median_value": 1695483
+ },
+ {
+  "state": "MD",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 3428,
+  "avg_sqft": 33435,
+  "median_value": 1000761
+ },
+ {
+  "state": "MD",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 1740,
+  "avg_sqft": 87541,
+  "median_value": 2935650
+ },
+ {
+  "state": "MA",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 172837,
+  "avg_sqft": 7117,
+  "median_value": null
+ },
+ {
+  "state": "MA",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 95945,
+  "avg_sqft": 10848,
+  "median_value": null
+ },
+ {
+  "state": "MA",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 79207,
+  "avg_sqft": 12044,
+  "median_value": null
+ },
+ {
+  "state": "MA",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 67692,
+  "avg_sqft": 11667,
+  "median_value": null
+ },
+ {
+  "state": "MA",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 28128,
+  "avg_sqft": 43628,
+  "median_value": null
+ },
+ {
+  "state": "MA",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 24337,
+  "avg_sqft": 16444,
+  "median_value": null
+ },
+ {
+  "state": "MA",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 21360,
+  "avg_sqft": 27209,
+  "median_value": null
+ },
+ {
+  "state": "MA",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 18405,
+  "avg_sqft": 25998,
+  "median_value": null
+ },
+ {
+  "state": "MA",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 15045,
+  "avg_sqft": 33342,
+  "median_value": null
+ },
+ {
+  "state": "MA",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 13699,
+  "avg_sqft": 35886,
+  "median_value": null
+ },
+ {
+  "state": "MA",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 6230,
+  "avg_sqft": 26200,
+  "median_value": null
+ },
+ {
+  "state": "MA",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 3551,
+  "avg_sqft": 49605,
+  "median_value": null
+ },
+ {
+  "state": "MI",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 460659,
+  "avg_sqft": 9278,
+  "median_value": 89430
+ },
+ {
+  "state": "MI",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 132624,
+  "avg_sqft": 7054,
+  "median_value": 159153
+ },
+ {
+  "state": "MI",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 89220,
+  "avg_sqft": 31332,
+  "median_value": 84921
+ },
+ {
+  "state": "MI",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 70231,
+  "avg_sqft": 13871,
+  "median_value": 329651
+ },
+ {
+  "state": "MI",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 57224,
+  "avg_sqft": 17753,
+  "median_value": 543532
+ },
+ {
+  "state": "MI",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 29266,
+  "avg_sqft": 17152,
+  "median_value": 658748
+ },
+ {
+  "state": "MI",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 21681,
+  "avg_sqft": 28055,
+  "median_value": 217719
+ },
+ {
+  "state": "MI",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 20355,
+  "avg_sqft": 36105,
+  "median_value": 815090
+ },
+ {
+  "state": "MI",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 19811,
+  "avg_sqft": 30941,
+  "median_value": 494180
+ },
+ {
+  "state": "MI",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 11590,
+  "avg_sqft": 20857,
+  "median_value": 830615
+ },
+ {
+  "state": "MI",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 6920,
+  "avg_sqft": 35888,
+  "median_value": 735520
+ },
+ {
+  "state": "MI",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 4268,
+  "avg_sqft": 44509,
+  "median_value": 683031
+ },
+ {
+  "state": "MN",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 123316,
+  "avg_sqft": 7062,
+  "median_value": 51827
+ },
+ {
+  "state": "MN",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 60960,
+  "avg_sqft": 11800,
+  "median_value": 221792
+ },
+ {
+  "state": "MN",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 41436,
+  "avg_sqft": 20399,
+  "median_value": 509078
+ },
+ {
+  "state": "MN",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 34095,
+  "avg_sqft": 17899,
+  "median_value": 395879
+ },
+ {
+  "state": "MN",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 30263,
+  "avg_sqft": 15826,
+  "median_value": 43490
+ },
+ {
+  "state": "MN",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 26994,
+  "avg_sqft": 17144,
+  "median_value": 511617
+ },
+ {
+  "state": "MN",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 15920,
+  "avg_sqft": 32449,
+  "median_value": 1016045
+ },
+ {
+  "state": "MN",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 13606,
+  "avg_sqft": 32900,
+  "median_value": 893264
+ },
+ {
+  "state": "MN",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 13503,
+  "avg_sqft": 40816,
+  "median_value": 887859
+ },
+ {
+  "state": "MN",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 8026,
+  "avg_sqft": 35120,
+  "median_value": 361976
+ },
+ {
+  "state": "MN",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 7998,
+  "avg_sqft": 19253,
+  "median_value": 477783
+ },
+ {
+  "state": "MN",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 4964,
+  "avg_sqft": 24032,
+  "median_value": 515678
+ },
+ {
+  "state": "MS",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 39864,
+  "avg_sqft": 8708,
+  "median_value": 208701
+ },
+ {
+  "state": "MS",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 36924,
+  "avg_sqft": 5907,
+  "median_value": 112672
+ },
+ {
+  "state": "MS",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 32502,
+  "avg_sqft": 3758,
+  "median_value": 65370
+ },
+ {
+  "state": "MS",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 20650,
+  "avg_sqft": 10309,
+  "median_value": 357838
+ },
+ {
+  "state": "MS",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 19674,
+  "avg_sqft": 4631,
+  "median_value": 32851
+ },
+ {
+  "state": "MS",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 13849,
+  "avg_sqft": 9187,
+  "median_value": 419119
+ },
+ {
+  "state": "MS",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 7597,
+  "avg_sqft": 19193,
+  "median_value": 192520
+ },
+ {
+  "state": "MS",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 6517,
+  "avg_sqft": 20556,
+  "median_value": 147170
+ },
+ {
+  "state": "MS",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 4724,
+  "avg_sqft": 13608,
+  "median_value": 26683
+ },
+ {
+  "state": "MS",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 3401,
+  "avg_sqft": 26525,
+  "median_value": 246244
+ },
+ {
+  "state": "MS",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 2910,
+  "avg_sqft": 13728,
+  "median_value": 69761
+ },
+ {
+  "state": "MS",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 1748,
+  "avg_sqft": 58583,
+  "median_value": 311071
+ },
+ {
+  "state": "MO",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 159644,
+  "avg_sqft": 14202,
+  "median_value": 40473
+ },
+ {
+  "state": "MO",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 81563,
+  "avg_sqft": 4505,
+  "median_value": 84611
+ },
+ {
+  "state": "MO",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 60547,
+  "avg_sqft": 11868,
+  "median_value": 305938
+ },
+ {
+  "state": "MO",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 46395,
+  "avg_sqft": 7952,
+  "median_value": 185589
+ },
+ {
+  "state": "MO",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 32124,
+  "avg_sqft": 14692,
+  "median_value": 530751
+ },
+ {
+  "state": "MO",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 19518,
+  "avg_sqft": 13192,
+  "median_value": 628779
+ },
+ {
+  "state": "MO",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 16043,
+  "avg_sqft": 15507,
+  "median_value": 113894
+ },
+ {
+  "state": "MO",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 14853,
+  "avg_sqft": 17672,
+  "median_value": 280651
+ },
+ {
+  "state": "MO",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 11426,
+  "avg_sqft": 18554,
+  "median_value": 226156
+ },
+ {
+  "state": "MO",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 11379,
+  "avg_sqft": 18109,
+  "median_value": 35099
+ },
+ {
+  "state": "MO",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 7194,
+  "avg_sqft": 25026,
+  "median_value": 319767
+ },
+ {
+  "state": "MO",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 4283,
+  "avg_sqft": 28621,
+  "median_value": 363863
+ },
+ {
+  "state": "MT",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 32925,
+  "avg_sqft": 1323,
+  "median_value": 89018
+ },
+ {
+  "state": "MT",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 30012,
+  "avg_sqft": 5331,
+  "median_value": 252322
+ },
+ {
+  "state": "MT",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 22139,
+  "avg_sqft": 7414,
+  "median_value": 408233
+ },
+ {
+  "state": "MT",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 18752,
+  "avg_sqft": 7983,
+  "median_value": 537768
+ },
+ {
+  "state": "MT",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 11429,
+  "avg_sqft": 8997,
+  "median_value": 691856
+ },
+ {
+  "state": "MT",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 10358,
+  "avg_sqft": 9337,
+  "median_value": 793298
+ },
+ {
+  "state": "MT",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 6902,
+  "avg_sqft": 1135,
+  "median_value": null
+ },
+ {
+  "state": "MT",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 2149,
+  "avg_sqft": 9240,
+  "median_value": 536539
+ },
+ {
+  "state": "MT",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 1573,
+  "avg_sqft": 8316,
+  "median_value": 451999
+ },
+ {
+  "state": "MT",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 1488,
+  "avg_sqft": 13222,
+  "median_value": 1001331
+ },
+ {
+  "state": "MT",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 974,
+  "avg_sqft": 15670,
+  "median_value": 625698
+ },
+ {
+  "state": "MT",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 569,
+  "avg_sqft": 12983,
+  "median_value": 350921
+ },
+ {
+  "state": "NE",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 44029,
+  "avg_sqft": 11129,
+  "median_value": 27142
+ },
+ {
+  "state": "NE",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 35013,
+  "avg_sqft": 5201,
+  "median_value": 85274
+ },
+ {
+  "state": "NE",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 21953,
+  "avg_sqft": 8905,
+  "median_value": 235891
+ },
+ {
+  "state": "NE",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 20487,
+  "avg_sqft": 12065,
+  "median_value": 395671
+ },
+ {
+  "state": "NE",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 11978,
+  "avg_sqft": 13059,
+  "median_value": 615839
+ },
+ {
+  "state": "NE",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 11830,
+  "avg_sqft": 14444,
+  "median_value": 722402
+ },
+ {
+  "state": "NE",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 10135,
+  "avg_sqft": 8380,
+  "median_value": 49242
+ },
+ {
+  "state": "NE",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 7546,
+  "avg_sqft": 12761,
+  "median_value": 251599
+ },
+ {
+  "state": "NE",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 7062,
+  "avg_sqft": 17513,
+  "median_value": 211764
+ },
+ {
+  "state": "NE",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 4732,
+  "avg_sqft": 12564,
+  "median_value": 333551
+ },
+ {
+  "state": "NE",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 4506,
+  "avg_sqft": 10169,
+  "median_value": 57423
+ },
+ {
+  "state": "NE",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 4319,
+  "avg_sqft": 13545,
+  "median_value": 345119
+ },
+ {
+  "state": "NV",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 29136,
+  "avg_sqft": 16616,
+  "median_value": 476235
+ },
+ {
+  "state": "NV",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 26578,
+  "avg_sqft": 5943,
+  "median_value": 59292
+ },
+ {
+  "state": "NV",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 25272,
+  "avg_sqft": 213300,
+  "median_value": 11752
+ },
+ {
+  "state": "NV",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 22946,
+  "avg_sqft": 10227,
+  "median_value": 159704
+ },
+ {
+  "state": "NV",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 18758,
+  "avg_sqft": 17093,
+  "median_value": 1023958
+ },
+ {
+  "state": "NV",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 13791,
+  "avg_sqft": 4227,
+  "median_value": 190561
+ },
+ {
+  "state": "NV",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 9506,
+  "avg_sqft": 25393,
+  "median_value": 665013
+ },
+ {
+  "state": "NV",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 7703,
+  "avg_sqft": 27596,
+  "median_value": 623865
+ },
+ {
+  "state": "NV",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 6193,
+  "avg_sqft": 17398,
+  "median_value": 1567032
+ },
+ {
+  "state": "NV",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 4197,
+  "avg_sqft": 21687,
+  "median_value": 535902
+ },
+ {
+  "state": "NV",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 2746,
+  "avg_sqft": 80437,
+  "median_value": 1759180
+ },
+ {
+  "state": "NV",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 1257,
+  "avg_sqft": 7026,
+  "median_value": 248539
+ },
+ {
+  "state": "NH",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 32342,
+  "avg_sqft": 5576,
+  "median_value": null
+ },
+ {
+  "state": "NH",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 24414,
+  "avg_sqft": 8894,
+  "median_value": null
+ },
+ {
+  "state": "NH",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 23973,
+  "avg_sqft": 6341,
+  "median_value": null
+ },
+ {
+  "state": "NH",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 15070,
+  "avg_sqft": 8615,
+  "median_value": null
+ },
+ {
+  "state": "NH",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 8933,
+  "avg_sqft": 12391,
+  "median_value": null
+ },
+ {
+  "state": "NH",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 7312,
+  "avg_sqft": 14879,
+  "median_value": null
+ },
+ {
+  "state": "NH",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 5467,
+  "avg_sqft": 13795,
+  "median_value": null
+ },
+ {
+  "state": "NH",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 3715,
+  "avg_sqft": 768,
+  "median_value": null
+ },
+ {
+  "state": "NH",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 2752,
+  "avg_sqft": 31912,
+  "median_value": null
+ },
+ {
+  "state": "NH",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 2418,
+  "avg_sqft": 14897,
+  "median_value": null
+ },
+ {
+  "state": "NH",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 1672,
+  "avg_sqft": 25945,
+  "median_value": null
+ },
+ {
+  "state": "NH",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 851,
+  "avg_sqft": 28383,
+  "median_value": null
+ },
+ {
+  "state": "NJ",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 212034,
+  "avg_sqft": 190258,
+  "median_value": 366025
+ },
+ {
+  "state": "NJ",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 156980,
+  "avg_sqft": 6107,
+  "median_value": 395786
+ },
+ {
+  "state": "NJ",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 50509,
+  "avg_sqft": 9928,
+  "median_value": 553192
+ },
+ {
+  "state": "NJ",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 39675,
+  "avg_sqft": 118626,
+  "median_value": 592905
+ },
+ {
+  "state": "NJ",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 31375,
+  "avg_sqft": 54144,
+  "median_value": 831181
+ },
+ {
+  "state": "NJ",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 18836,
+  "avg_sqft": 16097,
+  "median_value": 1021970
+ },
+ {
+  "state": "NJ",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 11711,
+  "avg_sqft": 31490,
+  "median_value": 1542630
+ },
+ {
+  "state": "NJ",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 11254,
+  "avg_sqft": 25302,
+  "median_value": 753231
+ },
+ {
+  "state": "NJ",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 7734,
+  "avg_sqft": 8911,
+  "median_value": 987834
+ },
+ {
+  "state": "NJ",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 7068,
+  "avg_sqft": 36985,
+  "median_value": 1842127
+ },
+ {
+  "state": "NJ",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 2341,
+  "avg_sqft": 38194,
+  "median_value": 2094856
+ },
+ {
+  "state": "NJ",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 790,
+  "avg_sqft": 63425,
+  "median_value": 4340725
+ },
+ {
+  "state": "NM",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 38488,
+  "avg_sqft": 5595,
+  "median_value": 127298
+ },
+ {
+  "state": "NM",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 13172,
+  "avg_sqft": 17932,
+  "median_value": 363278
+ },
+ {
+  "state": "NM",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 12760,
+  "avg_sqft": 19820,
+  "median_value": 232209
+ },
+ {
+  "state": "NM",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 9951,
+  "avg_sqft": 4463,
+  "median_value": 151994
+ },
+ {
+  "state": "NM",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 7295,
+  "avg_sqft": 11313,
+  "median_value": 494787
+ },
+ {
+  "state": "NM",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 4853,
+  "avg_sqft": 14137,
+  "median_value": 401120
+ },
+ {
+  "state": "NM",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 4038,
+  "avg_sqft": 9974,
+  "median_value": 282698
+ },
+ {
+  "state": "NM",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 3790,
+  "avg_sqft": 6203,
+  "median_value": 195745
+ },
+ {
+  "state": "NM",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 3748,
+  "avg_sqft": 11249,
+  "median_value": 774087
+ },
+ {
+  "state": "NM",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 2392,
+  "avg_sqft": 14569,
+  "median_value": 507827
+ },
+ {
+  "state": "NM",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 1941,
+  "avg_sqft": 8109,
+  "median_value": 204703
+ },
+ {
+  "state": "NM",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 826,
+  "avg_sqft": 25715,
+  "median_value": 601153
+ },
+ {
+  "state": "NY",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 341186,
+  "avg_sqft": 10106,
+  "median_value": 706774
+ },
+ {
+  "state": "NY",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 199268,
+  "avg_sqft": 16812,
+  "median_value": 52939
+ },
+ {
+  "state": "NY",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 87095,
+  "avg_sqft": 17018,
+  "median_value": 364247
+ },
+ {
+  "state": "NY",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 71405,
+  "avg_sqft": 16090,
+  "median_value": 486766
+ },
+ {
+  "state": "NY",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 65820,
+  "avg_sqft": 16790,
+  "median_value": 45103
+ },
+ {
+  "state": "NY",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 47551,
+  "avg_sqft": 12981,
+  "median_value": 315781
+ },
+ {
+  "state": "NY",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 42687,
+  "avg_sqft": 19807,
+  "median_value": 492961
+ },
+ {
+  "state": "NY",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 41413,
+  "avg_sqft": 21376,
+  "median_value": 368322
+ },
+ {
+  "state": "NY",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 25881,
+  "avg_sqft": 22770,
+  "median_value": 517423
+ },
+ {
+  "state": "NY",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 19947,
+  "avg_sqft": 20700,
+  "median_value": 559715
+ },
+ {
+  "state": "NY",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 8394,
+  "avg_sqft": 21167,
+  "median_value": 538701
+ },
+ {
+  "state": "NY",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 4805,
+  "avg_sqft": 37941,
+  "median_value": 722281
+ },
+ {
+  "state": "NC",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 130032,
+  "avg_sqft": 10643,
+  "median_value": 54315
+ },
+ {
+  "state": "NC",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 107516,
+  "avg_sqft": 10266,
+  "median_value": 411036
+ },
+ {
+  "state": "NC",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 99793,
+  "avg_sqft": 4635,
+  "median_value": 165442
+ },
+ {
+  "state": "NC",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 77048,
+  "avg_sqft": 7883,
+  "median_value": 273571
+ },
+ {
+  "state": "NC",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 59481,
+  "avg_sqft": 11255,
+  "median_value": 626778
+ },
+ {
+  "state": "NC",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 33216,
+  "avg_sqft": 25015,
+  "median_value": 542511
+ },
+ {
+  "state": "NC",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 27198,
+  "avg_sqft": 16218,
+  "median_value": 1278989
+ },
+ {
+  "state": "NC",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 25460,
+  "avg_sqft": 50951,
+  "median_value": 68921
+ },
+ {
+  "state": "NC",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 22700,
+  "avg_sqft": 29890,
+  "median_value": 436153
+ },
+ {
+  "state": "NC",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 17644,
+  "avg_sqft": 18051,
+  "median_value": 183724
+ },
+ {
+  "state": "NC",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 15587,
+  "avg_sqft": 20696,
+  "median_value": 490746
+ },
+ {
+  "state": "NC",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 8318,
+  "avg_sqft": 42063,
+  "median_value": 847861
+ },
+ {
+  "state": "ND",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 149941,
+  "avg_sqft": 10582,
+  "median_value": 12731
+ },
+ {
+  "state": "ND",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 3163,
+  "avg_sqft": 13594,
+  "median_value": 672972
+ },
+ {
+  "state": "ND",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 3133,
+  "avg_sqft": 12086,
+  "median_value": 471420
+ },
+ {
+  "state": "ND",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 3095,
+  "avg_sqft": 7092,
+  "median_value": 202650
+ },
+ {
+  "state": "ND",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 2384,
+  "avg_sqft": 14908,
+  "median_value": 991050
+ },
+ {
+  "state": "ND",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 2063,
+  "avg_sqft": 5546,
+  "median_value": 199972
+ },
+ {
+  "state": "ND",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 1612,
+  "avg_sqft": 16330,
+  "median_value": 1020164
+ },
+ {
+  "state": "ND",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 1163,
+  "avg_sqft": 11029,
+  "median_value": 440415
+ },
+ {
+  "state": "ND",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 945,
+  "avg_sqft": 9428,
+  "median_value": 309317
+ },
+ {
+  "state": "ND",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 892,
+  "avg_sqft": 15800,
+  "median_value": 444331
+ },
+ {
+  "state": "ND",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 494,
+  "avg_sqft": 11481,
+  "median_value": 193949
+ },
+ {
+  "state": "ND",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 459,
+  "avg_sqft": 5958,
+  "median_value": 70820
+ },
+ {
+  "state": "OH",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 533509,
+  "avg_sqft": 6485,
+  "median_value": 13800
+ },
+ {
+  "state": "OH",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 292306,
+  "avg_sqft": 5285,
+  "median_value": 86715
+ },
+ {
+  "state": "OH",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 143718,
+  "avg_sqft": 20136,
+  "median_value": 10780
+ },
+ {
+  "state": "OH",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 139676,
+  "avg_sqft": 9976,
+  "median_value": 195436
+ },
+ {
+  "state": "OH",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 130330,
+  "avg_sqft": 12789,
+  "median_value": 342098
+ },
+ {
+  "state": "OH",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 64094,
+  "avg_sqft": 17307,
+  "median_value": 111579
+ },
+ {
+  "state": "OH",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 56487,
+  "avg_sqft": 14767,
+  "median_value": 509982
+ },
+ {
+  "state": "OH",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 42885,
+  "avg_sqft": 27192,
+  "median_value": 451023
+ },
+ {
+  "state": "OH",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 41474,
+  "avg_sqft": 24208,
+  "median_value": 306615
+ },
+ {
+  "state": "OH",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 29755,
+  "avg_sqft": 20159,
+  "median_value": 692879
+ },
+ {
+  "state": "OH",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 16190,
+  "avg_sqft": 29753,
+  "median_value": 343654
+ },
+ {
+  "state": "OH",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 8396,
+  "avg_sqft": 62009,
+  "median_value": 520792
+ },
+ {
+  "state": "OK",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 78275,
+  "avg_sqft": 4880,
+  "median_value": 26219
+ },
+ {
+  "state": "OK",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 43207,
+  "avg_sqft": 4326,
+  "median_value": 97852
+ },
+ {
+  "state": "OK",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 41102,
+  "avg_sqft": 8507,
+  "median_value": 275631
+ },
+ {
+  "state": "OK",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 37899,
+  "avg_sqft": 7409,
+  "median_value": 179126
+ },
+ {
+  "state": "OK",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 20698,
+  "avg_sqft": 9375,
+  "median_value": 552350
+ },
+ {
+  "state": "OK",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 17054,
+  "avg_sqft": 9085,
+  "median_value": 746581
+ },
+ {
+  "state": "OK",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 14410,
+  "avg_sqft": 14241,
+  "median_value": 310837
+ },
+ {
+  "state": "OK",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 12550,
+  "avg_sqft": 15929,
+  "median_value": 273415
+ },
+ {
+  "state": "OK",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 8517,
+  "avg_sqft": 9076,
+  "median_value": 109223
+ },
+ {
+  "state": "OK",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 6714,
+  "avg_sqft": 15867,
+  "median_value": 427386
+ },
+ {
+  "state": "OK",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 5572,
+  "avg_sqft": 18862,
+  "median_value": 523471
+ },
+ {
+  "state": "OK",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 1468,
+  "avg_sqft": 9780,
+  "median_value": 360039
+ },
+ {
+  "state": "OR",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 115934,
+  "avg_sqft": 8563,
+  "median_value": 244861
+ },
+ {
+  "state": "OR",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 63917,
+  "avg_sqft": 5897,
+  "median_value": 462160
+ },
+ {
+  "state": "OR",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 43426,
+  "avg_sqft": 23638,
+  "median_value": 375645
+ },
+ {
+  "state": "OR",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 41887,
+  "avg_sqft": 8283,
+  "median_value": 566356
+ },
+ {
+  "state": "OR",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 36986,
+  "avg_sqft": 12980,
+  "median_value": 707175
+ },
+ {
+  "state": "OR",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 31098,
+  "avg_sqft": 13767,
+  "median_value": 178908
+ },
+ {
+  "state": "OR",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 10955,
+  "avg_sqft": 17134,
+  "median_value": 839970
+ },
+ {
+  "state": "OR",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 10330,
+  "avg_sqft": 19366,
+  "median_value": 1165283
+ },
+ {
+  "state": "OR",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 9132,
+  "avg_sqft": 16405,
+  "median_value": 1112224
+ },
+ {
+  "state": "OR",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 8497,
+  "avg_sqft": 14049,
+  "median_value": 961687
+ },
+ {
+  "state": "OR",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 5583,
+  "avg_sqft": 18833,
+  "median_value": 999356
+ },
+ {
+  "state": "OR",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 3976,
+  "avg_sqft": 33980,
+  "median_value": 1359047
+ },
+ {
+  "state": "PA",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 354797,
+  "avg_sqft": 9446,
+  "median_value": 70466
+ },
+ {
+  "state": "PA",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 197633,
+  "avg_sqft": 5435,
+  "median_value": 145543
+ },
+ {
+  "state": "PA",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 76338,
+  "avg_sqft": 31864,
+  "median_value": 105472
+ },
+ {
+  "state": "PA",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 54791,
+  "avg_sqft": 11988,
+  "median_value": 245522
+ },
+ {
+  "state": "PA",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 51235,
+  "avg_sqft": 14381,
+  "median_value": 298913
+ },
+ {
+  "state": "PA",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 27848,
+  "avg_sqft": 20022,
+  "median_value": 191537
+ },
+ {
+  "state": "PA",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 18513,
+  "avg_sqft": 18246,
+  "median_value": 510690
+ },
+ {
+  "state": "PA",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 15635,
+  "avg_sqft": 27747,
+  "median_value": 450408
+ },
+ {
+  "state": "PA",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 13509,
+  "avg_sqft": 30570,
+  "median_value": 513017
+ },
+ {
+  "state": "PA",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 11776,
+  "avg_sqft": 19739,
+  "median_value": 664598
+ },
+ {
+  "state": "PA",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 4918,
+  "avg_sqft": 44685,
+  "median_value": 612523
+ },
+ {
+  "state": "PA",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 3507,
+  "avg_sqft": 72309,
+  "median_value": 650076
+ },
+ {
+  "state": "RI",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 21242,
+  "avg_sqft": 4877,
+  "median_value": null
+ },
+ {
+  "state": "RI",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 15067,
+  "avg_sqft": 3786,
+  "median_value": null
+ },
+ {
+  "state": "RI",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 11229,
+  "avg_sqft": 7442,
+  "median_value": null
+ },
+ {
+  "state": "RI",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 9404,
+  "avg_sqft": 8717,
+  "median_value": null
+ },
+ {
+  "state": "RI",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 3037,
+  "avg_sqft": 12005,
+  "median_value": null
+ },
+ {
+  "state": "RI",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 2470,
+  "avg_sqft": 29422,
+  "median_value": null
+ },
+ {
+  "state": "RI",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 2291,
+  "avg_sqft": 12618,
+  "median_value": null
+ },
+ {
+  "state": "RI",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 2015,
+  "avg_sqft": 26109,
+  "median_value": null
+ },
+ {
+  "state": "RI",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 1829,
+  "avg_sqft": 12080,
+  "median_value": null
+ },
+ {
+  "state": "RI",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 1623,
+  "avg_sqft": null,
+  "median_value": null
+ },
+ {
+  "state": "RI",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 1057,
+  "avg_sqft": 10647,
+  "median_value": null
+ },
+ {
+  "state": "RI",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 270,
+  "avg_sqft": 13738,
+  "median_value": null
+ },
+ {
+  "state": "SC",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 159103,
+  "avg_sqft": 45870,
+  "median_value": 105252
+ },
+ {
+  "state": "SC",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 82855,
+  "avg_sqft": 12903,
+  "median_value": 354969
+ },
+ {
+  "state": "SC",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 54024,
+  "avg_sqft": 8029,
+  "median_value": 224392
+ },
+ {
+  "state": "SC",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 49663,
+  "avg_sqft": 4565,
+  "median_value": 118684
+ },
+ {
+  "state": "SC",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 35256,
+  "avg_sqft": 10850,
+  "median_value": 661488
+ },
+ {
+  "state": "SC",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 16776,
+  "avg_sqft": 12708,
+  "median_value": 1093788
+ },
+ {
+  "state": "SC",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 14396,
+  "avg_sqft": 22323,
+  "median_value": 252874
+ },
+ {
+  "state": "SC",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 12973,
+  "avg_sqft": 18129,
+  "median_value": 398615
+ },
+ {
+  "state": "SC",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 5828,
+  "avg_sqft": 23954,
+  "median_value": 281762
+ },
+ {
+  "state": "SC",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 4560,
+  "avg_sqft": 20921,
+  "median_value": 469412
+ },
+ {
+  "state": "SC",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 2655,
+  "avg_sqft": 23514,
+  "median_value": 130300
+ },
+ {
+  "state": "SC",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 2357,
+  "avg_sqft": 41642,
+  "median_value": 628264
+ },
+ {
+  "state": "SD",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 51241,
+  "avg_sqft": 9689,
+  "median_value": 15384
+ },
+ {
+  "state": "SD",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 10809,
+  "avg_sqft": 4981,
+  "median_value": 33775
+ },
+ {
+  "state": "SD",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 9509,
+  "avg_sqft": 9829,
+  "median_value": 62399
+ },
+ {
+  "state": "SD",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 8405,
+  "avg_sqft": 8251,
+  "median_value": 68235
+ },
+ {
+  "state": "SD",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 5056,
+  "avg_sqft": 84676,
+  "median_value": 113975
+ },
+ {
+  "state": "SD",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 3871,
+  "avg_sqft": 10761,
+  "median_value": 274861
+ },
+ {
+  "state": "SD",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 1656,
+  "avg_sqft": 13279,
+  "median_value": null
+ },
+ {
+  "state": "SD",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 1253,
+  "avg_sqft": 11683,
+  "median_value": null
+ },
+ {
+  "state": "SD",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 1215,
+  "avg_sqft": 15706,
+  "median_value": null
+ },
+ {
+  "state": "SD",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 1127,
+  "avg_sqft": 14044,
+  "median_value": null
+ },
+ {
+  "state": "SD",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 917,
+  "avg_sqft": 14562,
+  "median_value": null
+ },
+ {
+  "state": "SD",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 713,
+  "avg_sqft": 11303,
+  "median_value": null
+ },
+ {
+  "state": "TN",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 84738,
+  "avg_sqft": 11268,
+  "median_value": 395647
+ },
+ {
+  "state": "TN",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 73867,
+  "avg_sqft": 9437,
+  "median_value": 69661
+ },
+ {
+  "state": "TN",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 72184,
+  "avg_sqft": 5594,
+  "median_value": 139607
+ },
+ {
+  "state": "TN",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 66314,
+  "avg_sqft": 9479,
+  "median_value": 255884
+ },
+ {
+  "state": "TN",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 45488,
+  "avg_sqft": 12179,
+  "median_value": 551632
+ },
+ {
+  "state": "TN",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 28324,
+  "avg_sqft": 15561,
+  "median_value": 969971
+ },
+ {
+  "state": "TN",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 17635,
+  "avg_sqft": 39453,
+  "median_value": 597716
+ },
+ {
+  "state": "TN",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 15088,
+  "avg_sqft": 37001,
+  "median_value": 489608
+ },
+ {
+  "state": "TN",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 10437,
+  "avg_sqft": 24149,
+  "median_value": 184711
+ },
+ {
+  "state": "TN",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 7619,
+  "avg_sqft": 41825,
+  "median_value": 587236
+ },
+ {
+  "state": "TN",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 4445,
+  "avg_sqft": 79194,
+  "median_value": 1066335
+ },
+ {
+  "state": "TN",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 2684,
+  "avg_sqft": 68011,
+  "median_value": 129778
+ },
+ {
+  "state": "TX",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 1078353,
+  "avg_sqft": 18912,
+  "median_value": 7531
+ },
+ {
+  "state": "TX",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 384967,
+  "avg_sqft": 14334,
+  "median_value": 418546
+ },
+ {
+  "state": "TX",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 277386,
+  "avg_sqft": 10597,
+  "median_value": 287362
+ },
+ {
+  "state": "TX",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 248758,
+  "avg_sqft": 14727,
+  "median_value": 672839
+ },
+ {
+  "state": "TX",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 242968,
+  "avg_sqft": 16369,
+  "median_value": 878012
+ },
+ {
+  "state": "TX",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 237034,
+  "avg_sqft": 5656,
+  "median_value": 176528
+ },
+ {
+  "state": "TX",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 95196,
+  "avg_sqft": 42781,
+  "median_value": 3604
+ },
+ {
+  "state": "TX",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 77724,
+  "avg_sqft": 25035,
+  "median_value": 735714
+ },
+ {
+  "state": "TX",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 69493,
+  "avg_sqft": 21346,
+  "median_value": 589415
+ },
+ {
+  "state": "TX",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 42981,
+  "avg_sqft": 43548,
+  "median_value": 1054934
+ },
+ {
+  "state": "TX",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 40544,
+  "avg_sqft": 29690,
+  "median_value": 923256
+ },
+ {
+  "state": "TX",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 25812,
+  "avg_sqft": 17346,
+  "median_value": 293423
+ },
+ {
+  "state": "UT",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 46906,
+  "avg_sqft": 10924,
+  "median_value": 163276
+ },
+ {
+  "state": "UT",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 33437,
+  "avg_sqft": 10933,
+  "median_value": 537780
+ },
+ {
+  "state": "UT",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 20407,
+  "avg_sqft": 21061,
+  "median_value": 857741
+ },
+ {
+  "state": "UT",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 18562,
+  "avg_sqft": 5493,
+  "median_value": 477012
+ },
+ {
+  "state": "UT",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 16686,
+  "avg_sqft": 17421,
+  "median_value": 1344228
+ },
+ {
+  "state": "UT",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 15751,
+  "avg_sqft": 9981,
+  "median_value": 635362
+ },
+ {
+  "state": "UT",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 10545,
+  "avg_sqft": 96159,
+  "median_value": 256339
+ },
+ {
+  "state": "UT",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 9597,
+  "avg_sqft": 22167,
+  "median_value": 1302426
+ },
+ {
+  "state": "UT",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 7410,
+  "avg_sqft": 19394,
+  "median_value": 1033255
+ },
+ {
+  "state": "UT",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 6468,
+  "avg_sqft": 19903,
+  "median_value": 921748
+ },
+ {
+  "state": "UT",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 4856,
+  "avg_sqft": 44301,
+  "median_value": 1750803
+ },
+ {
+  "state": "UT",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 2618,
+  "avg_sqft": 15626,
+  "median_value": 674130
+ },
+ {
+  "state": "VT",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 14409,
+  "avg_sqft": 6407,
+  "median_value": null
+ },
+ {
+  "state": "VT",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 8265,
+  "avg_sqft": 5109,
+  "median_value": null
+ },
+ {
+  "state": "VT",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 3794,
+  "avg_sqft": 7365,
+  "median_value": null
+ },
+ {
+  "state": "VT",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 2817,
+  "avg_sqft": 7666,
+  "median_value": null
+ },
+ {
+  "state": "VT",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 2501,
+  "avg_sqft": 24989,
+  "median_value": null
+ },
+ {
+  "state": "VT",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 1376,
+  "avg_sqft": 9200,
+  "median_value": null
+ },
+ {
+  "state": "VT",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 850,
+  "avg_sqft": 14650,
+  "median_value": null
+ },
+ {
+  "state": "VT",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 721,
+  "avg_sqft": 18049,
+  "median_value": null
+ },
+ {
+  "state": "VT",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 449,
+  "avg_sqft": 14084,
+  "median_value": null
+ },
+ {
+  "state": "VT",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 356,
+  "avg_sqft": 26195,
+  "median_value": null
+ },
+ {
+  "state": "VT",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 250,
+  "avg_sqft": 15891,
+  "median_value": null
+ },
+ {
+  "state": "VT",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 121,
+  "avg_sqft": 16369,
+  "median_value": null
+ },
+ {
+  "state": "VA",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 130074,
+  "avg_sqft": 13849,
+  "median_value": 86255
+ },
+ {
+  "state": "VA",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 78119,
+  "avg_sqft": 16536,
+  "median_value": 489452
+ },
+ {
+  "state": "VA",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 68605,
+  "avg_sqft": 8985,
+  "median_value": 284775
+ },
+ {
+  "state": "VA",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 49541,
+  "avg_sqft": 14321,
+  "median_value": 422986
+ },
+ {
+  "state": "VA",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 36510,
+  "avg_sqft": 16791,
+  "median_value": 750006
+ },
+ {
+  "state": "VA",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 15246,
+  "avg_sqft": 23243,
+  "median_value": 1503055
+ },
+ {
+  "state": "VA",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 14171,
+  "avg_sqft": 24007,
+  "median_value": 607904
+ },
+ {
+  "state": "VA",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 13930,
+  "avg_sqft": 15822,
+  "median_value": 64156
+ },
+ {
+  "state": "VA",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 8958,
+  "avg_sqft": 25989,
+  "median_value": 650447
+ },
+ {
+  "state": "VA",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 6632,
+  "avg_sqft": 18431,
+  "median_value": 333363
+ },
+ {
+  "state": "VA",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 6532,
+  "avg_sqft": 21222,
+  "median_value": 594859
+ },
+ {
+  "state": "VA",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 2172,
+  "avg_sqft": 60185,
+  "median_value": 2435146
+ },
+ {
+  "state": "WA",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 74832,
+  "avg_sqft": 6951,
+  "median_value": 124249
+ },
+ {
+  "state": "WA",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 68572,
+  "avg_sqft": 6111,
+  "median_value": 457853
+ },
+ {
+  "state": "WA",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 51519,
+  "avg_sqft": 20030,
+  "median_value": 926439
+ },
+ {
+  "state": "WA",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 48216,
+  "avg_sqft": 9312,
+  "median_value": 633929
+ },
+ {
+  "state": "WA",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 27154,
+  "avg_sqft": 23369,
+  "median_value": 34558
+ },
+ {
+  "state": "WA",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 23874,
+  "avg_sqft": 20201,
+  "median_value": 1239453
+ },
+ {
+  "state": "WA",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 15711,
+  "avg_sqft": 27617,
+  "median_value": 1426129
+ },
+ {
+  "state": "WA",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 15665,
+  "avg_sqft": 22735,
+  "median_value": 1272561
+ },
+ {
+  "state": "WA",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 13366,
+  "avg_sqft": 19622,
+  "median_value": 1050669
+ },
+ {
+  "state": "WA",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 9668,
+  "avg_sqft": 14828,
+  "median_value": 654230
+ },
+ {
+  "state": "WA",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 7572,
+  "avg_sqft": 27888,
+  "median_value": 1149612
+ },
+ {
+  "state": "WA",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 5639,
+  "avg_sqft": 37325,
+  "median_value": 1452114
+ },
+ {
+  "state": "WV",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 145780,
+  "avg_sqft": 5775,
+  "median_value": 52864
+ },
+ {
+  "state": "WV",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 27356,
+  "avg_sqft": 4378,
+  "median_value": 111404
+ },
+ {
+  "state": "WV",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 9263,
+  "avg_sqft": 4466,
+  "median_value": 86183
+ },
+ {
+  "state": "WV",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 2452,
+  "avg_sqft": 5245,
+  "median_value": 139135
+ },
+ {
+  "state": "WV",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 2158,
+  "avg_sqft": 6238,
+  "median_value": 181938
+ },
+ {
+  "state": "WV",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 1377,
+  "avg_sqft": 8133,
+  "median_value": 119152
+ },
+ {
+  "state": "WV",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 600,
+  "avg_sqft": 13365,
+  "median_value": 158218
+ },
+ {
+  "state": "WV",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 544,
+  "avg_sqft": 19293,
+  "median_value": 151499
+ },
+ {
+  "state": "WV",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 412,
+  "avg_sqft": 3591,
+  "median_value": 196322
+ },
+ {
+  "state": "WV",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 142,
+  "avg_sqft": 25794,
+  "median_value": 210933
+ },
+ {
+  "state": "WV",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 139,
+  "avg_sqft": 1895,
+  "median_value": 149011
+ },
+ {
+  "state": "WV",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 10,
+  "avg_sqft": 1411,
+  "median_value": 61600
+ },
+ {
+  "state": "WI",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 266558,
+  "avg_sqft": 12886,
+  "median_value": 191784
+ },
+ {
+  "state": "WI",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 38244,
+  "avg_sqft": 6857,
+  "median_value": 200570
+ },
+ {
+  "state": "WI",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 19272,
+  "avg_sqft": 19164,
+  "median_value": 613421
+ },
+ {
+  "state": "WI",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 18996,
+  "avg_sqft": 16270,
+  "median_value": 638448
+ },
+ {
+  "state": "WI",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 18079,
+  "avg_sqft": 12688,
+  "median_value": 433169
+ },
+ {
+  "state": "WI",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 8977,
+  "avg_sqft": 21189,
+  "median_value": 951543
+ },
+ {
+  "state": "WI",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 3791,
+  "avg_sqft": 28258,
+  "median_value": 242322
+ },
+ {
+  "state": "WI",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 3355,
+  "avg_sqft": 32836,
+  "median_value": 1787640
+ },
+ {
+  "state": "WI",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 3024,
+  "avg_sqft": 29202,
+  "median_value": 666778
+ },
+ {
+  "state": "WI",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 2908,
+  "avg_sqft": 29515,
+  "median_value": 466692
+ },
+ {
+  "state": "WI",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 1041,
+  "avg_sqft": 30333,
+  "median_value": 730162
+ },
+ {
+  "state": "WI",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 463,
+  "avg_sqft": 36501,
+  "median_value": 808718
+ },
+ {
+  "state": "WY",
+  "era": "unknown",
+  "use_group": "Commercial",
+  "properties": 14226,
+  "avg_sqft": 1816,
+  "median_value": 70454
+ },
+ {
+  "state": "WY",
+  "era": "pre-1960",
+  "use_group": "Commercial",
+  "properties": 8618,
+  "avg_sqft": 4648,
+  "median_value": 255808
+ },
+ {
+  "state": "WY",
+  "era": "1980-99",
+  "use_group": "Commercial",
+  "properties": 8087,
+  "avg_sqft": 15595,
+  "median_value": 292616
+ },
+ {
+  "state": "WY",
+  "era": "1960-79",
+  "use_group": "Commercial",
+  "properties": 7236,
+  "avg_sqft": 7665,
+  "median_value": 323113
+ },
+ {
+  "state": "WY",
+  "era": "2000-09",
+  "use_group": "Commercial",
+  "properties": 4543,
+  "avg_sqft": 13631,
+  "median_value": 619441
+ },
+ {
+  "state": "WY",
+  "era": "2010+",
+  "use_group": "Commercial",
+  "properties": 2946,
+  "avg_sqft": 9299,
+  "median_value": 842897
+ },
+ {
+  "state": "WY",
+  "era": "1960-79",
+  "use_group": "INDUSTRIAL",
+  "properties": 2688,
+  "avg_sqft": 14132,
+  "median_value": 371165
+ },
+ {
+  "state": "WY",
+  "era": "1980-99",
+  "use_group": "INDUSTRIAL",
+  "properties": 2544,
+  "avg_sqft": 7351,
+  "median_value": 366292
+ },
+ {
+  "state": "WY",
+  "era": "2000-09",
+  "use_group": "INDUSTRIAL",
+  "properties": 2459,
+  "avg_sqft": 13913,
+  "median_value": 486180
+ },
+ {
+  "state": "WY",
+  "era": "unknown",
+  "use_group": "INDUSTRIAL",
+  "properties": 2031,
+  "avg_sqft": 10500,
+  "median_value": 91601
+ },
+ {
+  "state": "WY",
+  "era": "2010+",
+  "use_group": "INDUSTRIAL",
+  "properties": 1571,
+  "avg_sqft": 9588,
+  "median_value": 488296
+ },
+ {
+  "state": "WY",
+  "era": "pre-1960",
+  "use_group": "INDUSTRIAL",
+  "properties": 1145,
+  "avg_sqft": 6858,
+  "median_value": 204052
+ }
+]

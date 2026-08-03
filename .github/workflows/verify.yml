@@ -1,0 +1,59 @@
+name: verify
+
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: '0 12 1 * *'
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: every CSV parses and matches its JSON twin
+        run: |
+          python - <<'PY'
+          import csv, json, pathlib, sys
+          bad = []
+          for j in sorted(pathlib.Path('data').glob('*.json')):
+              rows = json.loads(j.read_text())
+              c = j.with_suffix('.csv')
+              if not c.exists():
+                  bad.append(f"{c.name} missing")
+                  continue
+              with c.open(newline='') as fh:
+                  n = sum(1 for _ in csv.DictReader(fh))
+              if n != len(rows):
+                  bad.append(f"{j.name}: {len(rows)} rows but {c.name} has {n}")
+          if bad:
+              print("\n".join(bad)); sys.exit(1)
+          print("every CSV parses and matches its JSON twin")
+          PY
+      - name: no unsourced number in a provenance table
+        run: |
+          python - <<'PY'
+          import json, pathlib, sys
+          PAIRS = {
+            'research': [('value_num', 'source')],
+            'subtrade': [('value_num', 'source')],
+            'revenue_bands': [('value', 'source')],
+            'geo_states': [('median_hourly_wage_usd', 'median_wage_source')],
+            'geo_metros': [('median_job_value_usd', 'job_value_source')],
+          }
+          bad = []
+          for name, pairs in PAIRS.items():
+              p = pathlib.Path(f'data/{name}.json')
+              if not p.exists():
+                  bad.append(f'{name}.json missing'); continue
+              for i, r in enumerate(json.loads(p.read_text())):
+                  for value_key, src_key in pairs:
+                      if isinstance(r.get(value_key), (int, float)) and not r.get(src_key):
+                          bad.append(f'{name}[{i}].{value_key} has no {src_key}')
+          if bad:
+              print("\n".join(bad[:10])); sys.exit(1)
+          print('every numeric cell in a provenance table carries a citation')
+          PY
