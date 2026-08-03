@@ -588,20 +588,6 @@
   "shared_across": 5
  },
  {
-  "trade": "hvac",
-  "segment": "industrial",
-  "topic": "search_interest",
-  "field": "yoy_search_change_pct",
-  "value_num": 36,
-  "value_text": null,
-  "source": "Trade Economy Index triangulation: median of 2 independent sources: Google Trends & Alibaba B2B Market Insights, 2026, https://www.alibaba.com/showroom/industrial-hvac.html | Alibaba Industry Market Analysis / Google Trends (2025, https://www.alibaba.com/)",
-  "n_sources": 2,
-  "confidence": "low",
-  "derived": true,
-  "year": 2026,
-  "shared_across": null
- },
- {
   "trade": "plumbing",
   "segment": "residential",
   "topic": "bad_debt",
@@ -4200,20 +4186,6 @@
   "shared_across": null
  },
  {
-  "trade": "concrete-masonry",
-  "segment": "industrial",
-  "topic": "search_interest",
-  "field": "yoy_search_change_pct",
-  "value_num": 113.89,
-  "value_text": null,
-  "source": "Alibaba.com B2B Trade Intelligence (2026) - https://www.alibaba.com",
-  "n_sources": 1,
-  "confidence": "low",
-  "derived": false,
-  "year": 2026,
-  "shared_across": null
- },
- {
   "trade": "fire-life-safety",
   "segment": "residential",
   "topic": "bad_debt",
@@ -4814,19 +4786,5 @@
   "derived": false,
   "year": 2026,
   "shared_across": 5
- },
- {
-  "trade": "fire-life-safety",
-  "segment": "industrial",
-  "topic": "search_interest",
-  "field": "yoy_search_change_pct",
-  "value_num": 10.34,
-  "value_text": null,
-  "source": "Alibaba.com B2B Search Query Data Analysis (2025, https://www.alibaba.com)",
-  "n_sources": 1,
-  "confidence": "low",
-  "derived": false,
-  "year": 2025,
-  "shared_across": null
  }
 ]

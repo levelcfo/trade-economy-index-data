@@ -53,7 +53,7 @@ read it in the browser) and `.json` (same rows, for code).
 |---|---|---|
 | [`trades`](data/trades.csv) | 13 | a trade, with its AI-Resilience and AI-Leverage subscores |
 | [`research`](data/research.csv) | 1,007 | one figure for one trade on one of ~42 research topics |
-| [`subtrade`](data/subtrade.csv) | 345 | the same, split by residential / commercial / industrial |
+| [`subtrade`](data/subtrade.csv) | 342 | the same, split by residential / commercial / industrial |
 | [`revenue_bands`](data/revenue_bands.csv) | 168 | a unit-economics metric by revenue band (under $1M to $20M+) |
 | [`geo_states`](data/geo_states.csv) | 650 | a trade in a state: median wage, differential, licensing regime |
 | [`geo_metros`](data/geo_metros.csv) | 650 | a trade in a metro: contractor density, job value, permit trend |

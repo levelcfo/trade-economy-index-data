@@ -126,8 +126,8 @@
   "state": "TX",
   "contractor_density_note": "According to Census Bureau County Business Patterns (CBP) data, there were 1,815 Plumbing, Heating, and Air-Conditioning Contracting establishments (NAICS 238220) in the Dallas-Fort Worth-Arlington, TX MSA. Additionally, BLS OEWS reports 10,060 Heating, Air Conditioning, and Refrigeration Mechanics and Installers (SOC 49-9021) employed in the metro area with a location quotient of 0.97.",
   "density_source": "U.S. Bureau of Labor Statistics OEWS (2023) https://www.bls.gov/oes/current/oes_19100.htm and U.S. Census Bureau County Business Patterns (2019 via NCTCOG DBE Methodology Report)",
-  "median_job_value_usd": 9340,
-  "job_value_source": "CribbFam AI Regional Cost Guide: Dallas County, TX (2026) https://cribbfam.ai/cost-guide/hvac-installation/tx/dallas-county",
+  "median_job_value_usd": null,
+  "job_value_source": null,
   "permit_volume_trend": "The Dallas-Fort Worth-Arlington MSA led all U.S. metropolitan areas in residential construction activity, pulling 63,775 building permits over trailing 12-month periods, a 13.2% year-over-year increase and roughly 8.17 permits per 1,000 residents.",
   "permit_source": "U.S. Census Bureau Building Permits Survey (2024/2025) https://www.census.gov/construction/bps/ and FRED, Federal Reserve Bank of St. Louis (2026) https://fred.stlouisfed.org/series/DALL148BPPRIVSA"
  },
