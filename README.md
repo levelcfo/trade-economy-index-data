@@ -25,6 +25,7 @@ Every numeric row carries its provenance beside the value:
 | `n_sources` | how many INDEPENDENT sources corroborated it |
 | `confidence` | `high-primary` (a government or SEC filing), `high`, `adjudicated` (a model reconciled disagreeing sources), `med`, `low` (single source), or `null` where the figure is prose |
 | `derived` | `true` when the index computed the figure by triangulating sources rather than reading it off one |
+| `shared_across` | how many trade or segment records publish this exact value. Greater than 1 means it is an industry-wide benchmark, not a measurement that distinguishes this trade |
 
 **`confidence` and `n_sources` are independent, and high confidence often means ONE
 source.** Most `high-primary` rows carry `n_sources: 1` on purpose: a figure read
