@@ -88,10 +88,10 @@
   "label": "Billable hour ratio",
   "p10": 76.5,
   "p25": 90.1,
-  "median": 96.7,
+  "median": 97.1,
   "p75": 99.6,
   "p90": 102.8,
-  "n": 654,
+  "n": 963,
   "note": "Hours billed as a share of hours worked. Over 100% reflects billed change-order and overtime hours.",
   "publisher": "Level"
  },

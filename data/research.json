@@ -9,7 +9,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -21,7 +21,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -33,7 +33,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -45,7 +45,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -57,7 +57,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -69,7 +69,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -93,7 +93,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -105,7 +105,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -117,7 +117,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -141,7 +141,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "hvac",
@@ -189,7 +189,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -249,7 +249,7 @@
   "n_sources": 1,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "hvac",
@@ -297,7 +297,7 @@
   "n_sources": 2,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "hvac",
@@ -309,7 +309,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2020
  },
  {
   "trade": "hvac",
@@ -321,7 +321,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "hvac",
@@ -345,7 +345,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "hvac",
@@ -369,7 +369,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -381,7 +381,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "hvac",
@@ -393,7 +393,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -405,7 +405,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2019
  },
  {
   "trade": "hvac",
@@ -417,7 +417,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2019
  },
  {
   "trade": "hvac",
@@ -429,7 +429,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -441,7 +441,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "hvac",
@@ -465,7 +465,7 @@
   "n_sources": 3,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "hvac",
@@ -477,7 +477,7 @@
   "n_sources": 2,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -489,7 +489,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -501,7 +501,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "hvac",
@@ -513,7 +513,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "hvac",
@@ -525,7 +525,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -537,7 +537,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -549,7 +549,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2020
  },
  {
   "trade": "hvac",
@@ -561,7 +561,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2020
  },
  {
   "trade": "hvac",
@@ -573,7 +573,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "hvac",
@@ -585,7 +585,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "hvac",
@@ -597,7 +597,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "hvac",
@@ -609,7 +609,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "hvac",
@@ -621,7 +621,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "hvac",
@@ -633,7 +633,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -645,7 +645,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "hvac",
@@ -657,7 +657,7 @@
   "n_sources": 4,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "hvac",
@@ -669,7 +669,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "hvac",
@@ -681,7 +681,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -693,7 +693,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -705,7 +705,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "hvac",
@@ -717,7 +717,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "hvac",
@@ -729,7 +729,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "hvac",
@@ -741,7 +741,7 @@
   "n_sources": 3,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "hvac",
@@ -753,7 +753,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "hvac",
@@ -765,7 +765,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -777,7 +777,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "hvac",
@@ -789,7 +789,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -801,7 +801,7 @@
   "n_sources": 1,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "hvac",
@@ -813,7 +813,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "hvac",
@@ -825,7 +825,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "hvac",
@@ -837,7 +837,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "hvac",
@@ -849,7 +849,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "hvac",
@@ -861,7 +861,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "hvac",
@@ -873,7 +873,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "hvac",
@@ -885,7 +885,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "hvac",
@@ -897,7 +897,7 @@
   "n_sources": 1,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "hvac",
@@ -909,7 +909,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "hvac",
@@ -921,7 +921,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "hvac",
@@ -933,7 +933,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "plumbing",
@@ -945,7 +945,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "plumbing",
@@ -957,7 +957,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "plumbing",
@@ -969,7 +969,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "plumbing",
@@ -981,7 +981,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "plumbing",
@@ -993,7 +993,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "plumbing",
@@ -1005,7 +1005,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "plumbing",
@@ -1029,7 +1029,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "plumbing",
@@ -1041,7 +1041,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "plumbing",
@@ -1053,7 +1053,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "plumbing",
@@ -1077,7 +1077,7 @@
   "n_sources": 4,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1101,7 +1101,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "plumbing",
@@ -1137,7 +1137,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "plumbing",
@@ -1173,7 +1173,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1233,7 +1233,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2020
  },
  {
   "trade": "plumbing",
@@ -1245,7 +1245,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2021
  },
  {
   "trade": "plumbing",
@@ -1269,7 +1269,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "plumbing",
@@ -1281,7 +1281,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "plumbing",
@@ -1293,7 +1293,7 @@
   "n_sources": 5,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "plumbing",
@@ -1305,7 +1305,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "plumbing",
@@ -1317,7 +1317,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "plumbing",
@@ -1329,7 +1329,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2019
  },
  {
   "trade": "plumbing",
@@ -1353,7 +1353,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "plumbing",
@@ -1365,7 +1365,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "plumbing",
@@ -1377,7 +1377,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "plumbing",
@@ -1389,7 +1389,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1401,7 +1401,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "plumbing",
@@ -1413,7 +1413,7 @@
   "n_sources": 1,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "plumbing",
@@ -1425,7 +1425,7 @@
   "n_sources": 1,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "plumbing",
@@ -1437,7 +1437,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "plumbing",
@@ -1449,7 +1449,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1461,7 +1461,7 @@
   "n_sources": 4,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2019
  },
  {
   "trade": "plumbing",
@@ -1473,7 +1473,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2017
  },
  {
   "trade": "plumbing",
@@ -1485,7 +1485,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "plumbing",
@@ -1497,7 +1497,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "plumbing",
@@ -1509,7 +1509,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1521,7 +1521,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1557,7 +1557,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1569,7 +1569,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "plumbing",
@@ -1581,7 +1581,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1593,7 +1593,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1605,7 +1605,7 @@
   "n_sources": 2,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1617,7 +1617,7 @@
   "n_sources": 2,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1629,7 +1629,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1641,7 +1641,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1653,7 +1653,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "plumbing",
@@ -1665,7 +1665,7 @@
   "n_sources": 4,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "plumbing",
@@ -1677,7 +1677,7 @@
   "n_sources": 3,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1689,7 +1689,7 @@
   "n_sources": 3,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "plumbing",
@@ -1701,7 +1701,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "plumbing",
@@ -1713,7 +1713,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "plumbing",
@@ -1725,7 +1725,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1737,7 +1737,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1749,7 +1749,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "plumbing",
@@ -1761,7 +1761,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "plumbing",
@@ -1773,7 +1773,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1785,7 +1785,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1797,7 +1797,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1809,7 +1809,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1821,7 +1821,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1833,7 +1833,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1845,7 +1845,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "plumbing",
@@ -1857,7 +1857,7 @@
   "n_sources": 3,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "plumbing",
@@ -1869,7 +1869,7 @@
   "n_sources": 5,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "plumbing",
@@ -1881,7 +1881,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -1893,7 +1893,7 @@
   "n_sources": 2,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "electrical",
@@ -1905,7 +1905,7 @@
   "n_sources": 2,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "electrical",
@@ -1917,7 +1917,7 @@
   "n_sources": 2,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "electrical",
@@ -1929,7 +1929,7 @@
   "n_sources": 2,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "electrical",
@@ -1941,7 +1941,7 @@
   "n_sources": 2,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "electrical",
@@ -1953,7 +1953,7 @@
   "n_sources": 2,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "electrical",
@@ -1977,7 +1977,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "electrical",
@@ -1989,7 +1989,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "electrical",
@@ -2001,7 +2001,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "electrical",
@@ -2025,7 +2025,7 @@
   "n_sources": 1,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "electrical",
@@ -2049,7 +2049,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "electrical",
@@ -2073,7 +2073,7 @@
   "n_sources": 4,
   "confidence": "high",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2133,7 +2133,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2253,7 +2253,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2020
  },
  {
   "trade": "electrical",
@@ -2265,7 +2265,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "electrical",
@@ -2277,7 +2277,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2301,7 +2301,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "electrical",
@@ -2313,7 +2313,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "electrical",
@@ -2325,7 +2325,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "electrical",
@@ -2337,7 +2337,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "electrical",
@@ -2349,7 +2349,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2021
  },
  {
   "trade": "electrical",
@@ -2361,7 +2361,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "electrical",
@@ -2373,7 +2373,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2021
  },
  {
   "trade": "electrical",
@@ -2385,7 +2385,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": true,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "electrical",
@@ -2409,7 +2409,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "electrical",
@@ -2421,7 +2421,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "electrical",
@@ -2433,7 +2433,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "electrical",
@@ -2445,7 +2445,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "electrical",
@@ -2457,7 +2457,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "electrical",
@@ -2469,7 +2469,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "electrical",
@@ -2481,7 +2481,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "electrical",
@@ -2493,7 +2493,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2018
  },
  {
   "trade": "electrical",
@@ -2505,7 +2505,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2017
  },
  {
   "trade": "electrical",
@@ -2517,7 +2517,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2529,7 +2529,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2541,7 +2541,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2553,7 +2553,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2021
  },
  {
   "trade": "electrical",
@@ -2565,7 +2565,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2021
  },
  {
   "trade": "electrical",
@@ -2577,7 +2577,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "electrical",
@@ -2589,7 +2589,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2601,7 +2601,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2613,7 +2613,7 @@
   "n_sources": 4,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2625,7 +2625,7 @@
   "n_sources": 2,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "electrical",
@@ -2637,7 +2637,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "electrical",
@@ -2649,7 +2649,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2661,7 +2661,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "electrical",
@@ -2673,7 +2673,7 @@
   "n_sources": 4,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2685,7 +2685,7 @@
   "n_sources": 4,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2697,7 +2697,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": true,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "electrical",
@@ -2709,7 +2709,7 @@
   "n_sources": 2,
   "confidence": "low",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2721,7 +2721,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2733,7 +2733,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2745,7 +2745,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2757,7 +2757,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2769,7 +2769,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2781,7 +2781,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2793,7 +2793,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2805,7 +2805,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "electrical",
@@ -2817,7 +2817,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2829,7 +2829,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "electrical",
@@ -2841,7 +2841,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2853,7 +2853,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "electrical",
@@ -2865,7 +2865,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "electrical",
@@ -2877,7 +2877,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "roofing",
@@ -2889,7 +2889,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "roofing",
@@ -2901,7 +2901,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "roofing",
@@ -2913,7 +2913,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "roofing",
@@ -2925,7 +2925,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "roofing",
@@ -2937,7 +2937,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "roofing",
@@ -2949,7 +2949,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "roofing",
@@ -2973,7 +2973,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "roofing",
@@ -2985,7 +2985,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "roofing",
@@ -2997,7 +2997,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "roofing",
@@ -3021,7 +3021,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3081,7 +3081,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "roofing",
@@ -3117,7 +3117,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3177,7 +3177,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2020
  },
  {
   "trade": "roofing",
@@ -3189,7 +3189,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "roofing",
@@ -3201,7 +3201,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "roofing",
@@ -3213,7 +3213,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "roofing",
@@ -3225,7 +3225,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "roofing",
@@ -3237,7 +3237,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "roofing",
@@ -3249,7 +3249,7 @@
   "n_sources": 1,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "roofing",
@@ -3261,7 +3261,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "roofing",
@@ -3273,7 +3273,7 @@
   "n_sources": 1,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "roofing",
@@ -3285,7 +3285,7 @@
   "n_sources": 1,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "roofing",
@@ -3297,7 +3297,7 @@
   "n_sources": 1,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "roofing",
@@ -3309,7 +3309,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2019
  },
  {
   "trade": "roofing",
@@ -3321,7 +3321,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "roofing",
@@ -3333,7 +3333,7 @@
   "n_sources": 3,
   "confidence": "high",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3345,7 +3345,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2018
  },
  {
   "trade": "roofing",
@@ -3357,7 +3357,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2018
  },
  {
   "trade": "roofing",
@@ -3369,7 +3369,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3381,7 +3381,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3393,7 +3393,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "roofing",
@@ -3405,7 +3405,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3417,7 +3417,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3429,7 +3429,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3441,7 +3441,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3453,7 +3453,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3465,7 +3465,7 @@
   "n_sources": 3,
   "confidence": "low",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3477,7 +3477,7 @@
   "n_sources": 3,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3489,7 +3489,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3501,7 +3501,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3513,7 +3513,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "roofing",
@@ -3525,7 +3525,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "roofing",
@@ -3537,7 +3537,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3549,7 +3549,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3561,7 +3561,7 @@
   "n_sources": 3,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "roofing",
@@ -3573,7 +3573,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3585,7 +3585,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3597,7 +3597,7 @@
   "n_sources": 4,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3609,7 +3609,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "roofing",
@@ -3621,7 +3621,7 @@
   "n_sources": 2,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "roofing",
@@ -3633,7 +3633,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3645,7 +3645,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3657,7 +3657,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3669,7 +3669,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3681,7 +3681,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3693,7 +3693,7 @@
   "n_sources": 3,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3705,7 +3705,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "roofing",
@@ -3717,7 +3717,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3729,7 +3729,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "roofing",
@@ -3741,7 +3741,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "roofing",
@@ -3753,7 +3753,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "roofing",
@@ -3765,7 +3765,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "roofing",
@@ -3777,7 +3777,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2021
  },
  {
   "trade": "roofing",
@@ -3789,7 +3789,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "glass-glazing",
@@ -3801,7 +3801,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "glass-glazing",
@@ -3813,7 +3813,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "glass-glazing",
@@ -3825,7 +3825,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "glass-glazing",
@@ -3837,7 +3837,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "glass-glazing",
@@ -3849,7 +3849,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "glass-glazing",
@@ -3861,7 +3861,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "glass-glazing",
@@ -3897,7 +3897,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "glass-glazing",
@@ -3909,7 +3909,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "glass-glazing",
@@ -3933,7 +3933,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "glass-glazing",
@@ -4017,7 +4017,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "glass-glazing",
@@ -4053,7 +4053,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "glass-glazing",
@@ -4065,7 +4065,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "glass-glazing",
@@ -4077,7 +4077,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2020
  },
  {
   "trade": "glass-glazing",
@@ -4089,7 +4089,7 @@
   "n_sources": 2,
   "confidence": "low",
   "derived": true,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "glass-glazing",
@@ -4137,7 +4137,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2018
  },
  {
   "trade": "glass-glazing",
@@ -4149,7 +4149,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "glass-glazing",
@@ -4161,7 +4161,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "glass-glazing",
@@ -4173,7 +4173,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "glass-glazing",
@@ -4185,7 +4185,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "glass-glazing",
@@ -4197,7 +4197,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2021
  },
  {
   "trade": "glass-glazing",
@@ -4209,7 +4209,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "glass-glazing",
@@ -4221,7 +4221,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2017
  },
  {
   "trade": "glass-glazing",
@@ -4233,7 +4233,7 @@
   "n_sources": 3,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "glass-glazing",
@@ -4245,7 +4245,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "glass-glazing",
@@ -4257,7 +4257,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "glass-glazing",
@@ -4269,7 +4269,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "glass-glazing",
@@ -4281,7 +4281,7 @@
   "n_sources": 4,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2019
  },
  {
   "trade": "glass-glazing",
@@ -4293,7 +4293,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "glass-glazing",
@@ -4305,7 +4305,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "glass-glazing",
@@ -4317,7 +4317,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "glass-glazing",
@@ -4329,7 +4329,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "glass-glazing",
@@ -4365,7 +4365,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "glass-glazing",
@@ -4389,7 +4389,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "glass-glazing",
@@ -4401,7 +4401,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "glass-glazing",
@@ -4413,7 +4413,7 @@
   "n_sources": 3,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "glass-glazing",
@@ -4425,7 +4425,7 @@
   "n_sources": 3,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "glass-glazing",
@@ -4437,7 +4437,7 @@
   "n_sources": 3,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "glass-glazing",
@@ -4449,7 +4449,7 @@
   "n_sources": 3,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "glass-glazing",
@@ -4461,7 +4461,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "glass-glazing",
@@ -4473,7 +4473,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2021
  },
  {
   "trade": "glass-glazing",
@@ -4485,7 +4485,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "glass-glazing",
@@ -4497,7 +4497,7 @@
   "n_sources": 3,
   "confidence": "low",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "glass-glazing",
@@ -4509,7 +4509,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "glass-glazing",
@@ -4521,7 +4521,7 @@
   "n_sources": 5,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "glass-glazing",
@@ -4533,7 +4533,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "glass-glazing",
@@ -4545,7 +4545,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "glass-glazing",
@@ -4557,7 +4557,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "glass-glazing",
@@ -4569,7 +4569,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "glass-glazing",
@@ -4593,7 +4593,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "glass-glazing",
@@ -4605,7 +4605,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "glass-glazing",
@@ -4617,7 +4617,7 @@
   "n_sources": 5,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "glass-glazing",
@@ -4629,7 +4629,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "glass-glazing",
@@ -4641,7 +4641,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -4653,7 +4653,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "doors-access",
@@ -4665,7 +4665,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "doors-access",
@@ -4677,7 +4677,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "doors-access",
@@ -4689,7 +4689,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "doors-access",
@@ -4701,7 +4701,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "doors-access",
@@ -4713,7 +4713,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "doors-access",
@@ -4737,7 +4737,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "doors-access",
@@ -4785,7 +4785,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "doors-access",
@@ -4833,7 +4833,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "doors-access",
@@ -4893,7 +4893,7 @@
   "n_sources": 1,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "doors-access",
@@ -4953,7 +4953,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2020
  },
  {
   "trade": "doors-access",
@@ -4977,7 +4977,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "doors-access",
@@ -4989,7 +4989,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "doors-access",
@@ -5001,7 +5001,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "doors-access",
@@ -5013,7 +5013,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "doors-access",
@@ -5025,7 +5025,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "doors-access",
@@ -5037,7 +5037,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "doors-access",
@@ -5049,7 +5049,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "doors-access",
@@ -5061,7 +5061,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "doors-access",
@@ -5073,7 +5073,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2017
  },
  {
   "trade": "doors-access",
@@ -5085,7 +5085,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "doors-access",
@@ -5097,7 +5097,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "doors-access",
@@ -5109,7 +5109,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2019
  },
  {
   "trade": "doors-access",
@@ -5121,7 +5121,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "doors-access",
@@ -5133,7 +5133,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "doors-access",
@@ -5145,7 +5145,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5157,7 +5157,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "doors-access",
@@ -5169,7 +5169,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "doors-access",
@@ -5181,7 +5181,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5193,7 +5193,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5205,7 +5205,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5217,7 +5217,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5229,7 +5229,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5241,7 +5241,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "doors-access",
@@ -5253,7 +5253,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "doors-access",
@@ -5265,7 +5265,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5277,7 +5277,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5289,7 +5289,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5301,7 +5301,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "doors-access",
@@ -5313,7 +5313,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5325,7 +5325,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "doors-access",
@@ -5337,7 +5337,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5349,7 +5349,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "doors-access",
@@ -5361,7 +5361,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "doors-access",
@@ -5373,7 +5373,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "doors-access",
@@ -5385,7 +5385,7 @@
   "n_sources": 5,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "doors-access",
@@ -5397,7 +5397,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5409,7 +5409,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5421,7 +5421,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5433,7 +5433,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5445,7 +5445,7 @@
   "n_sources": 4,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5457,7 +5457,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5469,7 +5469,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5481,7 +5481,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5493,7 +5493,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5505,7 +5505,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5517,7 +5517,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5529,7 +5529,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5541,7 +5541,7 @@
   "n_sources": 4,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "doors-access",
@@ -5553,7 +5553,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "doors-access",
@@ -5565,7 +5565,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "landscaping",
@@ -5577,7 +5577,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "landscaping",
@@ -5589,7 +5589,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "landscaping",
@@ -5601,7 +5601,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "landscaping",
@@ -5613,7 +5613,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "landscaping",
@@ -5625,7 +5625,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "landscaping",
@@ -5637,7 +5637,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "landscaping",
@@ -5661,7 +5661,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "landscaping",
@@ -5673,7 +5673,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "landscaping",
@@ -5685,7 +5685,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "landscaping",
@@ -5709,7 +5709,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "landscaping",
@@ -5745,7 +5745,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2021
  },
  {
   "trade": "landscaping",
@@ -5769,7 +5769,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "landscaping",
@@ -5805,7 +5805,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "landscaping",
@@ -5841,7 +5841,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "landscaping",
@@ -5853,7 +5853,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "landscaping",
@@ -5865,7 +5865,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "landscaping",
@@ -5877,7 +5877,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2020
  },
  {
   "trade": "landscaping",
@@ -5889,7 +5889,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "landscaping",
@@ -5901,7 +5901,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "landscaping",
@@ -5949,7 +5949,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "landscaping",
@@ -5961,7 +5961,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "landscaping",
@@ -5973,7 +5973,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "landscaping",
@@ -5985,7 +5985,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2020
  },
  {
   "trade": "landscaping",
@@ -5997,7 +5997,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2020
  },
  {
   "trade": "landscaping",
@@ -6009,7 +6009,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "landscaping",
@@ -6021,7 +6021,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "landscaping",
@@ -6033,7 +6033,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "landscaping",
@@ -6045,7 +6045,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "landscaping",
@@ -6057,7 +6057,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": true,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "landscaping",
@@ -6069,7 +6069,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "landscaping",
@@ -6081,7 +6081,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "landscaping",
@@ -6093,7 +6093,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "landscaping",
@@ -6105,7 +6105,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "landscaping",
@@ -6117,7 +6117,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "landscaping",
@@ -6129,7 +6129,7 @@
   "n_sources": 3,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2017
  },
  {
   "trade": "landscaping",
@@ -6141,7 +6141,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2017
  },
  {
   "trade": "landscaping",
@@ -6153,7 +6153,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "landscaping",
@@ -6165,7 +6165,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "landscaping",
@@ -6177,7 +6177,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "landscaping",
@@ -6189,7 +6189,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "landscaping",
@@ -6201,7 +6201,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "landscaping",
@@ -6213,7 +6213,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "landscaping",
@@ -6225,7 +6225,7 @@
   "n_sources": 1,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "landscaping",
@@ -6237,7 +6237,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "landscaping",
@@ -6249,7 +6249,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "landscaping",
@@ -6261,7 +6261,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "landscaping",
@@ -6273,7 +6273,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "landscaping",
@@ -6285,7 +6285,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2021
  },
  {
   "trade": "landscaping",
@@ -6297,7 +6297,7 @@
   "n_sources": 2,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "landscaping",
@@ -6309,7 +6309,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "landscaping",
@@ -6321,7 +6321,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "landscaping",
@@ -6333,7 +6333,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "landscaping",
@@ -6345,7 +6345,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "landscaping",
@@ -6357,7 +6357,7 @@
   "n_sources": 3,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2018
  },
  {
   "trade": "landscaping",
@@ -6369,7 +6369,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "landscaping",
@@ -6381,7 +6381,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "landscaping",
@@ -6393,7 +6393,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "landscaping",
@@ -6405,7 +6405,7 @@
   "n_sources": 4,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "landscaping",
@@ -6417,7 +6417,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "landscaping",
@@ -6429,7 +6429,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "landscaping",
@@ -6441,7 +6441,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "landscaping",
@@ -6453,7 +6453,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "landscaping",
@@ -6465,7 +6465,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "landscaping",
@@ -6477,7 +6477,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "landscaping",
@@ -6489,7 +6489,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "landscaping",
@@ -6501,7 +6501,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "landscaping",
@@ -6513,7 +6513,7 @@
   "n_sources": 3,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "landscaping",
@@ -6525,7 +6525,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "landscaping",
@@ -6537,7 +6537,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "commercial-cleaning",
@@ -6549,7 +6549,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "commercial-cleaning",
@@ -6561,7 +6561,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "commercial-cleaning",
@@ -6573,7 +6573,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "commercial-cleaning",
@@ -6585,7 +6585,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "commercial-cleaning",
@@ -6597,7 +6597,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "commercial-cleaning",
@@ -6609,7 +6609,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "commercial-cleaning",
@@ -6729,7 +6729,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -6765,7 +6765,7 @@
   "n_sources": 1,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -6801,7 +6801,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "commercial-cleaning",
@@ -6813,7 +6813,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "commercial-cleaning",
@@ -6825,7 +6825,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2020
  },
  {
   "trade": "commercial-cleaning",
@@ -6837,7 +6837,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "commercial-cleaning",
@@ -6849,7 +6849,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "commercial-cleaning",
@@ -6897,7 +6897,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "commercial-cleaning",
@@ -6909,7 +6909,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "commercial-cleaning",
@@ -6933,7 +6933,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "commercial-cleaning",
@@ -6945,7 +6945,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "commercial-cleaning",
@@ -6957,7 +6957,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -6969,7 +6969,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "commercial-cleaning",
@@ -6981,7 +6981,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -6993,7 +6993,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "commercial-cleaning",
@@ -7005,7 +7005,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "commercial-cleaning",
@@ -7017,7 +7017,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "commercial-cleaning",
@@ -7029,7 +7029,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "commercial-cleaning",
@@ -7041,7 +7041,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2019
  },
  {
   "trade": "commercial-cleaning",
@@ -7053,7 +7053,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2019
  },
  {
   "trade": "commercial-cleaning",
@@ -7065,7 +7065,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -7077,7 +7077,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -7089,7 +7089,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "commercial-cleaning",
@@ -7101,7 +7101,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -7113,7 +7113,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -7125,7 +7125,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -7137,7 +7137,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -7149,7 +7149,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -7161,7 +7161,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -7173,7 +7173,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -7185,7 +7185,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -7197,7 +7197,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "commercial-cleaning",
@@ -7209,7 +7209,7 @@
   "n_sources": 5,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -7221,7 +7221,7 @@
   "n_sources": 1,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -7233,7 +7233,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "commercial-cleaning",
@@ -7245,7 +7245,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -7257,7 +7257,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -7269,7 +7269,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "commercial-cleaning",
@@ -7281,7 +7281,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -7293,7 +7293,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -7305,7 +7305,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -7317,7 +7317,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "commercial-cleaning",
@@ -7329,7 +7329,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "commercial-cleaning",
@@ -7341,7 +7341,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -7353,7 +7353,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "commercial-cleaning",
@@ -7365,7 +7365,7 @@
   "n_sources": 2,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "commercial-cleaning",
@@ -7377,7 +7377,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "commercial-cleaning",
@@ -7389,7 +7389,7 @@
   "n_sources": 3,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "commercial-cleaning",
@@ -7401,7 +7401,7 @@
   "n_sources": 4,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "commercial-cleaning",
@@ -7413,7 +7413,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "painting",
@@ -7425,7 +7425,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "painting",
@@ -7437,7 +7437,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "painting",
@@ -7449,7 +7449,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "painting",
@@ -7461,7 +7461,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "painting",
@@ -7473,7 +7473,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "painting",
@@ -7485,7 +7485,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "painting",
@@ -7557,7 +7557,7 @@
   "n_sources": 3,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "painting",
@@ -7665,7 +7665,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "painting",
@@ -7701,7 +7701,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "painting",
@@ -7713,7 +7713,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "painting",
@@ -7725,7 +7725,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2017
  },
  {
   "trade": "painting",
@@ -7737,7 +7737,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2017
  },
  {
   "trade": "painting",
@@ -7749,7 +7749,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2017
  },
  {
   "trade": "painting",
@@ -7761,7 +7761,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2017
  },
  {
   "trade": "painting",
@@ -7785,7 +7785,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2020
  },
  {
   "trade": "painting",
@@ -7845,7 +7845,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "painting",
@@ -7857,7 +7857,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "painting",
@@ -7869,7 +7869,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "painting",
@@ -7881,7 +7881,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "painting",
@@ -7893,7 +7893,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "painting",
@@ -7905,7 +7905,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "painting",
@@ -7917,7 +7917,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "painting",
@@ -7929,7 +7929,7 @@
   "n_sources": 1,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "painting",
@@ -7941,7 +7941,7 @@
   "n_sources": 3,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "painting",
@@ -7953,7 +7953,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "painting",
@@ -7965,7 +7965,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2017
  },
  {
   "trade": "painting",
@@ -7977,7 +7977,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "painting",
@@ -7989,7 +7989,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "painting",
@@ -8001,7 +8001,7 @@
   "n_sources": 5,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2010
  },
  {
   "trade": "painting",
@@ -8013,7 +8013,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "painting",
@@ -8025,7 +8025,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "painting",
@@ -8037,7 +8037,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "painting",
@@ -8049,7 +8049,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "painting",
@@ -8061,7 +8061,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "painting",
@@ -8073,7 +8073,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2021
  },
  {
   "trade": "painting",
@@ -8085,7 +8085,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "painting",
@@ -8097,7 +8097,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "painting",
@@ -8109,7 +8109,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "painting",
@@ -8121,7 +8121,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "painting",
@@ -8133,7 +8133,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "painting",
@@ -8145,7 +8145,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "painting",
@@ -8157,7 +8157,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "painting",
@@ -8169,7 +8169,7 @@
   "n_sources": 2,
   "confidence": "low",
   "derived": true,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "painting",
@@ -8181,7 +8181,7 @@
   "n_sources": 4,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "painting",
@@ -8193,7 +8193,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "painting",
@@ -8205,7 +8205,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "painting",
@@ -8217,7 +8217,7 @@
   "n_sources": 3,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "painting",
@@ -8229,7 +8229,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "painting",
@@ -8241,7 +8241,7 @@
   "n_sources": 2,
   "confidence": "low",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "painting",
@@ -8253,7 +8253,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "painting",
@@ -8265,7 +8265,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2019
  },
  {
   "trade": "painting",
@@ -8277,7 +8277,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2021
  },
  {
   "trade": "painting",
@@ -8289,7 +8289,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "painting",
@@ -8301,7 +8301,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "painting",
@@ -8313,7 +8313,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "painting",
@@ -8325,7 +8325,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "painting",
@@ -8337,7 +8337,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "painting",
@@ -8349,7 +8349,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "painting",
@@ -8361,7 +8361,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "painting",
@@ -8373,7 +8373,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "painting",
@@ -8385,7 +8385,7 @@
   "n_sources": 2,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "painting",
@@ -8397,7 +8397,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "painting",
@@ -8409,7 +8409,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "concrete-masonry",
@@ -8421,7 +8421,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "concrete-masonry",
@@ -8433,7 +8433,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "concrete-masonry",
@@ -8445,7 +8445,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "concrete-masonry",
@@ -8457,7 +8457,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "concrete-masonry",
@@ -8469,7 +8469,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "concrete-masonry",
@@ -8481,7 +8481,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "concrete-masonry",
@@ -8505,7 +8505,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "concrete-masonry",
@@ -8517,7 +8517,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "concrete-masonry",
@@ -8529,7 +8529,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "concrete-masonry",
@@ -8577,7 +8577,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "concrete-masonry",
@@ -8625,7 +8625,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -8661,7 +8661,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -8721,7 +8721,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2020
  },
  {
   "trade": "concrete-masonry",
@@ -8745,7 +8745,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "concrete-masonry",
@@ -8769,7 +8769,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "concrete-masonry",
@@ -8781,7 +8781,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "concrete-masonry",
@@ -8793,7 +8793,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "concrete-masonry",
@@ -8805,7 +8805,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2019
  },
  {
   "trade": "concrete-masonry",
@@ -8817,7 +8817,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "concrete-masonry",
@@ -8829,7 +8829,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -8841,7 +8841,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "concrete-masonry",
@@ -8853,7 +8853,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "concrete-masonry",
@@ -8865,7 +8865,7 @@
   "n_sources": 3,
   "confidence": "low",
   "derived": true,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "concrete-masonry",
@@ -8877,7 +8877,7 @@
   "n_sources": 1,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "concrete-masonry",
@@ -8889,7 +8889,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "concrete-masonry",
@@ -8901,7 +8901,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "concrete-masonry",
@@ -8913,7 +8913,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2019
  },
  {
   "trade": "concrete-masonry",
@@ -8925,7 +8925,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "concrete-masonry",
@@ -8937,7 +8937,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -8949,7 +8949,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -8961,7 +8961,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -8973,7 +8973,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -8985,7 +8985,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2021
  },
  {
   "trade": "concrete-masonry",
@@ -8997,7 +8997,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "concrete-masonry",
@@ -9009,7 +9009,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -9021,7 +9021,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -9033,7 +9033,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -9045,7 +9045,7 @@
   "n_sources": 4,
   "confidence": "low",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -9057,7 +9057,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -9069,7 +9069,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -9081,7 +9081,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -9093,7 +9093,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -9105,7 +9105,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -9117,7 +9117,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "concrete-masonry",
@@ -9129,7 +9129,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -9141,7 +9141,7 @@
   "n_sources": 1,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "concrete-masonry",
@@ -9153,7 +9153,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -9165,7 +9165,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -9177,7 +9177,7 @@
   "n_sources": 1,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -9189,7 +9189,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -9201,7 +9201,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -9213,7 +9213,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -9225,7 +9225,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -9237,7 +9237,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "concrete-masonry",
@@ -9249,7 +9249,7 @@
   "n_sources": 2,
   "confidence": "low",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -9261,7 +9261,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "concrete-masonry",
@@ -9273,7 +9273,7 @@
   "n_sources": 3,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "concrete-masonry",
@@ -9285,7 +9285,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -9297,7 +9297,7 @@
   "n_sources": 2,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "fire-life-safety",
@@ -9309,7 +9309,7 @@
   "n_sources": 3,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "fire-life-safety",
@@ -9321,7 +9321,7 @@
   "n_sources": 2,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "fire-life-safety",
@@ -9333,7 +9333,7 @@
   "n_sources": 2,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "fire-life-safety",
@@ -9345,7 +9345,7 @@
   "n_sources": 2,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "fire-life-safety",
@@ -9357,7 +9357,7 @@
   "n_sources": 2,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "fire-life-safety",
@@ -9429,7 +9429,7 @@
   "n_sources": 2,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "fire-life-safety",
@@ -9477,7 +9477,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "fire-life-safety",
@@ -9501,7 +9501,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "fire-life-safety",
@@ -9573,7 +9573,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -9609,7 +9609,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "fire-life-safety",
@@ -9621,7 +9621,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "fire-life-safety",
@@ -9633,7 +9633,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "fire-life-safety",
@@ -9645,7 +9645,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "fire-life-safety",
@@ -9657,7 +9657,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "fire-life-safety",
@@ -9669,7 +9669,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "fire-life-safety",
@@ -9681,7 +9681,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "fire-life-safety",
@@ -9693,7 +9693,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "fire-life-safety",
@@ -9705,7 +9705,7 @@
   "n_sources": 2,
   "confidence": "low",
   "derived": true,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "fire-life-safety",
@@ -9717,7 +9717,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "fire-life-safety",
@@ -9729,7 +9729,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "fire-life-safety",
@@ -9741,7 +9741,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "fire-life-safety",
@@ -9753,7 +9753,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "fire-life-safety",
@@ -9765,7 +9765,7 @@
   "n_sources": 3,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -9777,7 +9777,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "fire-life-safety",
@@ -9789,7 +9789,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2017
  },
  {
   "trade": "fire-life-safety",
@@ -9801,7 +9801,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -9813,7 +9813,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -9825,7 +9825,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -9837,7 +9837,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -9849,7 +9849,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -9861,7 +9861,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2021
  },
  {
   "trade": "fire-life-safety",
@@ -9873,7 +9873,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -9885,7 +9885,7 @@
   "n_sources": 3,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -9897,7 +9897,7 @@
   "n_sources": 2,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "fire-life-safety",
@@ -9909,7 +9909,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -9921,7 +9921,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "fire-life-safety",
@@ -9933,7 +9933,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -9945,7 +9945,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "fire-life-safety",
@@ -9957,7 +9957,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "fire-life-safety",
@@ -9969,7 +9969,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -9981,7 +9981,7 @@
   "n_sources": 2,
   "confidence": "low",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -9993,7 +9993,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "fire-life-safety",
@@ -10005,7 +10005,7 @@
   "n_sources": 3,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "fire-life-safety",
@@ -10017,7 +10017,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -10029,7 +10029,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "fire-life-safety",
@@ -10041,7 +10041,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -10053,7 +10053,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -10065,7 +10065,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -10077,7 +10077,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -10089,7 +10089,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -10101,7 +10101,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -10113,7 +10113,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -10125,7 +10125,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "fire-life-safety",
@@ -10137,7 +10137,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -10149,7 +10149,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "fire-life-safety",
@@ -10161,7 +10161,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -10173,7 +10173,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "low-voltage-security",
@@ -10185,7 +10185,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "low-voltage-security",
@@ -10197,7 +10197,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "low-voltage-security",
@@ -10209,7 +10209,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "low-voltage-security",
@@ -10221,7 +10221,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "low-voltage-security",
@@ -10233,7 +10233,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "low-voltage-security",
@@ -10305,7 +10305,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -10353,7 +10353,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2021
  },
  {
   "trade": "low-voltage-security",
@@ -10413,7 +10413,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -10473,7 +10473,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2007
  },
  {
   "trade": "low-voltage-security",
@@ -10485,7 +10485,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2007
  },
  {
   "trade": "low-voltage-security",
@@ -10497,7 +10497,7 @@
   "n_sources": 1,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "low-voltage-security",
@@ -10533,7 +10533,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -10581,7 +10581,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "low-voltage-security",
@@ -10593,7 +10593,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "low-voltage-security",
@@ -10605,7 +10605,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2016
  },
  {
   "trade": "low-voltage-security",
@@ -10617,7 +10617,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2016
  },
  {
   "trade": "low-voltage-security",
@@ -10629,7 +10629,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -10641,7 +10641,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "low-voltage-security",
@@ -10653,7 +10653,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "low-voltage-security",
@@ -10665,7 +10665,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "low-voltage-security",
@@ -10689,7 +10689,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "low-voltage-security",
@@ -10701,7 +10701,7 @@
   "n_sources": 1,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -10713,7 +10713,7 @@
   "n_sources": 1,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "low-voltage-security",
@@ -10725,7 +10725,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "low-voltage-security",
@@ -10737,7 +10737,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -10749,7 +10749,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "low-voltage-security",
@@ -10761,7 +10761,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -10773,7 +10773,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -10785,7 +10785,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -10797,7 +10797,7 @@
   "n_sources": 1,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -10809,7 +10809,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -10821,7 +10821,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "low-voltage-security",
@@ -10833,7 +10833,7 @@
   "n_sources": 3,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "low-voltage-security",
@@ -10845,7 +10845,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -10857,7 +10857,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -10869,7 +10869,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -10881,7 +10881,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "low-voltage-security",
@@ -10893,7 +10893,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2021
  },
  {
   "trade": "low-voltage-security",
@@ -10905,7 +10905,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2020
  },
  {
   "trade": "low-voltage-security",
@@ -10917,7 +10917,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "low-voltage-security",
@@ -10929,7 +10929,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "low-voltage-security",
@@ -10941,7 +10941,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "low-voltage-security",
@@ -10953,7 +10953,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2021
  },
  {
   "trade": "low-voltage-security",
@@ -10965,7 +10965,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -10977,7 +10977,7 @@
   "n_sources": 5,
   "confidence": "high",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -10989,7 +10989,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "low-voltage-security",
@@ -11001,7 +11001,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "low-voltage-security",
@@ -11013,7 +11013,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "low-voltage-security",
@@ -11025,7 +11025,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -11037,7 +11037,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -11049,7 +11049,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -11061,7 +11061,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -11073,7 +11073,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -11085,7 +11085,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -11097,7 +11097,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -11109,7 +11109,7 @@
   "n_sources": 1,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "low-voltage-security",
@@ -11121,7 +11121,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "low-voltage-security",
@@ -11133,7 +11133,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "low-voltage-security",
@@ -11145,7 +11145,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "low-voltage-security",
@@ -11157,7 +11157,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "restoration",
@@ -11169,7 +11169,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "restoration",
@@ -11181,7 +11181,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "restoration",
@@ -11193,7 +11193,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "restoration",
@@ -11205,7 +11205,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "restoration",
@@ -11217,7 +11217,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "restoration",
@@ -11229,7 +11229,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "restoration",
@@ -11253,7 +11253,7 @@
   "n_sources": 4,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "restoration",
@@ -11265,7 +11265,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "restoration",
@@ -11277,7 +11277,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "restoration",
@@ -11301,7 +11301,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "restoration",
@@ -11325,7 +11325,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": true,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "restoration",
@@ -11349,7 +11349,7 @@
   "n_sources": 2,
   "confidence": "low",
   "derived": true,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "restoration",
@@ -11373,7 +11373,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "restoration",
@@ -11409,7 +11409,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "restoration",
@@ -11469,7 +11469,7 @@
   "n_sources": 1,
   "confidence": "high-primary",
   "derived": false,
-  "year": null
+  "year": 2020
  },
  {
   "trade": "restoration",
@@ -11481,7 +11481,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "restoration",
@@ -11517,7 +11517,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "restoration",
@@ -11529,7 +11529,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "restoration",
@@ -11541,7 +11541,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "restoration",
@@ -11553,7 +11553,7 @@
   "n_sources": 4,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "restoration",
@@ -11565,7 +11565,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "restoration",
@@ -11577,7 +11577,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "restoration",
@@ -11589,7 +11589,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "restoration",
@@ -11601,7 +11601,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2017
  },
  {
   "trade": "restoration",
@@ -11613,7 +11613,7 @@
   "n_sources": 4,
   "confidence": "high",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "restoration",
@@ -11625,7 +11625,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "restoration",
@@ -11637,7 +11637,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "restoration",
@@ -11649,7 +11649,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "restoration",
@@ -11661,7 +11661,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "restoration",
@@ -11673,7 +11673,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2019
  },
  {
   "trade": "restoration",
@@ -11685,7 +11685,7 @@
   "n_sources": 2,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2017
  },
  {
   "trade": "restoration",
@@ -11697,7 +11697,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "restoration",
@@ -11709,7 +11709,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "restoration",
@@ -11721,7 +11721,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "restoration",
@@ -11733,7 +11733,7 @@
   "n_sources": 1,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "restoration",
@@ -11745,7 +11745,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "restoration",
@@ -11757,7 +11757,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "restoration",
@@ -11769,7 +11769,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "restoration",
@@ -11781,7 +11781,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "restoration",
@@ -11793,7 +11793,7 @@
   "n_sources": null,
   "confidence": "low",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "restoration",
@@ -11805,7 +11805,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "restoration",
@@ -11817,7 +11817,7 @@
   "n_sources": 3,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "restoration",
@@ -11829,7 +11829,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "restoration",
@@ -11841,7 +11841,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "restoration",
@@ -11853,7 +11853,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "restoration",
@@ -11865,7 +11865,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "restoration",
@@ -11877,7 +11877,7 @@
   "n_sources": 4,
   "confidence": "low",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "restoration",
@@ -11889,7 +11889,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2022
  },
  {
   "trade": "restoration",
@@ -11901,7 +11901,7 @@
   "n_sources": 4,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "restoration",
@@ -11913,7 +11913,7 @@
   "n_sources": 1,
   "confidence": "med",
   "derived": true,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "restoration",
@@ -11925,7 +11925,7 @@
   "n_sources": 2,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "restoration",
@@ -11937,7 +11937,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "restoration",
@@ -11949,7 +11949,7 @@
   "n_sources": 3,
   "confidence": "adjudicated",
   "derived": false,
-  "year": null
+  "year": 2023
  },
  {
   "trade": "restoration",
@@ -11961,7 +11961,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "restoration",
@@ -11973,7 +11973,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "restoration",
@@ -11985,7 +11985,7 @@
   "n_sources": 5,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "restoration",
@@ -11997,7 +11997,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "restoration",
@@ -12009,7 +12009,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "restoration",
@@ -12021,7 +12021,7 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "restoration",
@@ -12033,7 +12033,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": true,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "restoration",
@@ -12045,7 +12045,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2026
  },
  {
   "trade": "restoration",
@@ -12057,7 +12057,7 @@
   "n_sources": 2,
   "confidence": "high",
   "derived": false,
-  "year": null
+  "year": 2024
  },
  {
   "trade": "restoration",
@@ -12069,7 +12069,7 @@
   "n_sources": 3,
   "confidence": "med",
   "derived": false,
-  "year": null
+  "year": 2025
  },
  {
   "trade": "restoration",
@@ -12081,6 +12081,6 @@
   "n_sources": null,
   "confidence": null,
   "derived": false,
-  "year": null
+  "year": 2024
  }
 ]

@@ -34,8 +34,14 @@ repeats it. Corroboration is what raises a SECONDARY figure's confidence. Read
 as "taken from the authoritative primary source", and filter on whichever your use
 actually needs.
 
-A number with no citation is not published. That is enforced by a gate, not a
-convention.
+**How each figure is attributed.** Every figure in `research`, `subtrade`,
+`revenue_bands`, `geo_states`, `geo_metros` and `comps` carries its own citation in the row, and a
+gate refuses to publish one that does not. The remaining tables are attributed at the TABLE level
+rather than per cell, because their figures are not third-party quotations: `trades` holds index
+scores computed from the published methodology, `level_benchmarks` holds Level's own measured
+percentile distributions, and `permits` and `building_stock` are aggregations of public permit and
+county tax-assessor records. Those provenance statements are in this card and on
+[the methodology page](https://tradesindex.org/methodology/), not in a per-row column.
 
 ## The data
 

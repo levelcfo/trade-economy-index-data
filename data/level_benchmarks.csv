@@ -6,7 +6,7 @@ avg_bill_rate_usd_hr,Average billed labor rate ($/hr),63,71,79,116,147,1770,,Lev
 sa_rev_per_employee_k,Service-agreement revenue per employee ($K),5.9,11.4,28.5,64.1,150.5,217,,Level
 sa_pull_through_pct,Service-agreement upsell pull-through,0.3,2.1,10.7,32.8,53,195,,Level
 billing_speed_days,Days from completion to first invoice,,,1,,30,733,Days from job completion to first invoice. Negative means progress-billed before completion.,Level
-billable_hour_ratio_pct,Billable hour ratio,76.5,90.1,96.7,99.6,102.8,654,Hours billed as a share of hours worked. Over 100% reflects billed change-order and overtime hours.,Level
+billable_hour_ratio_pct,Billable hour ratio,76.5,90.1,97.1,99.6,102.8,963,Hours billed as a share of hours worked. Over 100% reflects billed change-order and overtime hours.,Level
 cost_variance_pct,Job cost variance (actual vs budget),-61,-38.2,-20.4,-7.1,11.5,430,Actual vs budgeted job cost. Negative means under budget.,Level
 job_gross_margin_pct,Job-level gross margin,10.8,28.4,44.3,60.2,75.1,,,Level
 customer_concentration_top1_pct,Revenue share from largest customer,,18.5,31,54.6,82.4,959,,Level
