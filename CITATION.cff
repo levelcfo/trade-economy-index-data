@@ -7,7 +7,7 @@ abstract: >-
   source, independent-source count, and confidence tier attached to every figure.
 type: dataset
 doi: "10.5281/zenodo.21762674"
-version: "2026.1"
+version: "2026.1.1"
 license: CC-BY-4.0
 url: "https://tradesindex.org"
 repository-code: "https://github.com/levelcfo/trade-economy-index-data"
