@@ -59,6 +59,7 @@ read it in the browser) and `.json` (same rows, for code).
 | [`comps`](data/comps.csv) | 69 | a public company mapped to the trades it operates in |
 | [`level_benchmarks`](data/level_benchmarks.csv) | 11 | an operating metric as a p10/p25/median/p75/p90 distribution |
 | [`building_stock`](data/building_stock.csv) | 612 | commercial and industrial building age and size by state |
+| [`building_revenue`](data/building_revenue.csv) | 12 | a building segment with annual mechanical-contractor revenue and uncertainty fields |
 
 ### Quick start
 
