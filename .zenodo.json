@@ -1,7 +1,7 @@
 {
   "upload_type": "dataset",
   "title": "The Trade Economy Index",
-  "description": "US skilled-trade economics for 13 commercial trades, with the source, independent-source count, and confidence tier attached to every figure: labor, market structure, unit economics, cash cycle, AI exposure, geography, and valuation. Aggregate only; no individual company is identified or identifiable, except public companies named with their tickers and cited to SEC filings.",
+  "description": "US skilled-trade economics for 13 commercial trades, with per-cell citations where applicable and table-level provenance for derived and aggregate tables: labor, market structure, unit economics, cash cycle, AI exposure, geography, and valuation. Aggregate only; no individual company is identified or identifiable, except public companies named with their tickers and cited to SEC filings.",
   "creators": [
     {
       "name": "Yang, Sam",
@@ -10,7 +10,7 @@
   ],
   "license": "cc-by-4.0",
   "access_right": "open",
-  "version": "2026.1.2",
+  "version": "2026.1.3",
   "language": "eng",
   "keywords": [
     "skilled trades",

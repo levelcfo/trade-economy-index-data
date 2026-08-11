@@ -307,9 +307,9 @@
   "wage_differential_vs_national_pct": -13.22,
   "median_wage_source": "U.S. Bureau of Labor Statistics (BLS) OEWS, May 2023 State Occupational Employment and Wage Estimates - Montana, published April 2024, https://www.bls.gov/oes/current/oes_mt.htm",
   "median_wage_source_access": "url",
-  "license_regime": "Montana does not mandate a statewide trade license or exam for individual HVAC technicians. However, HVAC contractor businesses must register with the Montana Department of Labor and Industry (DLI) under either Construction Contractor Registration (CCR, for businesses with employees) or an Independent Contractor Exemption Certificate (ICEC, for sole proprietors opting out of workers' compensation). Local licensing, trade exams, and permits may be required at the municipal level (e.g., Billings, Missoula, Great Falls).",
-  "license_source": null,
-  "license_source_access": "missing"
+  "license_regime": "Montana Department of Labor and Industry requires construction contractors with employees to use its construction contractor program. Beginning January 1, 2026, the registration program began transitioning to a construction contractor license program. Eligible workers without employees may instead use an Independent Contractor Exemption Certificate. HVAC trade and permit requirements can also apply locally.",
+  "license_source": "Montana Department of Labor and Industry, Construction Contractor Registration and Independent Contractor Exemption Certificates, 2026, https://erd.dli.mt.gov/work-comp-regulations/montana-contractor/construction-contractor-registration and https://erd.dli.mt.gov/work-comp-regulations/montana-contractor/independent-contractor",
+  "license_source_access": "url"
  },
  {
   "trade": "hvac",
@@ -3487,9 +3487,9 @@
   "wage_differential_vs_national_pct": -24.58,
   "median_wage_source": "U.S. Bureau of Labor Statistics (BLS), May 2023 State and National OEWS (published April 2024), https://www.bls.gov/oes/current/oes_sd.htm and https://www.bls.gov/oes/current/oes472031.htm",
   "median_wage_source_access": "url",
-  "license_regime": "South Dakota does not require or issue a state-level contractor license for door and access installation or general carpentry trades. The state only mandates registration for a South Dakota Contractor's Excise Tax License through the Department of Revenue. Trade licenses, examinations, and license tiers are established and regulated individually by municipal and county local jurisdictions.",
-  "license_source": null,
-  "license_source_access": "missing"
+  "license_regime": "South Dakota requires a contractor's excise tax license for construction services and for installation or repair of fixtures to real property. Door and access contractors must also check municipal and county requirements for the specific work and project location.",
+  "license_source": "South Dakota Department of Revenue, Contractor's Excise Tax, 2026, https://dor.sd.gov/businesses/taxes/contractors-excise-tax/",
+  "license_source_access": "url"
  },
  {
   "trade": "doors-access",
@@ -6487,9 +6487,9 @@
   "wage_differential_vs_national_pct": -6.93,
   "median_wage_source": "U.S. Bureau of Labor Statistics OEWS, 2023, https://www.bls.gov/oes/current/oes_sd.htm",
   "median_wage_source_access": "url",
-  "license_regime": "No state-level contractor or technician license is required in South Dakota for SOC 49-9021 (Heating, Air Conditioning, and Refrigeration Mechanics and Installers). Licensing is regulated at the municipal level (e.g., Sioux Falls and Rapid City issue local mechanical and contractor licenses), while state-level trade licensing is limited to electricians and plumbers. All contractors must register for a South Dakota Contractor's Tax License with the Department of Revenue.",
-  "license_source": null,
-  "license_source_access": "missing"
+  "license_regime": "South Dakota requires a contractor's excise tax license for construction services and for installation or repair of fixtures to real property. Fire and life-safety contractors must separately verify any trade, technician, permit, and municipal requirements that apply to the system being installed.",
+  "license_source": "South Dakota Department of Revenue, Contractor's Excise Tax, 2026, https://dor.sd.gov/businesses/taxes/contractors-excise-tax/",
+  "license_source_access": "url"
  },
  {
   "trade": "fire-life-safety",

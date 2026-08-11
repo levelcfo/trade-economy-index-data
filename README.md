@@ -3,9 +3,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21762674.svg)](https://doi.org/10.5281/zenodo.21762674)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-teal.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-US skilled-trade economics for 13 commercial trades, with a citation attached to
-every figure: labor, market structure, unit economics, cash cycle, AI exposure,
-geography, and valuation.
+US skilled-trade economics for 13 commercial trades, with per-cell citations where
+applicable and table-level provenance for derived and aggregate tables: labor,
+market structure, unit economics, cash cycle, AI exposure, geography, and valuation.
 
 Companion site: **[tradesindex.org](https://tradesindex.org)**.
 Also on [Hugging Face](https://huggingface.co/datasets/LevelCFO/trade-economy-index).
@@ -17,7 +17,7 @@ Most industry data about the trades is either a paywalled market report or a ven
 blog post with no sample size. This index publishes the figures with their
 provenance attached, so any number can be audited without leaving the table.
 
-Every numeric row carries its provenance beside the value:
+Rows in the per-cell provenance tables carry this metadata beside the value:
 
 | column | meaning |
 |---|---|
@@ -33,9 +33,9 @@ Several passes can cite the same publisher or evidence family. Use `source_acces
 to distinguish a clickable citation from a text-only citation, then evaluate the
 recorded source directly.
 
-**How each figure is attributed.** Every figure in `research`, `subtrade`,
-`revenue_bands`, `geo_states`, `geo_metros` and `comps` carries its own citation in the row, and a
-gate refuses to publish one that does not. The remaining tables are attributed at the TABLE level
+**How each figure is attributed.** Citable values in `research`, `subtrade`,
+`revenue_bands`, `geo_states`, `geo_metros` and `comps` carry their own citation where applicable,
+and a gate refuses to publish a substantive value without its declared provenance. The remaining tables are attributed at the TABLE level
 rather than per cell, because their figures are not third-party quotations: `trades` holds index
 scores computed from the published methodology, `level_benchmarks` holds Level's own measured
 percentile distributions, and `permits` and `building_stock` are aggregations of public permit and
@@ -50,7 +50,7 @@ read it in the browser) and `.json` (same rows, for code).
 | table | rows | one row is |
 |---|---|---|
 | [`trades`](data/trades.csv) | 13 | a trade, with its AI-Resilience and AI-Leverage subscores |
-| [`research`](data/research.csv) | 1,007 | one figure for one trade on one of ~42 research topics |
+| [`research`](data/research.csv) | 988 | one figure for one trade on one of ~42 research topics |
 | [`subtrade`](data/subtrade.csv) | 342 | the same, split by residential / commercial / industrial |
 | [`revenue_bands`](data/revenue_bands.csv) | 167 | a unit-economics metric by revenue band (under $1M to $20M+) |
 | [`geo_states`](data/geo_states.csv) | 650 | a trade in a state: median wage, differential, licensing regime |

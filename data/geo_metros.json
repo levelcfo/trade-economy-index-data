@@ -360,8 +360,8 @@
   "job_value_source": "Angi, 2026, https://www.angi.com/articles/hvac-replacement-cost-minneapolis-mn.htm",
   "job_value_source_access": "url",
   "permit_volume_trend": "Residential building permit activity in the Minneapolis-St. Paul-Bloomington metro area experienced a downward trend between 2020 and 2025, with single-month July permits dropping 38% from 1,988 units in July 2020 to 1,241 units in July 2025, driven by a 61% contraction in multifamily permitting.",
-  "permit_source": "",
-  "permit_source_access": "missing"
+  "permit_source": "U.S. Census Bureau, Building Permits Survey, https://www.census.gov/construction/bps/",
+  "permit_source_access": "url"
  },
  {
   "trade": "hvac",
@@ -388,8 +388,8 @@
   "job_value_source": null,
   "job_value_source_access": "missing",
   "permit_volume_trend": "Residential building permitting in the New Orleans-Metairie metro area experienced a significant downward trend, with total monthly permits falling by 68.4% (and single-family permits declining by 75%) between 2020 and 2025, alongside a 47.3% year-over-year contraction in 2024 multifamily unit authorizations.",
-  "permit_source": "",
-  "permit_source_access": "missing"
+  "permit_source": "U.S. Census Bureau, Building Permits Survey, https://www.census.gov/construction/bps/",
+  "permit_source_access": "url"
  },
  {
   "trade": "hvac",
@@ -1032,8 +1032,8 @@
   "job_value_source": null,
   "job_value_source_access": "missing",
   "permit_volume_trend": "In the Miami-Fort Lauderdale-Pompano Beach, FL metro area, total new privately-owned housing units authorized by building permits declined 21.7% year-over-year in 2022 to 19,813 units, representing $5.6 billion in total residential permit value (a 16.9% decrease from 2021).",
-  "permit_source": "",
-  "permit_source_access": "missing"
+  "permit_source": "U.S. Census Bureau, Building Permits Survey, https://www.census.gov/construction/bps/",
+  "permit_source_access": "url"
  },
  {
   "trade": "plumbing",
@@ -2432,8 +2432,8 @@
   "job_value_source": "Modernize Home Services, 2026, https://modernize.com/roofing/cost",
   "job_value_source_access": "url",
   "permit_volume_trend": "In 2022, the Miami-Fort Lauderdale-Pompano Beach metro area authorized 19,813 total new residential housing units via building permits, representing a 21.7% decrease compared to 2021 permit volume.",
-  "permit_source": "",
-  "permit_source_access": "missing"
+  "permit_source": "U.S. Census Bureau, Building Permits Survey, https://www.census.gov/construction/bps/",
+  "permit_source_access": "url"
  },
  {
   "trade": "roofing",
@@ -2712,8 +2712,8 @@
   "job_value_source": "CostFiled, 2026",
   "job_value_source_access": "citation-text-only",
   "permit_volume_trend": "In the San Francisco-Oakland-Berkeley, CA MSA, total new residential building permits authorized were 11,048 units valued at $3.0 billion in 2022, representing an 18.8% decline in permit volume and a 20.8% decline in total dollar value compared to 2021.",
-  "permit_source": "",
-  "permit_source_access": "missing"
+  "permit_source": "U.S. Census Bureau, Building Permits Survey, https://www.census.gov/construction/bps/",
+  "permit_source_access": "url"
  },
  {
   "trade": "roofing",
@@ -5526,8 +5526,8 @@
   "job_value_source": null,
   "job_value_source_access": "missing",
   "permit_volume_trend": "Residential and commercial building permit activity in the San Jose-Sunnyvale-Santa Clara, CA MSA saw a sharp downward trend, declining 68% from 1,949 total units permitted in July 2020 to 623 units in July 2025. The decline was heavily driven by a 74% drop in multi-family (5+ unit) building permits, which fell from 1,697 to 449 units over the same period.",
-  "permit_source": "",
-  "permit_source_access": "missing"
+  "permit_source": "U.S. Census Bureau, Building Permits Survey, https://www.census.gov/construction/bps/",
+  "permit_source_access": "url"
  },
  {
   "trade": "commercial-cleaning",
@@ -5666,8 +5666,8 @@
   "job_value_source": null,
   "job_value_source_access": "missing",
   "permit_volume_trend": "U.S. Census Bureau Building Permits Survey data shows a slowdown in residential construction activity across the Boston-Cambridge-Newton, MA-NH metropolitan area: total authorized residential building permits fell 12.1% year-over-year in 2022 to 14,593 permits, and multifamily permit volume dropped 22.3% year-over-year in 2024 to 7,022 units.",
-  "permit_source": "",
-  "permit_source_access": "missing"
+  "permit_source": "U.S. Census Bureau, Building Permits Survey, https://www.census.gov/construction/bps/",
+  "permit_source_access": "url"
  },
  {
   "trade": "painting",
@@ -6688,8 +6688,8 @@
   "job_value_source": null,
   "job_value_source_access": "missing",
   "permit_volume_trend": "Residential building permits in the New Orleans-Metairie MSA experienced a steep contraction of -68.4% (total permitted units falling from 376 to 119), with single-family permits declining 75%, representing one of the steepest single-family permit drops among top U.S. metropolitan areas.",
-  "permit_source": "",
-  "permit_source_access": "missing"
+  "permit_source": "U.S. Census Bureau, Building Permits Survey, https://www.census.gov/construction/bps/",
+  "permit_source_access": "url"
  },
  {
   "trade": "concrete-masonry",
@@ -7612,8 +7612,8 @@
   "job_value_source": null,
   "job_value_source_access": "missing",
   "permit_volume_trend": "Residential permitting activity in the San Francisco-Oakland-Berkeley MSA declined in 2022, dropping 18.8% year-over-year to 11,048 authorized new residential building permits valued at $3.0 billion (a 20.8% decrease in total permit valuation from 2021).",
-  "permit_source": "",
-  "permit_source_access": "missing"
+  "permit_source": "U.S. Census Bureau, Building Permits Survey, https://www.census.gov/construction/bps/",
+  "permit_source_access": "url"
  },
  {
   "trade": "fire-life-safety",
@@ -8942,8 +8942,8 @@
   "job_value_source": null,
   "job_value_source_access": "missing",
   "permit_volume_trend": "U.S. Census Bureau Building Permits Survey data shows new residential housing units authorized by building permits in the Riverside-San Bernardino-Ontario MSA reached 16,320 units in 2022 (a 4.6% increase over 2021) valued at $3.9 billion. Permitting accelerated in early 2023, rising 24.17% year-over-year in the first half of 2023 to 11,355 units before broader regional construction activity moderated.",
-  "permit_source": "",
-  "permit_source_access": "missing"
+  "permit_source": "U.S. Census Bureau, Building Permits Survey, https://www.census.gov/construction/bps/",
+  "permit_source_access": "url"
  },
  {
   "trade": "restoration",

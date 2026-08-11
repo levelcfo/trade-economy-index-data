@@ -4,10 +4,11 @@ title: "The Trade Economy Index"
 abstract: >-
   US skilled-trade economics for 13 commercial trades: labor, market structure,
   unit economics, cash cycle, AI exposure, geography, and valuation, with the
-  source, independent-source count, and confidence tier attached to every figure.
+  per-cell citations where applicable, research-pass workflow metadata, and
+  table-level provenance for derived and aggregate tables.
 type: dataset
 doi: "10.5281/zenodo.21762674"
-version: "2026.1.2"
+version: "2026.1.3"
 license: CC-BY-4.0
 url: "https://tradesindex.org"
 repository-code: "https://github.com/levelcfo/trade-economy-index-data"
