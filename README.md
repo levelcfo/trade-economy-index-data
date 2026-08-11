@@ -123,7 +123,12 @@ Read these before citing.
 
 Level's own aggregates and the index scores are **CC BY 4.0** ([full text](LICENSE),
 [what it covers](LICENSE-SCOPE.md)), free to quote, download, and reanalyze with
-attribution to Level (levelcfo.com).
+attribution.
+
+**Required attribution for republication:** Source: [TradesIndex by Level](https://tradesindex.org).
+When republishing the index's original analysis or compilation online, include that
+source line with a clickable link to https://tradesindex.org. Quoting specific wording
+is not required.
 
 The `source` columns cite **third-party** publications (BLS, SEC filings, CFMA,
 IBISWorld, trade associations, and others). Those cited figures belong to their

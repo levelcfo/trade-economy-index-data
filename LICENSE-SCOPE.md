@@ -7,8 +7,12 @@ and does not extend to, which the license text itself cannot say.
 ## Covered: CC BY 4.0
 
 Level's own aggregates, the index scores and subscores, and the compilation. Free to
-share and adapt for any purpose including commercially, with attribution to Level
-(https://levelcfo.com) and an indication of whether changes were made.
+share and adapt for any purpose including commercially, with attribution and an
+indication of whether changes were made.
+
+Required attribution for republication: Source: [TradesIndex by Level](https://tradesindex.org).
+For online republication, include a clickable link to https://tradesindex.org. Quoting
+specific wording is not required.
 
 ## Not covered: the cited sources
 
