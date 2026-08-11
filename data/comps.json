@@ -12,7 +12,8 @@
   "return_3y_pct": 69.9,
   "return_5y_pct": 136,
   "trade_relevance": "Manufactures HVAC equipment, rooftop units, chillers, cleanroom systems, and data center cooling solutions supplied to mechanical contractors and commercial HVAC skilled trades.",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/aaon/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/aaon/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "ABM",
@@ -27,7 +28,8 @@
   "return_3y_pct": 3.5,
   "return_5y_pct": -5.1,
   "trade_relevance": "Facility engineering, HVAC/mechanical, electrical, energy infrastructure, janitorial, and technical solutions for commercial, industrial, and institutional facilities",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/abm/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/abm/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "ACM",
@@ -42,7 +44,8 @@
   "return_3y_pct": -23.1,
   "return_5y_pct": 2.9,
   "trade_relevance": "Provides infrastructure consulting, civil engineering, architecture, program management, and construction management services across transportation, water, energy, and facilities.",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/acm/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/acm/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "ADT",
@@ -57,7 +60,8 @@
   "return_3y_pct": 7.5,
   "return_5y_pct": -19.4,
   "trade_relevance": "Provides electronic security system installation, low-voltage electrical wiring, fire/life safety system installation, smart home automation, and monitoring services for residential and commercial clients.",
-  "market_cap_source": "Stock Analysis 2026 https://stockanalysis.com/stocks/adt/statistics"
+  "market_cap_source": "Stock Analysis 2026 https://stockanalysis.com/stocks/adt/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "AGX",
@@ -72,7 +76,8 @@
   "return_3y_pct": 1336.8,
   "return_5y_pct": 1218.3,
   "trade_relevance": "Engineering, procurement, construction (EPC), power plant construction, industrial field services, telecommunications and utility cabling",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/agx/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/agx/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "ALLE",
@@ -87,7 +92,8 @@
   "return_3y_pct": 23,
   "return_5y_pct": -2.8,
   "trade_relevance": "Locksmithing, door and hardware installation, security systems integration, and electronic access control installation",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/alle/company"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/alle/company",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "AMWD",
@@ -102,7 +108,8 @@
   "return_3y_pct": null,
   "return_5y_pct": null,
   "trade_relevance": "Cabinetry and millwork manufacturing for residential kitchen, bath, and home remodeling trades",
-  "market_cap_source": "Stock Analysis 2026 https://stockanalysis.com/stocks/amwd"
+  "market_cap_source": "Stock Analysis 2026 https://stockanalysis.com/stocks/amwd",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "AOS",
@@ -117,7 +124,8 @@
   "return_3y_pct": -18.1,
   "return_5y_pct": -18.4,
   "trade_relevance": "Plumbing and HVAC (manufactures residential and commercial water heaters, boilers, heat pumps, and water treatment products)",
-  "market_cap_source": "stockanalysis 2026 https://stockanalysis.com/stocks/aos/statistics"
+  "market_cap_source": "stockanalysis 2026 https://stockanalysis.com/stocks/aos/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "APG",
@@ -132,7 +140,8 @@
   "return_3y_pct": 107.5,
   "return_5y_pct": 151.9,
   "trade_relevance": "Fire protection, life safety, security systems, elevator and escalator services, specialty contracting, and infrastructure services",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/apg/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/apg/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "ATKR",
@@ -147,7 +156,8 @@
   "return_3y_pct": -52.6,
   "return_5y_pct": -21.4,
   "trade_relevance": "Electrical, mechanical, and piping contractors (supplies electrical conduit, cable management systems, PVC pipe, and metal framing)",
-  "market_cap_source": "Stock Analysis 2026 https://stockanalysis.com/stocks/atkr/statistics"
+  "market_cap_source": "Stock Analysis 2026 https://stockanalysis.com/stocks/atkr/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "AWI",
@@ -162,7 +172,8 @@
   "return_3y_pct": 105.4,
   "return_5y_pct": 51.3,
   "trade_relevance": "Manufactures and supplies ceiling systems, specialty wall solutions, and architectural components for interior systems installers, drywall contractors, carpenters, and commercial construction trades.",
-  "market_cap_source": "Stock Analysis 2026 https://stockanalysis.com/stocks/awi"
+  "market_cap_source": "Stock Analysis 2026 https://stockanalysis.com/stocks/awi",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "BECN",
@@ -177,7 +188,8 @@
   "return_3y_pct": null,
   "return_5y_pct": null,
   "trade_relevance": "Wholesale distribution of residential and non-residential roofing materials, waterproofing, siding, insulation, and exterior building supplies for roofing and exterior construction trades",
-  "market_cap_source": "Yahoo Finance 2026"
+  "market_cap_source": "Yahoo Finance 2026",
+  "market_cap_source_access": "citation-text-only"
  },
  {
   "ticker": "BLD",
@@ -192,7 +204,8 @@
   "return_3y_pct": null,
   "return_5y_pct": null,
   "trade_relevance": "Insulation installation, commercial roofing, and specialty building products distribution",
-  "market_cap_source": "Stock Analysis, 2026, https://stockanalysis.com/stocks/bld/statistics"
+  "market_cap_source": "Stock Analysis, 2026, https://stockanalysis.com/stocks/bld/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "BLDR",
@@ -207,7 +220,8 @@
   "return_3y_pct": -51,
   "return_5y_pct": 33.3,
   "trade_relevance": "Supplies building materials, prefabricated components, framing solutions, and engineered wood for residential carpentry, framing, roofing, and general construction trades.",
-  "market_cap_source": "Stock Analysis 2026 https://stockanalysis.com/stocks/bldr/statistics"
+  "market_cap_source": "Stock Analysis 2026 https://stockanalysis.com/stocks/bldr/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "BV",
@@ -222,7 +236,8 @@
   "return_3y_pct": 72.6,
   "return_5y_pct": -6.8,
   "trade_relevance": "Commercial landscaping, grounds maintenance, snow & ice removal, tree care, irrigation, and landscape architecture & development",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/bv/market-cap"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/bv/market-cap",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "CARR",
@@ -237,7 +252,8 @@
   "return_3y_pct": 18.5,
   "return_5y_pct": 18.2,
   "trade_relevance": "HVAC (heating, ventilation, and air conditioning), heat pumps, and refrigeration systems servicing commercial and residential mechanical contractors, HVAC technicians, and refrigeration mechanics",
-  "market_cap_source": "stockanalysis.com 2026 https://stockanalysis.com/stocks/carr/statistics"
+  "market_cap_source": "stockanalysis.com 2026 https://stockanalysis.com/stocks/carr/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "CLH",
@@ -252,7 +268,8 @@
   "return_3y_pct": 80.9,
   "return_5y_pct": 198.5,
   "trade_relevance": "Hazardous waste management, industrial cleaning, solvent re-refining, and environmental maintenance services",
-  "market_cap_source": "Stock Analysis 2026 https://stockanalysis.com/stocks/clh"
+  "market_cap_source": "Stock Analysis 2026 https://stockanalysis.com/stocks/clh",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "CNM",
@@ -267,7 +284,8 @@
   "return_3y_pct": 33.2,
   "return_5y_pct": 59.5,
   "trade_relevance": "Distribution of water, wastewater, storm drainage, and fire protection products and related supplies for municipal, plumbing, pipefitting, and utility contractors",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/cnm"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/cnm",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "CSL",
@@ -282,7 +300,8 @@
   "return_3y_pct": 24.6,
   "return_5y_pct": 55.5,
   "trade_relevance": "Manufactures single-ply roofing systems, waterproof membranes, building envelope solutions, and insulation products used by skilled roofing and weatherproofing contractors",
-  "market_cap_source": "Stock Analysis 2026 https://stockanalysis.com/stocks/csl/statistics"
+  "market_cap_source": "Stock Analysis 2026 https://stockanalysis.com/stocks/csl/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "DY",
@@ -297,7 +316,8 @@
   "return_3y_pct": 334.5,
   "return_5y_pct": 476.3,
   "trade_relevance": "Specialty contracting services for telecommunications infrastructure, digital infrastructure, fiber optics, and utility systems",
-  "market_cap_source": "stockanalysis.com 2026 https://stockanalysis.com/stocks/dy/statistics"
+  "market_cap_source": "stockanalysis.com 2026 https://stockanalysis.com/stocks/dy/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "EME",
@@ -312,7 +332,8 @@
   "return_3y_pct": 236.7,
   "return_5y_pct": 521.5,
   "trade_relevance": "Electrical construction, mechanical construction, HVAC, plumbing, fire protection, and facilities services",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/eme"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/eme",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "EXP",
@@ -327,7 +348,8 @@
   "return_3y_pct": 7.4,
   "return_5y_pct": 29.7,
   "trade_relevance": "Manufactures and supplies essential heavy construction and light building materials, including Portland cement, ready-mix concrete, aggregates, and gypsum wallboard, serving masonry, drywall, concrete/paving, and building construction trades.",
-  "market_cap_source": "StockAnalysis, 2026, https://stockanalysis.com/stocks/exp"
+  "market_cap_source": "StockAnalysis, 2026, https://stockanalysis.com/stocks/exp",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "FAST",
@@ -342,7 +364,8 @@
   "return_3y_pct": 57.5,
   "return_5y_pct": 62.3,
   "trade_relevance": "Wholesale distributor of industrial and construction supplies, offering fasteners, safety equipment, tools, electrical, plumbing, HVAC, welding, and MRO products to skilled trades and manufacturing facilities",
-  "market_cap_source": "stockanalysis.com, 2026, https://stockanalysis.com/stocks/fast"
+  "market_cap_source": "stockanalysis.com, 2026, https://stockanalysis.com/stocks/fast",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "FELE",
@@ -357,7 +380,8 @@
   "return_3y_pct": 8.2,
   "return_5y_pct": 23.2,
   "trade_relevance": "Manufactures and distributes water and fuel pumping systems, motors, drives, electronic controls, and equipment for plumbing, groundwater, wastewater, and fueling contractors.",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/fele/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/fele/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "FIX",
@@ -372,7 +396,8 @@
   "return_3y_pct": 870.4,
   "return_5y_pct": 2257.3,
   "trade_relevance": "Mechanical and electrical contracting services including HVAC, plumbing, piping and controls, off-site modular construction, and electrical installations and maintenance.",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/fix/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/fix/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "FSV",
@@ -387,7 +412,8 @@
   "return_3y_pct": -6.3,
   "return_5y_pct": -23.9,
   "trade_relevance": "Property services including residential management, roofing, fire protection, restoration, painting, closet installation, and home inspection",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/fsv/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/fsv/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "FTDR",
@@ -402,7 +428,8 @@
   "return_3y_pct": 119.5,
   "return_5y_pct": 65.2,
   "trade_relevance": "Home service plans covering HVAC, plumbing, electrical, and appliance repair and replacement",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/ftdr/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/ftdr/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "GFF",
@@ -417,7 +444,8 @@
   "return_3y_pct": 114.2,
   "return_5y_pct": 270.5,
   "trade_relevance": "Manufactures residential and commercial garage doors, rolling steel doors, and professional landscaping/hand tools supplying garage door installation technicians, carpenters, and construction professionals.",
-  "market_cap_source": "stockanalysis.com 2026 https://stockanalysis.com/stocks/gff/statistics"
+  "market_cap_source": "stockanalysis.com 2026 https://stockanalysis.com/stocks/gff/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "GTES",
@@ -432,7 +460,8 @@
   "return_3y_pct": 123.2,
   "return_5y_pct": 67.3,
   "trade_relevance": "HVAC, plumbing, industrial machinery maintenance, and automotive repair (manufactures power transmission belts, hydraulic hoses, and fluid power solutions)",
-  "market_cap_source": "stockanalysis.com 2026 https://stockanalysis.com/stocks/gtes/statistics"
+  "market_cap_source": "stockanalysis.com 2026 https://stockanalysis.com/stocks/gtes/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "GVA",
@@ -447,7 +476,8 @@
   "return_3y_pct": 204.5,
   "return_5y_pct": 210.1,
   "trade_relevance": "Heavy civil infrastructure construction (highways, roads, bridges, water management) and construction materials supply (aggregates, asphalt)",
-  "market_cap_source": "Stock Analysis 2026 https://stockanalysis.com/stocks/gva"
+  "market_cap_source": "Stock Analysis 2026 https://stockanalysis.com/stocks/gva",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "GWW",
@@ -462,7 +492,8 @@
   "return_3y_pct": 89.6,
   "return_5y_pct": 212.2,
   "trade_relevance": "Distributes maintenance, repair, and operating (MRO) products, equipment, tools, safety, electrical, plumbing, HVAC, and industrial supplies to skilled trades and facilities.",
-  "market_cap_source": "stockanalysis.com, 2026, https://stockanalysis.com/stocks/gww"
+  "market_cap_source": "stockanalysis.com, 2026, https://stockanalysis.com/stocks/gww",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "HUBB",
@@ -477,7 +508,8 @@
   "return_3y_pct": 46.2,
   "return_5y_pct": 131.4,
   "trade_relevance": "Electrical contracting, utility grid transmission and distribution, and electrical equipment and installation components for electricians and utility lineworkers",
-  "market_cap_source": "Stock Analysis 2026 https://stockanalysis.com/stocks/hubb/statistics"
+  "market_cap_source": "Stock Analysis 2026 https://stockanalysis.com/stocks/hubb/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "IBP",
@@ -492,7 +524,8 @@
   "return_3y_pct": 55.5,
   "return_5y_pct": 81.3,
   "trade_relevance": "Residential and commercial insulation installation, waterproofing, fireproofing, garage doors, rain gutters, shower doors, and complementary trade products",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/ibp/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/ibp/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "IESC",
@@ -507,7 +540,8 @@
   "return_3y_pct": 799.2,
   "return_5y_pct": 1278.7,
   "trade_relevance": "Electrical contracting, plumbing, HVAC, and communications/network infrastructure installation services",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/iesc/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/iesc/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "JCI",
@@ -522,7 +556,8 @@
   "return_3y_pct": 141.3,
   "return_5y_pct": 90.5,
   "trade_relevance": "HVAC (Heating, Ventilation, and Air Conditioning), building automation and controls, fire detection and suppression systems, and security system installation and technical services",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/jci/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/jci/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "LII",
@@ -537,7 +572,8 @@
   "return_3y_pct": 41.4,
   "return_5y_pct": 59,
   "trade_relevance": "HVAC (Heating, Ventilation, Air Conditioning) and refrigeration equipment, parts, and direct contractor distribution for HVAC technicians and mechanical contractors.",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/lii"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/lii",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "LMB",
@@ -552,7 +588,8 @@
   "return_3y_pct": 108.8,
   "return_5y_pct": 854.8,
   "trade_relevance": "Mechanical, electrical, plumbing, and controls (MEPC) engineering, HVAC, and building systems services",
-  "market_cap_source": "Stock Analysis 2026 https://stockanalysis.com/stocks/lmb/statistics"
+  "market_cap_source": "Stock Analysis 2026 https://stockanalysis.com/stocks/lmb/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "MAS",
@@ -567,7 +604,8 @@
   "return_3y_pct": 32.2,
   "return_5y_pct": 28.5,
   "trade_relevance": "Plumbing and painting/coatings; supplies plumbing fixtures, valves, shower systems, and architectural paints to professional plumbing and painting contractors",
-  "market_cap_source": "Stock Analysis 2026 https://stockanalysis.com/stocks/mas/statistics"
+  "market_cap_source": "Stock Analysis 2026 https://stockanalysis.com/stocks/mas/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "MIDD",
@@ -582,7 +620,8 @@
   "return_3y_pct": 11.8,
   "return_5y_pct": -11,
   "trade_relevance": "Manufactures and services commercial foodservice, refrigeration, beverage, and food processing equipment used by HVAC, electrical, and commercial kitchen technicians",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/midd/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/midd/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "MLM",
@@ -597,7 +636,8 @@
   "return_3y_pct": 23.4,
   "return_5y_pct": 44.4,
   "trade_relevance": "Supplies aggregates (crushed stone, sand, gravel), ready-mixed concrete, asphalt, paving services, and magnesia-based chemical products used across heavy construction, infrastructure, paving, and masonry skilled trades.",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/mlm/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/mlm/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "MTZ",
@@ -612,7 +652,8 @@
   "return_3y_pct": 259.2,
   "return_5y_pct": 290.8,
   "trade_relevance": "Specialty contracting and infrastructure construction across power delivery, electrical transmission, clean energy, telecommunications, and pipeline utilities",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/mtz/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/mtz/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "MYRG",
@@ -627,7 +668,8 @@
   "return_3y_pct": 187.9,
   "return_5y_pct": 293.3,
   "trade_relevance": "Specialty electrical construction services including electrical transmission and distribution (T&D) networks, substations, and commercial and industrial (C&I) electrical systems",
-  "market_cap_source": "stockanalysis.com 2026 https://stockanalysis.com/stocks/myrg/statistics"
+  "market_cap_source": "stockanalysis.com 2026 https://stockanalysis.com/stocks/myrg/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "NVT",
@@ -642,7 +684,8 @@
   "return_3y_pct": 180.3,
   "return_5y_pct": 361.2,
   "trade_relevance": "Electrical trades (supplies electrical connection and protection products, enclosures, grounding and bonding solutions, fastening systems, and cable management equipment to electrical contractors)",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/nvt/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/nvt/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "OC",
@@ -657,7 +700,8 @@
   "return_3y_pct": -2.8,
   "return_5y_pct": 46.4,
   "trade_relevance": "Roofing, insulation, and door installation trades",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/oc"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/oc",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "PGTI",
@@ -672,7 +716,8 @@
   "return_3y_pct": null,
   "return_5y_pct": null,
   "trade_relevance": "Manufacturing and supplying impact-resistant windows, doors, and garage doors for residential and commercial glazing, carpentry, and building trades",
-  "market_cap_source": "Robinhood 2024 https://robinhood.com/stocks/PGTI"
+  "market_cap_source": "Robinhood 2024 https://robinhood.com/stocks/PGTI",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "POOL",
@@ -687,7 +732,8 @@
   "return_3y_pct": -46.3,
   "return_5y_pct": -60.3,
   "trade_relevance": "Wholesale distribution of swimming pool equipment, building materials, irrigation, plumbing, and outdoor living supplies for pool construction, repair, and maintenance trades",
-  "market_cap_source": "stockanalysis.com 2026 https://stockanalysis.com/stocks/pool/statistics"
+  "market_cap_source": "stockanalysis.com 2026 https://stockanalysis.com/stocks/pool/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "POWL",
@@ -702,7 +748,8 @@
   "return_3y_pct": 759.9,
   "return_5y_pct": 2753.9,
   "trade_relevance": "Custom-engineered electrical power distribution, switchgear, and control systems equipment and services for electrical trade contractors, industrial facilities, and utilities",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/powl/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/powl/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "PPG",
@@ -717,7 +764,8 @@
   "return_3y_pct": -17.2,
   "return_5y_pct": -26.4,
   "trade_relevance": "Paints, performance coatings, sealants, adhesives, and finishes for professional painters, commercial and residential construction contractors, automotive refinishing technicians, and industrial applicators",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/ppg/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/ppg/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "PRIM",
@@ -732,7 +780,8 @@
   "return_3y_pct": 153.1,
   "return_5y_pct": 248.3,
   "trade_relevance": "Specialty construction and infrastructure services across utilities (electrical transmission and distribution, natural gas, communications) and energy (pipeline construction, solar/renewables, industrial and power generation trades)",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/prim/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/prim/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "PWR",
@@ -747,7 +796,8 @@
   "return_3y_pct": 206.4,
   "return_5y_pct": 529.9,
   "trade_relevance": "Electrical contracting, high-voltage electric transmission & distribution infrastructure construction, renewable energy infrastructure, underground gas utility infrastructure, industrial electrical & mechanical trades, and communications contracting.",
-  "market_cap_source": "StockAnalysis, 2026, https://stockanalysis.com/stocks/pwr/statistics"
+  "market_cap_source": "StockAnalysis, 2026, https://stockanalysis.com/stocks/pwr/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "QXO",
@@ -762,7 +812,8 @@
   "return_3y_pct": -54.2,
   "return_5y_pct": -75.9,
   "trade_relevance": "Roofing, waterproofing, siding, and complementary building products distribution",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/qxo/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/qxo/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "ROAD",
@@ -777,7 +828,8 @@
   "return_3y_pct": 200,
   "return_5y_pct": 211.4,
   "trade_relevance": "Civil infrastructure construction, roadway paving and maintenance, hot-mix asphalt manufacturing, bridge construction",
-  "market_cap_source": "Stock Analysis 2026 (https://stockanalysis.com/stocks/road/)"
+  "market_cap_source": "Stock Analysis 2026 (https://stockanalysis.com/stocks/road/)",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "ROL",
@@ -792,7 +844,8 @@
   "return_3y_pct": 9.9,
   "return_5y_pct": 11.7,
   "trade_relevance": "Pest control, termite protection, and wildlife management services for residential and commercial properties",
-  "market_cap_source": "stockanalysis.com 2026 https://stockanalysis.com/stocks/rol"
+  "market_cap_source": "stockanalysis.com 2026 https://stockanalysis.com/stocks/rol",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "RPM",
@@ -807,7 +860,8 @@
   "return_3y_pct": 7.7,
   "return_5y_pct": 30.6,
   "trade_relevance": "Roofing, waterproofing, painting, masonry, concrete repair, and specialized flooring trades",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/rpm/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/rpm/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "SHW",
@@ -822,7 +876,8 @@
   "return_3y_pct": 17.7,
   "return_5y_pct": 5.3,
   "trade_relevance": "Painting, industrial finishing, and protective coating contractors",
-  "market_cap_source": "stockanalysis.com, 2026, https://stockanalysis.com/stocks/shw/statistics"
+  "market_cap_source": "stockanalysis.com, 2026, https://stockanalysis.com/stocks/shw/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "SITE",
@@ -837,7 +892,8 @@
   "return_3y_pct": -39.7,
   "return_5y_pct": -48.4,
   "trade_relevance": "Wholesale distribution of landscape supplies, irrigation, agronomics, hardscapes, outdoor lighting, and nursery products for professional landscaping contractors and skilled trades",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/site/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/site/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "SMG",
@@ -852,7 +908,8 @@
   "return_3y_pct": 21.2,
   "return_5y_pct": -56.2,
   "trade_relevance": "Landscaping, lawn care, turf maintenance, horticulture, and commercial groundskeeping",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/smg"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/smg",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "STRL",
@@ -867,7 +924,8 @@
   "return_3y_pct": 769.2,
   "return_5y_pct": 3019.4,
   "trade_relevance": "Heavy civil engineering, large-scale site preparation, concrete foundation and slab work, electrical infrastructure services, and transportation infrastructure construction.",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/strl/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/strl/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "SUM",
@@ -882,7 +940,8 @@
   "return_3y_pct": null,
   "return_5y_pct": null,
   "trade_relevance": "Aggregates, cement, ready-mix concrete, and asphalt production and supply for masonry, concrete work, paving, and heavy civil construction trades",
-  "market_cap_source": "Robinhood 2025 https://robinhood.com/stocks/SUM"
+  "market_cap_source": "Robinhood 2025 https://robinhood.com/stocks/SUM",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "TGLS",
@@ -897,7 +956,8 @@
   "return_3y_pct": 16,
   "return_5y_pct": 97.8,
   "trade_relevance": "Manufactures, supplies, and installs architectural glass, windows, and aluminum products for glazing trades, window contractors, and commercial/residential builders.",
-  "market_cap_source": "stockanalysis.com 2026 https://stockanalysis.com/stocks/tgls/statistics"
+  "market_cap_source": "stockanalysis.com 2026 https://stockanalysis.com/stocks/tgls/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "TT",
@@ -912,7 +972,8 @@
   "return_3y_pct": 130.7,
   "return_5y_pct": 138.6,
   "trade_relevance": "HVAC (heating, ventilation, and air conditioning), building automation, and transport refrigeration equipment and services",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/tt"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/tt",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "TTC",
@@ -927,7 +988,8 @@
   "return_3y_pct": -7.3,
   "return_5y_pct": -13.7,
   "trade_relevance": "Landscaping, groundskeeping, turf management, professional irrigation, and underground utility construction equipment (Ditch Witch, BOSS, Exmark)",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/ttc/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/ttc/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "TTEK",
@@ -942,7 +1004,8 @@
   "return_3y_pct": -1.6,
   "return_5y_pct": 7.7,
   "trade_relevance": "Provides consulting, engineering, program management, and construction management services for water resources, environmental remediation, sustainable infrastructure, and energy facilities.",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/ttek/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/ttek/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "VMC",
@@ -957,7 +1020,8 @@
   "return_3y_pct": 27.3,
   "return_5y_pct": 49.4,
   "trade_relevance": "Supplies construction aggregates (crushed stone, sand, gravel), asphalt, and ready-mixed concrete for masonry, paving, roadbuilding, and civil construction trades",
-  "market_cap_source": "StockAnalysis 2026 (https://stockanalysis.com/stocks/vmc/statistics/)"
+  "market_cap_source": "StockAnalysis 2026 (https://stockanalysis.com/stocks/vmc/statistics/)",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "WCC",
@@ -972,7 +1036,8 @@
   "return_3y_pct": 104.2,
   "return_5y_pct": 182.5,
   "trade_relevance": "Distributor and supply chain solutions provider serving electrical contractors, telecommunications & security technicians, utility linemen, and industrial MRO skilled trades.",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/wcc"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/wcc",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "WMS",
@@ -987,7 +1052,8 @@
   "return_3y_pct": 10.6,
   "return_5y_pct": 24.2,
   "trade_relevance": "Manufactures and supplies thermoplastic corrugated pipes, leachfield chambers, septic tanks, and water management products for plumbing, drainage, wastewater, and underground utilities contractors.",
-  "market_cap_source": "stockanalysis.com 2026 https://stockanalysis.com/stocks/wms/statistics"
+  "market_cap_source": "stockanalysis.com 2026 https://stockanalysis.com/stocks/wms/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "WSO",
@@ -1002,7 +1068,8 @@
   "return_3y_pct": -0.7,
   "return_5y_pct": 30,
   "trade_relevance": "HVAC/R (Heating, Ventilation, Air Conditioning, and Refrigeration) equipment, parts, and supplies distribution",
-  "market_cap_source": "stockanalysis.com 2026 https://stockanalysis.com/stocks/wso"
+  "market_cap_source": "stockanalysis.com 2026 https://stockanalysis.com/stocks/wso",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "WTS",
@@ -1017,7 +1084,8 @@
   "return_3y_pct": 80.9,
   "return_5y_pct": 99.1,
   "trade_relevance": "Plumbing, HVAC, hydronics, drainage, and water quality and flow control systems",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/wts/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/wts/statistics",
+  "market_cap_source_access": "url"
  },
  {
   "ticker": "ZWS",
@@ -1032,6 +1100,7 @@
   "return_3y_pct": 60.3,
   "return_5y_pct": 62.2,
   "trade_relevance": "Plumbing, water management, drainage, backflow prevention, and water filtration systems for commercial, institutional, and residential applications",
-  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/zws/statistics"
+  "market_cap_source": "StockAnalysis 2026 https://stockanalysis.com/stocks/zws/statistics",
+  "market_cap_source_access": "url"
  }
 ]

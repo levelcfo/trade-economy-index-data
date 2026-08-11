@@ -21,19 +21,17 @@ Every numeric row carries its provenance beside the value:
 
 | column | meaning |
 |---|---|
-| `source` | the citation the figure came from, usually with a URL |
-| `n_sources` | how many INDEPENDENT sources corroborated it |
+| `source` | the citation recorded for the figure |
+| `source_access` | `url`, `citation-text-only`, or `missing` |
+| `research_pass_count` | repeated research review runs, not independent evidence sources |
 | `confidence` | `high-primary` (a government or SEC filing), `high`, `adjudicated` (a model reconciled disagreeing sources), `med`, `low` (single source), or `null` where the figure is prose |
-| `derived` | `true` when the index computed the figure by triangulating sources rather than reading it off one |
+| `derived` | `true` when the index computed the figure by synthesizing cited inputs rather than reading it off one |
 | `shared_across` | how many trade or segment records publish this exact value. Greater than 1 means it is an industry-wide benchmark, not a measurement that distinguishes this trade |
 
-**`confidence` and `n_sources` are independent, and high confidence often means ONE
-source.** Most `high-primary` rows carry `n_sources: 1` on purpose: a figure read
-straight off a BLS release or an SEC filing is not made truer by finding a blog that
-repeats it. Corroboration is what raises a SECONDARY figure's confidence. Read
-`n_sources > 1` as "triangulated across independent publishers" and `high-primary`
-as "taken from the authoritative primary source", and filter on whichever your use
-actually needs.
+**`research_pass_count` describes the research process, not source independence.**
+Several passes can cite the same publisher or evidence family. Use `source_access`
+to distinguish a clickable citation from a text-only citation, then evaluate the
+recorded source directly.
 
 **How each figure is attributed.** Every figure in `research`, `subtrade`,
 `revenue_bands`, `geo_states`, `geo_metros` and `comps` carries its own citation in the row, and a
@@ -54,13 +52,13 @@ read it in the browser) and `.json` (same rows, for code).
 | [`trades`](data/trades.csv) | 13 | a trade, with its AI-Resilience and AI-Leverage subscores |
 | [`research`](data/research.csv) | 1,007 | one figure for one trade on one of ~42 research topics |
 | [`subtrade`](data/subtrade.csv) | 342 | the same, split by residential / commercial / industrial |
-| [`revenue_bands`](data/revenue_bands.csv) | 168 | a unit-economics metric by revenue band (under $1M to $20M+) |
+| [`revenue_bands`](data/revenue_bands.csv) | 167 | a unit-economics metric by revenue band (under $1M to $20M+) |
 | [`geo_states`](data/geo_states.csv) | 650 | a trade in a state: median wage, differential, licensing regime |
 | [`geo_metros`](data/geo_metros.csv) | 650 | a trade in a metro: contractor density, job value, permit trend |
 | [`permits`](data/permits.csv) | 15 | permit volume and job-value percentiles by trade and year |
 | [`comps`](data/comps.csv) | 69 | a public company mapped to the trades it operates in |
 | [`level_benchmarks`](data/level_benchmarks.csv) | 11 | an operating metric as a p10/p25/median/p75/p90 distribution |
-| [`building_stock`](data/building_stock.csv) | 600 | commercial and industrial building age and size by state |
+| [`building_stock`](data/building_stock.csv) | 612 | commercial and industrial building age and size by state |
 
 ### Quick start
 
@@ -71,8 +69,8 @@ RAW = "https://raw.githubusercontent.com/levelcfo/trade-economy-index-data/main/
 trades = pd.read_csv(f"{RAW}/trades.csv")
 research = pd.read_csv(f"{RAW}/research.csv")
 
-# only figures corroborated by more than one independent source
-strong = research[research.n_sources > 1]
+# figures reviewed in more than one research pass
+reviewed = research[research.research_pass_count > 1]
 
 # what does the index say about labor for HVAC, and where did it come from?
 print(research[(research.trade == "hvac") & (research.topic == "wages_detail")]
@@ -114,9 +112,9 @@ Read these before citing.
   state figures in `geo_states` come from different BLS releases, so a national wage
   back-solved from the state differentials will be close to, but not identical to,
   the national figure in `research`.
-- **Sample sizes vary widely** across metrics. `n_sources` and `n` are on every row
-  for exactly this reason. A `low` confidence single-source figure is included and
-  labeled rather than dropped.
+- **Evidence depth varies.** `research_pass_count` is workflow metadata and must not
+  be interpreted as an independent-source count. Check `source` and `source_access`
+  directly. Sample size `n` is separate.
 - **Percentile pools skew to established firms.** The companies in Level's data chose
   to work with a CFO service, which is not a random sample of the trade.
 
