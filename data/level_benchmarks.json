@@ -139,7 +139,7 @@
   "n_unit": "companies",
   "observation_n": null,
   "observation_unit": null,
-  "definition": "Total hours invoiced to customers divided by total hours LOGGED ON JOBS. The denominator is job-assigned hours only, which is why the median is high. This is NOT technician utilization: the industry utilization benchmark (65-80%) divides billable hours by TOTAL PAID hours, including drive time, admin, training, and idle time. Values above 100% occur where overtime hours bill at premium rates. n=963 companies with at least 100 logged hours.",
+  "definition": "Total hours invoiced to customers divided by total hours LOGGED ON JOBS. The denominator is job-assigned hours only, which is why the median is high. This is NOT technician utilization: Level's working range for utilization (65-80%) divides billable hours by TOTAL PAID hours, including drive time, admin, training, and idle time. Values above 100% occur where overtime hours bill at premium rates. n=963 companies with at least 100 logged hours.",
   "basis": "companies with 100+ logged hours",
   "note": "State the denominator whenever this is cited. Without it the figure reads implausible, because readers compare it to utilization, which measures something else. First derived 2026-04-07 as 'billable hour ratio' (median 96.7%, n=654) and re-run to 97.1% on the larger n=963 cohort.",
   "breakdown_json": null,
