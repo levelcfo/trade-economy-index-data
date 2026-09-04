@@ -57,7 +57,7 @@ read it in the browser) and `.json` (same rows, for code).
 | [`geo_metros`](data/geo_metros.csv) | 650 | a trade in a metro: contractor density, job value, permit trend |
 | [`permits`](data/permits.csv) | 15 | permit volume and job-value percentiles by trade and year |
 | [`comps`](data/comps.csv) | 69 | a public company mapped to the trades it operates in |
-| [`level_benchmarks`](data/level_benchmarks.csv) | 11 | an operating metric as a p10/p25/median/p75/p90 distribution |
+| [`level_benchmarks`](data/level_benchmarks.csv) | 19 | an operating metric as a p10/p25/median/p75/p90 distribution |
 | [`building_stock`](data/building_stock.csv) | 612 | commercial and industrial building age and size by state |
 | [`building_revenue`](data/building_revenue.csv) | 12 | a building segment with annual mechanical-contractor revenue and uncertainty fields |
 
@@ -123,12 +123,7 @@ Read these before citing.
 
 Level's own aggregates and the index scores are **CC BY 4.0** ([full text](LICENSE),
 [what it covers](LICENSE-SCOPE.md)), free to quote, download, and reanalyze with
-attribution.
-
-**Required attribution for republication:** Source: [TradesIndex by Level](https://tradesindex.org).
-When republishing the index's original analysis or compilation online, include that
-source line with a clickable link to https://tradesindex.org. Quoting specific wording
-is not required.
+attribution to Level (levelcfo.com).
 
 The `source` columns cite **third-party** publications (BLS, SEC filings, CFMA,
 IBISWorld, trade associations, and others). Those cited figures belong to their
