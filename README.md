@@ -17,6 +17,11 @@ Most industry data about the trades is either a paywalled market report or a ven
 blog post with no sample size. This index publishes the figures with their
 provenance attached, so any number can be audited without leaving the table.
 
+The `comps` table preserves all 69 company records as a historical reference dated
+July 23, 2026. Prices, returns, margins, and valuation multiples are not live quotes
+or current comparisons. Every row carries `current_comparison_eligible: false` and
+its fundamentals period.
+
 Rows in the per-cell provenance tables carry this metadata beside the value:
 
 | column | meaning |
