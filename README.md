@@ -7,6 +7,8 @@ US skilled-trade economics for 13 commercial trades, with per-cell citations whe
 applicable and table-level provenance for derived and aggregate tables: labor,
 market structure, unit economics, cash cycle, AI exposure, geography, and valuation.
 
+Release: **2026.1.7**
+
 Companion site: **[tradesindex.org](https://tradesindex.org)**.
 Also on [Hugging Face](https://huggingface.co/datasets/LevelCFO/trade-economy-index).
 Published by [Level](https://levelcfo.com).
@@ -55,7 +57,7 @@ read it in the browser) and `.json` (same rows, for code).
 | table | rows | one row is |
 |---|---|---|
 | [`trades`](data/trades.csv) | 13 | a trade, with its AI-Resilience and AI-Leverage subscores |
-| [`research`](data/research.csv) | 988 | one figure for one trade on one of ~42 research topics |
+| [`research`](data/research.csv) | 958 | one figure for one trade on one of ~42 research topics |
 | [`subtrade`](data/subtrade.csv) | 342 | the same, split by residential / commercial / industrial |
 | [`revenue_bands`](data/revenue_bands.csv) | 167 | a unit-economics metric by revenue band (under $1M to $20M+) |
 | [`geo_states`](data/geo_states.csv) | 650 | a trade in a state: median wage, differential, licensing regime |

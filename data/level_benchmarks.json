@@ -16,13 +16,13 @@
   "observation_unit": null,
   "definition": "Gross margin on recurring service-agreement (maintenance) revenue. n=259 companies with at least $10K in SA revenue.",
   "basis": "contractors analyzed",
-  "note": "Contractors below 25% are typically underpricing SAs or not capturing maintenance pull-through.",
+  "note": "Below 25% calls for a cost and scope review. Pricing, covered work, cost allocation and customer mix are candidate explanations; the distribution does not identify a cause.",
   "breakdown_json": null,
   "source": "The Level Index (contractor benchmark research)",
   "source_url": "https://levelcfo.com/data/benchmarks/contractor.json",
   "source_access": "citation-text-only",
   "publisher": "Level",
-  "dataset_updated": "2026-Q3"
+  "dataset_updated": "2026-10-07"
  },
  {
   "metric": "sa_pull_through_pct",
@@ -41,13 +41,13 @@
   "observation_unit": null,
   "definition": "Additional repair, replacement, and project revenue from service-agreement customers divided by annual service-agreement revenue. n=386 eligible companies.",
   "basis": "386 companies with eligible annual agreement and follow-on revenue",
-  "note": "P90 includes relationship-driven project work attributed to service-agreement accounts, not only work discovered during maintenance visits. P75 is the more realistic operating comparison. Company-level records are not published because the underlying roster is re-identifiable; this public file exposes only the aggregate distribution.",
+  "note": "P90 includes relationship-driven project work attributed to service-agreement accounts, not only work discovered during maintenance visits. P75 is a distribution comparison point, not a proven attainable target. Company-level records are not published because the underlying roster is re-identifiable; this public file exposes only the aggregate distribution.",
   "breakdown_json": null,
   "source": "The Level Index (contractor benchmark research)",
   "source_url": "https://levelcfo.com/data/benchmarks/contractor.json",
   "source_access": "citation-text-only",
   "publisher": "Level",
-  "dataset_updated": "2026-Q3"
+  "dataset_updated": "2026-10-07"
  },
  {
   "metric": "sa_rev_per_employee_k",
@@ -72,7 +72,7 @@
   "source_url": "https://levelcfo.com/data/benchmarks/contractor.json",
   "source_access": "citation-text-only",
   "publisher": "Level",
-  "dataset_updated": "2026-Q3"
+  "dataset_updated": "2026-10-07"
  },
  {
   "metric": "collection_rate_pct",
@@ -91,13 +91,13 @@
   "observation_unit": null,
   "definition": "Cash collected as a share of billed revenue.",
   "basis": "464 contractors analyzed",
-  "note": "The gap between 85% and 96% is real cash: on $5M of billings, ~$550K sitting uncollected.",
+  "note": "A collection-rate difference describes billed revenue not converted to cash in the comparison. It is not automatically point-in-time A/R, recoverable cash, permanent loss or recurring profit. Reconcile invoice aging, credits and cutoff timing.",
   "breakdown_json": null,
   "source": "The Level Index (contractor benchmark research)",
   "source_url": "https://levelcfo.com/data/benchmarks/contractor.json",
   "source_access": "citation-text-only",
   "publisher": "Level",
-  "dataset_updated": "2026-Q3"
+  "dataset_updated": "2026-10-07"
  },
  {
   "metric": "billing_speed_days",
@@ -122,7 +122,7 @@
   "source_url": "https://levelcfo.com/data/benchmarks/contractor.json",
   "source_access": "citation-text-only",
   "publisher": "Level",
-  "dataset_updated": "2026-Q3"
+  "dataset_updated": "2026-10-07"
  },
  {
   "metric": "billing_capture_pct",
@@ -139,7 +139,7 @@
   "n_unit": "companies",
   "observation_n": null,
   "observation_unit": null,
-  "definition": "Total hours invoiced to customers divided by total hours LOGGED ON JOBS. The denominator is job-assigned hours only, which is why the median is high. This is NOT technician utilization: Level's working range for utilization (65-80%) divides billable hours by TOTAL PAID hours, including drive time, admin, training, and idle time. Values above 100% occur where overtime hours bill at premium rates. n=963 companies with at least 100 logged hours.",
+  "definition": "Total hours invoiced to customers divided by total hours LOGGED ON JOBS. The denominator is job-assigned hours only, which is why the median is high. This is NOT technician utilization: Level's working range for utilization (65-80%) divides billable hours by TOTAL PAID hours, including drive time, admin, training, and idle time. Some recorded ratios exceed 100%; their causes are not measured here. Check billed-hour units, period alignment, job matching and logging completeness. A higher dollar rate alone does not increase an hours ratio. n=963 companies with at least 100 logged hours.",
   "basis": "companies with 100+ logged hours",
   "note": "State the denominator whenever this is cited. Without it the figure reads implausible, because readers compare it to utilization, which measures something else. First derived 2026-04-07 as 'billable hour ratio' (median 96.7%, n=654) and re-run to 97.1% on the larger n=963 cohort.",
   "breakdown_json": null,
@@ -147,7 +147,7 @@
   "source_url": "https://levelcfo.com/data/benchmarks/contractor.json",
   "source_access": "citation-text-only",
   "publisher": "Level",
-  "dataset_updated": "2026-Q3"
+  "dataset_updated": "2026-10-07"
  },
  {
   "metric": "quote_conversion_pct",
@@ -166,13 +166,13 @@
   "observation_unit": null,
   "definition": "Won divided by (won + lost); excludes still-pending quotes. n=794 companies with at least 20 decided quotes. Distinct from all-quote conversion below.",
   "basis": null,
-  "note": "Quotes that sit >7 days convert at roughly half the rate of quotes sent within 24 hours.",
+  "note": "Won divided by won plus lost for eligible decided quotes. Pending, draft and cancelled records are excluded. This distribution does not measure estimating effort or prove a conversion lift from a follow-up cadence.",
   "breakdown_json": null,
   "source": "The Level Index (contractor benchmark research)",
   "source_url": "https://levelcfo.com/data/benchmarks/contractor.json",
   "source_access": "citation-text-only",
   "publisher": "Level",
-  "dataset_updated": "2026-Q3"
+  "dataset_updated": "2026-10-07"
  },
  {
   "metric": "avg_bill_rate_usd_hr",
@@ -189,7 +189,7 @@
   "n_unit": "companies",
   "observation_n": null,
   "observation_unit": null,
-  "definition": "Company-level average billed labor rate across 1,770 contractors. The underlying rate-card field is used inconsistently, with some companies entering customer billing rates and others entering loaded cost or base wage, so the distribution is strongest as a market-positioning comparison.",
+  "definition": "Company-level average billed labor rate across 1,770 contractors. The underlying rate-card field is used inconsistently, with some companies entering customer billing rates and others entering loaded cost or base wage, so this distribution describes mixed source fields, not independently comparable customer selling prices, wages or profitability.",
   "basis": "1,770 companies with a calculated average billed labor rate",
   "note": "These are labor-component rates per technician hour, not the total customer invoice after trip charges, materials, equipment, and overhead markup.",
   "breakdown_json": null,
@@ -197,7 +197,7 @@
   "source_url": "https://levelcfo.com/data/benchmarks/contractor.json",
   "source_access": "citation-text-only",
   "publisher": "Level",
-  "dataset_updated": "2026-Q3"
+  "dataset_updated": "2026-10-07"
  },
  {
   "metric": "quote_conversion_all_pct",
@@ -216,13 +216,13 @@
   "observation_unit": null,
   "definition": "Won divided by all quotes issued, including quotes that never reach a decision.",
   "basis": "companies with 20+ quotes",
-  "note": "Roughly 62% of total quoting effort produces zero revenue.",
+  "note": "Won divided by all issued quotes includes pending opportunities and differs from decided conversion. Quote counts do not measure estimating hours, quote value or permanent lost revenue.",
   "breakdown_json": null,
   "source": "The Level Index (contractor benchmark research)",
   "source_url": "https://levelcfo.com/data/benchmarks/contractor.json",
   "source_access": "citation-text-only",
   "publisher": "Level",
-  "dataset_updated": "2026-Q3"
+  "dataset_updated": "2026-10-07"
  },
  {
   "metric": "days_to_convert",
@@ -241,13 +241,13 @@
   "observation_unit": null,
   "definition": "Days from quote sent to accepted, for quotes that convert.",
   "basis": null,
-  "note": "Winning quotes close fast; speed-to-decision is the strongest leading indicator.",
+  "note": "Recorded winning quotes have shorter decision/status intervals in this aggregate. Predictive strength and causal effects were not tested.",
   "breakdown_json": null,
   "source": "The Level Index (contractor benchmark research)",
   "source_url": "https://levelcfo.com/data/benchmarks/contractor.json",
   "source_access": "citation-text-only",
   "publisher": "Level",
-  "dataset_updated": "2026-Q3"
+  "dataset_updated": "2026-10-07"
  },
  {
   "metric": "days_to_loss",
@@ -266,13 +266,13 @@
   "observation_unit": null,
   "definition": "Days from quote sent to marked lost, for quotes that do not convert.",
   "basis": null,
-  "note": "Half of lost quotes linger past 30 days before anyone marks them dead.",
+  "note": "The median recorded days-to-loss is 29; customer decision timing and status-update lag are not separated.",
   "breakdown_json": null,
   "source": "The Level Index (contractor benchmark research)",
   "source_url": "https://levelcfo.com/data/benchmarks/contractor.json",
   "source_access": "citation-text-only",
   "publisher": "Level",
-  "dataset_updated": "2026-Q3"
+  "dataset_updated": "2026-10-07"
  },
  {
   "metric": "customer_concentration_top1_pct",
@@ -297,7 +297,7 @@
   "source_url": "https://levelcfo.com/data/benchmarks/contractor.json",
   "source_access": "citation-text-only",
   "publisher": "Level",
-  "dataset_updated": "2026-Q3"
+  "dataset_updated": "2026-10-07"
  },
  {
   "metric": "job_gross_margin_pct",
@@ -322,7 +322,7 @@
   "source_url": "https://levelcfo.com/data/benchmarks/contractor.json",
   "source_access": "citation-text-only",
   "publisher": "Level",
-  "dataset_updated": "2026-Q3"
+  "dataset_updated": "2026-10-07"
  },
  {
   "metric": "labor_hours_actual_vs_budget_pct",
@@ -341,13 +341,13 @@
   "observation_unit": "jobs with budgeted and actual hours",
   "definition": "Actual labor hours ÷ budgeted labor hours per job. 100% = on budget; >100% = over. Measured across 315,393 jobs from 1,391 companies (Athena verification 2026-07-25).",
   "basis": "jobs with both budgeted and actual hours",
-  "note": "Median job lands on budget (99.4%) but the mean is 119%, dragged up by the ~18% of jobs that exceed 150% of budget. Labor-hour overruns are the single largest margin killer; 40% of jobs exceed their hour budget.",
+  "note": "Actual labor hours divided by budgeted hours. The median and mean differ because the distribution has a long tail. This is an hours ratio, not dollar cost; actual wage, overtime, burden, scope and posting completeness determine contribution effects.",
   "breakdown_json": null,
   "source": "The Level Index (contractor benchmark research)",
   "source_url": "https://levelcfo.com/data/benchmarks/contractor.json",
   "source_access": "citation-text-only",
   "publisher": "Level",
-  "dataset_updated": "2026-Q3"
+  "dataset_updated": "2026-10-07"
  },
  {
   "metric": "revenue_mix_labor_share_pct",
@@ -366,13 +366,13 @@
   "observation_unit": null,
   "definition": "Labor as a share of quoted revenue (vs materials, equipment, subs). Median contractor is ~29% labor / ~33% materials, but variance is extreme. NOTE: sample size unverified. The prior n=430 was copied from another metric; this is measured on quoted revenue (quote-line data), not job_stats, so a job-level reproduction does not apply. Do not publish a sample size until re-derived.",
   "basis": "quote line items (sample size unverified)",
-  "note": "Labor-heavy contractors run higher margins but hit capacity limits; materials-heavy run lower margins but scale better.",
+  "note": "Revenue-mix distributions describe reported labor, materials, membership and equipment shares. They do not establish a margin, capacity or scalability effect.",
   "breakdown_json": null,
   "source": "The Level Index (contractor benchmark research)",
   "source_url": "https://levelcfo.com/data/benchmarks/contractor.json",
   "source_access": "citation-text-only",
   "publisher": "Level",
-  "dataset_updated": "2026-Q3"
+  "dataset_updated": "2026-10-07"
  },
  {
   "metric": "job_closeout_days",
@@ -389,7 +389,7 @@
   "n_unit": null,
   "observation_n": 555,
   "observation_unit": "completed jobs",
-  "definition": "Days from work complete to job financially closed out. Cash sits on the table while closeout lags.",
+  "definition": "Days from work complete to recorded financial job closeout. This status interval does not establish invoice or cash-collection timing.",
   "basis": "completed jobs",
   "note": null,
   "breakdown_json": null,
@@ -397,7 +397,7 @@
   "source_url": "https://levelcfo.com/data/benchmarks/contractor.json",
   "source_access": "citation-text-only",
   "publisher": "Level",
-  "dataset_updated": "2026-Q3"
+  "dataset_updated": "2026-10-07"
  },
  {
   "metric": "seasonality_top3_months_pct",
@@ -416,13 +416,13 @@
   "observation_unit": null,
   "definition": "Share of annual revenue earned in the three strongest months.",
   "basis": "companies with >$500K revenue",
-  "note": "The median contractor earns ~47% of annual revenue in just 3 months; Q4 (Dec/Oct) dominates peaks.",
+  "note": "The median recorded revenue share in the three largest months is about 47%. Reported peak-month counts and cutoff windows require separate interpretation; no universal quarter pattern is established.",
   "breakdown_json": null,
   "source": "The Level Index (contractor benchmark research)",
   "source_url": "https://levelcfo.com/data/benchmarks/contractor.json",
   "source_access": "citation-text-only",
   "publisher": "Level",
-  "dataset_updated": "2026-Q3"
+  "dataset_updated": "2026-10-07"
  },
  {
   "metric": "quote_line_margin_by_cost_type_pct",
@@ -441,13 +441,13 @@
   "observation_unit": "quote line items",
   "definition": "Gross margin on quoted work, split by cost type (labor, materials, equipment, subcontractor), measured across 2.2M+ quote line items. Labor is the highest-margin cost type; subcontractor pass-through is the thinnest.",
   "basis": "2.2M+ quote line items",
-  "note": "Labor carries ~47.7% margin vs ~31.5% on materials, 25.5% on equipment, and 23.6% on subcontracted work. Revenue mix toward labor (service, maintenance) drives higher blended margin than equipment- or sub-heavy work.",
+  "note": "Recorded quote-line margin medians differ by cost type: labor 47.7%, materials 31.5%, equipment 25.5%, and subcontracted work 23.6%. These are quoted line-item observations, not realized job margins. They do not establish that changing service mix causes higher company profit; match selling prices, actual costs and the full job mix before drawing that conclusion.",
   "breakdown_json": "{\"labor\":47.7,\"materials\":31.5,\"equipment\":25.5,\"subcontractor\":23.6}",
   "source": "The Level Index (contractor benchmark research)",
   "source_url": "https://levelcfo.com/data/benchmarks/contractor.json",
   "source_access": "citation-text-only",
   "publisher": "Level",
-  "dataset_updated": "2026-Q3"
+  "dataset_updated": "2026-10-07"
  },
  {
   "metric": "bill_rate_by_role_usd_hr",
@@ -464,14 +464,14 @@
   "n_unit": null,
   "observation_n": 18000,
   "observation_unit": "tracked employees",
-  "definition": "Median rate-card rate by field role across 18,000+ tracked employees. The rate-card field is used inconsistently (some enter customer billing rates, others loaded cost or base wage), so read the spread between roles rather than the absolute level. Company-level avg bill rate median is $79/hr (n=1,770).",
+  "definition": "Median rate-card rate by field role across 18,000+ tracked employees. The rate-card field is used inconsistently (some enter customer billing rates, others loaded cost or base wage), so neither the absolute level nor the spread establishes role-level pricing, wages or profitability without matching how each entry was used. Company-level avg bill rate median is $79/hr (n=1,770).",
   "basis": "18,000+ field employees with tracked rate-card data",
-  "note": "The apprentice-to-journeyman jump (about $39 to $76) is the sharpest step in the ladder; journeymen carry the widest spread over loaded wage.",
+  "note": "The largest single recorded step is technician to journeyman (about $54 to $76 in the mixed rate-card field). Wage, loaded cost and selling-price definitions are mixed; no spread over wage can be computed from this field.",
   "breakdown_json": "{\"helper\":34,\"apprentice\":39,\"technician\":54,\"journeyman\":76,\"mechanic\":75}",
   "source": "The Level Index (contractor benchmark research)",
   "source_url": "https://levelcfo.com/data/benchmarks/contractor.json",
   "source_access": "citation-text-only",
   "publisher": "Level",
-  "dataset_updated": "2026-Q3"
+  "dataset_updated": "2026-10-07"
  }
 ]
