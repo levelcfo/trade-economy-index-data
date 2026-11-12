@@ -44,8 +44,8 @@ recorded source directly.
 `revenue_bands`, `geo_states`, `geo_metros` and `comps` carry their own citation where applicable,
 and a gate refuses to publish a substantive value without its declared provenance. The remaining tables are attributed at the TABLE level
 rather than per cell, because their figures are not third-party quotations: `trades` holds index
-scores computed from the published methodology, `level_benchmarks` holds Level's own measured
-percentile distributions, and `permits` and `building_stock` are aggregations of public permit and
+scores computed from the published methodology, `level_benchmarks` and `building_revenue` hold Level's own measured
+percentile distributions and anonymized mechanical-contractor building analysis, and `permits` and `building_stock` are aggregations of public permit and
 county tax-assessor records. Those provenance statements are in this card and on
 [the methodology page](https://tradesindex.org/methodology/), not in a per-row column.
 

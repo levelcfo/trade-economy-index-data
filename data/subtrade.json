@@ -4114,7 +4114,7 @@
   "segment": "commercial",
   "topic": "cash_cycle_detail",
   "field": "dpo_days",
-  "value_num": 32.099999999999994,
+  "value_num": 32.1,
   "value_text": null,
   "source": "Trade Economy Index research synthesis: median of 2 cited research inputs: CFMA 2025 Construction Financial Benchmarker (2025), https://cfma.org/benchmarker | Concrete Pumping Holdings, Inc. Form 10-K for Fiscal Year Ended October 31, 2024, U.S. Securities and Exchange Commission, 2025, https://www.sec.gov/edgar/browse/?CIK=0001703956",
   "source_access": "url",

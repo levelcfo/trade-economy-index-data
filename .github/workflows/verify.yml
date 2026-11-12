@@ -41,8 +41,9 @@ jobs:
             'research': [('value_num', 'source')],
             'subtrade': [('value_num', 'source')],
             'revenue_bands': [('value', 'source')],
-            'geo_states': [('median_hourly_wage_usd', 'median_wage_source')],
+            'geo_states': [('median_hourly_wage_usd', 'median_wage_source'), ('wage_differential_vs_national_pct', 'median_wage_source')],
             'geo_metros': [('median_job_value_usd', 'job_value_source')],
+            'comps': [('price', 'market_cap_source'), ('market_cap_billions', 'market_cap_source'), ('revenue_billions', 'market_cap_source')],
           }
           bad = []
           for name, pairs in PAIRS.items():
